@@ -1,0 +1,11 @@
+﻿namespace Wingjoy.Framework.Runtime
+{
+    public partial class Core : CoreInternal
+    {
+        public override void Start()
+        {
+            InitCustomComponents();
+            base.Start();
+        }
+    }
+}

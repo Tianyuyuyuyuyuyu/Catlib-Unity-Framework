@@ -57,34 +57,34 @@ namespace Wingjoy.Git
 
         #region 工具栏菜单项
 
-        [MenuItem("Wingjoy/Framework/Git/CommitAll _F4", false, 0)]
+        [MenuItem("Tools/Git/CommitAll _F4", false, 0)]
         public static async void CommitAll()
         {
             await EditorUtilities.Terminal.ProcessCommandAsync("TortoiseGitProc.exe", "/command:commit /path:" + "Assets*Packages*ProjectSettings" + " /closeonend:0");
         }
 
-        [MenuItem("Wingjoy/Framework/Git/Fetch _F5", false, 1)]
+        [MenuItem("Tools/Git/Fetch _F5", false, 1)]
         public static async void Fetch()
         {
             await EditorUtilities.Terminal.ProcessCommandAsync("TortoiseGitProc.exe", "/command:fetch" + " /closeonend:0");
             AssetDatabase.Refresh();
         }
 
-        [MenuItem("Wingjoy/Framework/Git/PushAll _F6", false, 1)]
+        [MenuItem("Tools/Git/PushAll _F6", false, 1)]
         public static async void PushAll()
         {
             await EditorUtilities.Terminal.ProcessCommandAsync("TortoiseGitProc.exe", "/command:push /path:" + Application.dataPath + " /closeonend:0");
             AssetDatabase.Refresh();
         }
 
-        [MenuItem("Wingjoy/Framework/Git/PullAll _F7", false, 1)]
+        [MenuItem("Tools/Git/PullAll _F7", false, 1)]
         public static async void PullAll()
         {
             await EditorUtilities.Terminal.ProcessCommandAsync("TortoiseGitProc.exe", "/command:pull /path:" + Application.dataPath + " /closeonend:0");
             AssetDatabase.Refresh();
         }
 
-        [MenuItem("Wingjoy/Framework/Git/Switch _F8", false, 1)]
+        [MenuItem("Tools/Git/Switch _F8", false, 1)]
         public static async void Switch()
         {
             await EditorUtilities.Terminal.ProcessCommandAsync("TortoiseGitProc.exe", "/command:switch /path:" + Application.dataPath + " /closeonend:0");

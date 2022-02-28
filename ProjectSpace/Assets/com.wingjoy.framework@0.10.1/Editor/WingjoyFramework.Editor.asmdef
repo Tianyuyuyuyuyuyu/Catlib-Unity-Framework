@@ -1,12 +1,11 @@
 {
     "name": "WinjoyFramework.Editor",
+    "rootNamespace": "",
     "references": [
         "GUID:4bd8eb24984687e4795d582733df535d",
         "GUID:9e24947de15b9834991c9d8411ea37cf",
         "GUID:69448af7b92c7f342b298e06a37122aa",
         "GUID:478a2357cc57436488a56e564b08d223",
-        "GUID:84a10da1206b9054e802c2ce42aa63ef",
-        "GUID:2b40f86f432ea3e4496235afe54f4917",
         "GUID:7a1fa966b0ea23f40a6a4dc4dab1e297",
         "GUID:dfe1ed40df2b95347b410091d5b5d765",
         "GUID:85b1def00900aef41b1bda86c5fe408d",

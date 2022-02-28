@@ -1,0 +1,127 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Student
+  serializedVersion: 2
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 2
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: c7d408032e2a7e54483f72101c1ede6f, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 28e356004dc98c8468a5369093c9d4e2, type: 3}
+  - {fileID: 21300000, guid: 4c569520d04e70c4b8e2ac1557588c36, type: 3}
+  - {fileID: 21300000, guid: 39219640dec94ba40946ae54f7146e3c, type: 3}
+  - {fileID: 21300000, guid: 6d6558716d84e384dbaf0c802aef922c, type: 3}
+  - {fileID: 21300000, guid: 4977aab117830c24f849081f2b5b1206, type: 3}
+  - {fileID: 21300000, guid: bff147d155160be4e9d9b2ae26326c2e, type: 3}
+  - {fileID: 21300000, guid: 0d205642eff58594a8dd0689c8eb0108, type: 3}
+  - {fileID: 21300000, guid: 87106eb2e06c6274496e653f683fe95c, type: 3}
+  - {fileID: 21300000, guid: 3dd30533c6fecd74cb5ec3b42e4cf2d4, type: 3}
+  - {fileID: 21300000, guid: de7ee443e67df7c42908917298990e40, type: 3}
+  - {fileID: 21300000, guid: 923221c3542462743beffdfaf6e426eb, type: 3}
+  - {fileID: 21300000, guid: d7e8c4c342c1d5b4fa2a1526ee7ffbfc, type: 3}
+  - {fileID: 21300000, guid: 93e487e396d613f4b8bd86e272b88ade, type: 3}
+  - {fileID: 21300000, guid: c68a2324548e38a44a700c9f4d525204, type: 3}
+  - {fileID: 21300000, guid: ca1f4154f0a5cdf4592eaf4cac970f23, type: 3}
+  - {fileID: 21300000, guid: 402c05640cd62784e8d7b178c046ae9a, type: 3}
+  - {fileID: 21300000, guid: 93fd44d4773b60e4d92ed3183859fc6c, type: 3}
+  - {fileID: 21300000, guid: 930754b6918bde84eb1bed2b6efa419e, type: 3}
+  - {fileID: 21300000, guid: 5cf3d43848ad85742b3ff5ab218b39f5, type: 3}
+  - {fileID: 21300000, guid: 5ea2dfa8986f71344892eb2968d50ef0, type: 3}
+  - {fileID: 21300000, guid: d2083fc8cbb76244a94182ea5690ee4f, type: 3}
+  - {fileID: 21300000, guid: 6d1ab3190783e6f4ea13f9510f962be3, type: 3}
+  - {fileID: 21300000, guid: b2a02c3ab67c998448778c4d801b71de, type: 3}
+  - {fileID: 21300000, guid: e25e744a251c34745bfaa6fd54d0c64f, type: 3}
+  - {fileID: 21300000, guid: 5fd0236a4c3cd5742ba75c9fb5843725, type: 3}
+  - {fileID: 21300000, guid: 29fc406bf1861454d942e6776ef1f733, type: 3}
+  - {fileID: 21300000, guid: 4600ba6bb87fbdf4d896f153bdca1f69, type: 3}
+  - {fileID: 21300000, guid: 225b1d8b830af2044b508428c08b4c43, type: 3}
+  - {fileID: 21300000, guid: 75ec335c44466504dae27cbc4ccd48d8, type: 3}
+  - {fileID: 21300000, guid: badc581d938a37249a51b2e44ce3047f, type: 3}
+  - {fileID: 21300000, guid: 4d846d1d06ba9f542877742d58678ba3, type: 3}
+  - {fileID: 21300000, guid: ce5cde4da47a1a54ba6f1d5b0a60d8f0, type: 3}
+  - {fileID: 21300000, guid: 3e6fb42e81302414e8e92b88c075b6ac, type: 3}
+  - {fileID: 21300000, guid: 243fcdae0e823bd468f2474e52d9b4ac, type: 3}
+  - {fileID: 21300000, guid: 9f7e294f2fe4f3244aa40c27228090a8, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Img_ClassActivities_Subject
+  - Img_Student_Buckle
+  - button_occupation_student_DropOut
+  - UniversityActivities_Title2
+  - button_occupation_student_ClassActivities_RestudyBg
+  - Bg_occupation_student_studentcard
+  - Img_Studet_eraser
+  - UniversityActivities_Frame 1
+  - Img_student_BookFinishBg
+  - University_StudentCardBackground
+  - UniversityActivities_Title3
+  - img_Unread
+  - Img_student_BookBg
+  - Bg_occupation_student_Panel
+  - Img_occupation_student_background
+  - button_occupation_student_ClassActivities_confirm
+  - University_Chart
+  - Bg_occupation_student_Results Panel
+  - University_PhotoFrame
+  - Img_Student_Pen
+  - UniversityActivities_Frame
+  - Img_student_BookFailBg
+  - Honor_SplitLline
+  - Img_occupation_LongButton
+  - UniversityActivities_Review
+  - University_GeneralOption
+  - button_occupation_student_implement
+  - UniversityActivities_Background
+  - Img_occupation_student_Backlog
+  - img_ShowHonor_title
+  - UniversityActivities_Title
+  - Img_StudyCareer_Desk
+  - UniversityActivities_Options2
+  - img_ShowHonor_bg
+  - UniversityActivities_Review 1
+  m_RenderDataMap: {}
+  m_Tag: Student
+  m_IsVariant: 0
+  m_IsPlaceholder: 0

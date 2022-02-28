@@ -1,0 +1,131 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Bank
+  serializedVersion: 2
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: f02b94011474b4e498244039969e2e92, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: e3dd7bb0224750141a42d90c09bca8d5, type: 3}
+  - {fileID: 21300000, guid: a1426f01885995444ac867564a53715e, type: 3}
+  - {fileID: 21300000, guid: 3c859b5277d106f45b96dc77ca608d5f, type: 3}
+  - {fileID: 21300000, guid: ad1bb8721b7bd5443a6822158fc8f6f8, type: 3}
+  - {fileID: 21300000, guid: 9525e18250d30db438a0c2e7044a75cf, type: 3}
+  - {fileID: 21300000, guid: 7d10c1e2d4ca2774f8d9d0af5e796ae9, type: 3}
+  - {fileID: 21300000, guid: 0f4e2c4397d33364a8d940a4ba82c01e, type: 3}
+  - {fileID: 21300000, guid: 36802e6348786144fa66a8eb63a6bdff, type: 3}
+  - {fileID: 21300000, guid: 05d52af3985cda54f8a3b26dca77a345, type: 3}
+  - {fileID: 21300000, guid: 115faf65271c02643966947d9061e015, type: 3}
+  - {fileID: 21300000, guid: 48f4f706682ec4d47ac334f714d3ccb9, type: 3}
+  - {fileID: 21300000, guid: 5b4c33e6716fb60438fd32840e2e00ff, type: 3}
+  - {fileID: 21300000, guid: a94f94273d167c041b9db87f3fc28608, type: 3}
+  - {fileID: 21300000, guid: 819b6547388da0a48a481ab1c7176e47, type: 3}
+  - {fileID: 21300000, guid: 4cd53e77583af1942a2af3dbfa5a9928, type: 3}
+  - {fileID: 21300000, guid: eea2049712f13d94c80e8a18e6a4b434, type: 3}
+  - {fileID: 21300000, guid: 8293c0a782973d24c9ee1530e53205a0, type: 3}
+  - {fileID: 21300000, guid: 0504a9c740f0abd4c8ae2accc12d58b0, type: 3}
+  - {fileID: 21300000, guid: b8549f48685b1b148a5299d118b2febf, type: 3}
+  - {fileID: 21300000, guid: 7eca479915a300348964fae972c5ef8a, type: 3}
+  - {fileID: 21300000, guid: ff90756ada5662645a0b325fec797dce, type: 3}
+  - {fileID: 21300000, guid: 7ca208fa83e7d864eae377e0d9a591f8, type: 3}
+  - {fileID: 21300000, guid: 1542920b2b3f8c0418e736e5b235d2cc, type: 3}
+  - {fileID: 21300000, guid: 46d3d62bba13e5f428d4759812e1deaf, type: 3}
+  - {fileID: 21300000, guid: 92cf4b2b0c608844cadf33e705335d7c, type: 3}
+  - {fileID: 21300000, guid: fbda835b15f1e814aa2bdaf85cb07e55, type: 3}
+  - {fileID: 21300000, guid: c85a2deb434733545929936b75b2914a, type: 3}
+  - {fileID: 21300000, guid: b34232fb588f8f148bb03239415f14ac, type: 3}
+  - {fileID: 21300000, guid: a24f48fb9e669d14cabb4412e1344a41, type: 3}
+  - {fileID: 21300000, guid: 3cff9f0ced1e5e741b512fd4bb5e976d, type: 3}
+  - {fileID: 21300000, guid: 99b2eb5c38f83d247b58460f6e3b60d0, type: 3}
+  - {fileID: 21300000, guid: b6dcd11e729ef954992526999e2c97d2, type: 3}
+  - {fileID: 21300000, guid: 9e46100f00f2ce4429fa3f33ecfe07be, type: 3}
+  - {fileID: 21300000, guid: 3cb1d95f352f6094499c173d2456590a, type: 3}
+  - {fileID: 21300000, guid: 1f53237fd5b0eb74b9fdf0bf621b4727, type: 3}
+  - {fileID: 21300000, guid: d21fd28f14b86d64d889a3c0285ac7e7, type: 3}
+  - {fileID: 21300000, guid: 2ff7788fe19007f41b4510e990687870, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Financial_Text4
+  - FondInfoBackground
+  - Img_Bank_SwitchNext
+  - Img_Bank_Drop-downMenu_DownArrow
+  - Img_BankLoan_DropDownBg
+  - Img_BankLoan_DropDownArrow
+  - Img_BankLoan_ChooseKuang
+  - Financial_StockOption
+  - BorrowPayBack_Title
+  - BorrowPayBack_Option1
+  - Financial_Long1
+  - Borrowing_Chart
+  - Financial_Red
+  - Img_BankWindow_GeneralTitleBg
+  - Img_BankWindow_GeneralTitleBg1.png
+  - Bg_Bank_SharesPanel
+  - Borrowing_Background
+  - Financial_Text3
+  - Financial_Text5
+  - Img_Bank_Circle
+  - BorrowPayBack_WordsBackground2
+  - Img_Bank_SwitchPrevious
+  - Img_StockFondsItem_Tag
+  - Img_Bank_SmallPanel
+  - Financial_Text2
+  - Img_Bank_Drop-downMenu_UpArrow
+  - Financial_StockOption2
+  - Financial_Background
+  - Img_BankLoan_Line
+  - Financial_Red2
+  - Img_BankLoan_MidBg
+  - Img_Bank_Drop-downMenu_BasicsPanel
+  - Bg_Bank_SharesUpDown
+  - Img_Bank_Drop-downMenu_ExcessPanel
+  - Img_BankGeneral_SecWindowBg
+  - Financial_Text1
+  - Img_StockMarketWindow_Bg
+  m_RenderDataMap: {}
+  m_Tag: Bank
+  m_IsVariant: 0
+  m_IsPlaceholder: 0

@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: RelaInteraction
+  serializedVersion: 2
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 69f026f24d198d5428f8f4a26a612abe, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 6409e02144141fb4d99cbd7abe2052e6, type: 3}
+  - {fileID: 21300000, guid: f8c42531cc82e4340b3709feaea474aa, type: 3}
+  - {fileID: 21300000, guid: cfb953e122ea0c849b7e0c56711d587e, type: 3}
+  - {fileID: 21300000, guid: ddf23d2453af5a6489a5b12132613657, type: 3}
+  - {fileID: 21300000, guid: c42541942e7eb0243b9aae5cb3a78307, type: 3}
+  - {fileID: 21300000, guid: 2273b6451beb23045a7f78e060ee017f, type: 3}
+  - {fileID: 21300000, guid: 756bc75622b97f1488748939f1e36491, type: 3}
+  - {fileID: 21300000, guid: a506e2d9ec258c64f93dc15c0f52036d, type: 3}
+  - {fileID: 21300000, guid: 2706dfead13c71341bb3a8ab2ac7f54a, type: 3}
+  - {fileID: 21300000, guid: 5da8756b42c907140a7e24df346afc90, type: 3}
+  - {fileID: 21300000, guid: 8906a22c869e10c49a947e6f967347fc, type: 3}
+  - {fileID: 21300000, guid: 6b8eb38c4695a034383faacc433ce8fe, type: 3}
+  - {fileID: 21300000, guid: 4e7f39cc59263894eaf80ccaa9ee6b4c, type: 3}
+  - {fileID: 21300000, guid: 70d092fc063bb9d48a5f7b8c2db03b5c, type: 3}
+  - {fileID: 21300000, guid: b373c11d33a2498419e3179bf0957c27, type: 3}
+  - {fileID: 21300000, guid: 94d1672db0f2c57488cd792beea9bf25, type: 3}
+  - {fileID: 21300000, guid: 7831460ea40ab4c40ae160ca82460ec3, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Button_RelationshipInteractionPanel_LongButton
+  - Button_RelationshipInteractionPanel_Attribute
+  - Img-TrainItemChoosed
+  - Bg_RelationshipInteractionPanel_Panel
+  - Img_Wedding_ChooseBtnBg2
+  - Img_TrainThingBg
+  - Img_Wedding_PlanBg
+  - Button_TrainItemBg
+  - Img_TrainItem_Kuang
+  - Img_Wedding_ChooseBtnBg3
+  - Img_Wedding_ChooseBtnBg
+  - Img_Wedding_PlanBg2
+  - Img_Wedding_TitleFlower
+  - Img_TrainItem_time
+  - Button_AdBg
+  - Img_RelationshipInteractionPanel_ModelRegion
+  - Img_Wedding_PlanBg3
+  m_RenderDataMap: {}
+  m_Tag: RelaInteraction
+  m_IsVariant: 0
+  m_IsPlaceholder: 0

@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: TombstoneCrystalBall
+  serializedVersion: 2
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: b3385083169b8ba4089ceda121f83664, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 146876a2abdfd674fb67774a997b1775, type: 3}
+  - {fileID: 21300000, guid: 85df2275fdb3428489348ad6e110fb8d, type: 3}
+  - {fileID: 21300000, guid: 01df3fc56a85abb41a59b5a0016db06f, type: 3}
+  - {fileID: 21300000, guid: cbb9b326647e2cc44bc7bcf630559f42, type: 3}
+  - {fileID: 21300000, guid: d98852c613074ea4890ef04aab5f7666, type: 3}
+  - {fileID: 21300000, guid: f02d1427fc1e27d458fcfb77143a3272, type: 3}
+  - {fileID: 21300000, guid: f63f2b4787897d94f837781632ebc354, type: 3}
+  - {fileID: 21300000, guid: 9ee3d8f7837c70242ae111388212e763, type: 3}
+  - {fileID: 21300000, guid: 72255f0f7275f91458debf65d8703636, type: 3}
+  - {fileID: 21300000, guid: ad4c015f8220b3d4abc1f1c7859bac1f, type: 3}
+  - {fileID: 21300000, guid: 0a9a6ddf943050c4680ad00da2669d74, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Img_CrystalExperience_BG2
+  - Img_CrystalBall_Horizontal2
+  - Img_CrystalExperience_WordsBG2
+  - icon_CrystalBall_Close
+  - Img_CrystalExperience_Option
+  - Img_CrystalExperience_WordsBG1
+  - Img_CrystalBall_Information
+  - Img_CrystalBall_Name
+  - Img_CrystalBall_Horizontal1
+  - Img_CrystalExperience_BG1
+  - Img_CrystalExperience_WordsBG3
+  m_RenderDataMap: {}
+  m_Tag: TombstoneCrystalBall
+  m_IsVariant: 0
+  m_IsPlaceholder: 0

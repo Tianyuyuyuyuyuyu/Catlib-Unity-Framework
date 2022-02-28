@@ -1,0 +1,109 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Relationship
+  serializedVersion: 2
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: a226cbd9e50d6a4488faa147f2d32112, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: bc0d4690c1a25974cbab32d2d75b75fd, type: 3}
+  - {fileID: 21300000, guid: e1217ea1222239e4bb4bdbf09c0786d9, type: 3}
+  - {fileID: 21300000, guid: feb8a342fb4a9ee41be35d258378d45d, type: 3}
+  - {fileID: 21300000, guid: 95007684a226de04eb8c19cb01233e20, type: 3}
+  - {fileID: 21300000, guid: 55389c8483724b7459398f100fe09dfa, type: 3}
+  - {fileID: 21300000, guid: 8823e6a4abec337498f6eee5eb845b95, type: 3}
+  - {fileID: 21300000, guid: ccb16ca478746fb4b9e3e721ceb6dd39, type: 3}
+  - {fileID: 21300000, guid: d8d0c315887443941a8c8e276a27ace8, type: 3}
+  - {fileID: 21300000, guid: 72d3fb15ff52e3f4891776ba213906a0, type: 3}
+  - {fileID: 21300000, guid: c23dbdb5092c3b749bc2bae991ff45cb, type: 3}
+  - {fileID: 21300000, guid: 07f5e426726c7e947ac2e21e2c8478e9, type: 3}
+  - {fileID: 21300000, guid: 215053b63ea88374cb672d2ad953a68c, type: 3}
+  - {fileID: 21300000, guid: c77865c695eaed8469cebfcbd81c1e99, type: 3}
+  - {fileID: 21300000, guid: 2524c9c6eee70d4449a4a65b24148553, type: 3}
+  - {fileID: 21300000, guid: 05c52fe7fdc4c2342bc058d518c27793, type: 3}
+  - {fileID: 21300000, guid: bf056c38c24bb1747bd6833b2fbc57f0, type: 3}
+  - {fileID: 21300000, guid: a76e8d48af994ce4882d9467d42e67c5, type: 3}
+  - {fileID: 21300000, guid: 37ef13b8eef510e45930c9596a02e2f6, type: 3}
+  - {fileID: 21300000, guid: bf301c39720c1ea4aa1ca2eb2815e160, type: 3}
+  - {fileID: 21300000, guid: 1279eb9954fb43d40bb937ce865eb238, type: 3}
+  - {fileID: 21300000, guid: b0cc233c569a2664086a53ffe2814bb0, type: 3}
+  - {fileID: 21300000, guid: cb74864ca4252d24abfa99ec693bf17c, type: 3}
+  - {fileID: 21300000, guid: b873d1dc71fe26d4780af91dc10f8429, type: 3}
+  - {fileID: 21300000, guid: fb0c430d929a1da4a92d77d21dde0d18, type: 3}
+  - {fileID: 21300000, guid: 5b2b8c5d003e94142951ad13ed4eebec, type: 3}
+  - {fileID: 21300000, guid: 16db1dbdf26a3eb4da8e600a71cfd4b1, type: 3}
+  - {fileID: 21300000, guid: e46b27dd064c7f44e96e94ca7047d536, type: 3}
+  - {fileID: 21300000, guid: 56deef0ee2a7ac34398a7c1e2eed330a, type: 3}
+  - {fileID: 21300000, guid: f274554efcfae464aa44ceb8dccf9f68, type: 3}
+  - {fileID: 21300000, guid: caa1399e16f0f70468735584b3f0be62, type: 3}
+  - {fileID: 21300000, guid: a482e4ae12b7c6f4ba9b8a1cdde440cb, type: 3}
+  - {fileID: 21300000, guid: 5f6c0eee72c396246be3d33aed83c4d0, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Img_Relationship_ApplationBg
+  - Button_RelationshipPanel_dependents
+  - Img_PropertyInfo_DownBg
+  - Img_RelationshipPanel_ModelRegion
+  - Bg_RelationshipPanel_Panel
+  - HpUIMask
+  - Img_PropertyInfo_Other
+  - Button_RelationshipPanel_friends_Dark
+  - Bg_RelationshipPanel_TexItem
+  - Button_RelationshipPanel_relatives_Dark
+  - Img_PropertyInfo_LongBg
+  - Img_PropertyInfo_ShortBg
+  - Img_Relationship_NameBg
+  - Img_RelationshipPanel_ScrollBg
+  - Img_PropertyInfo_Other1
+  - Img_Relationship_ModelRegionFlower
+  - Img_ReturnButtonDecorate
+  - Button_RelationshipPanel_relatives
+  - Img_RelationshipPanel_InformationBackground
+  - Img_TravelMask
+  - Img_RelationshipPanel_HeadCircle
+  - Button_RelationshipPanel_Pets
+  - Img_PropertyFavorTag
+  - Img_Relationship_InformationBg
+  - Img_PropertyFavorBg
+  - Button_RelationshipPanel_Pets_Dark
+  - Img_Relationship_FavoriteBg
+  - Button_RelationshipPanel_friends
+  - Img_RelaInteract_PropertyState
+  - Button_RelationshipPanel_dependents_Dark
+  - Img_PropertyInfo_NameBg
+  - Img_PropertyInfo_ModelBg
+  m_RenderDataMap: {}
+  m_Tag: Relationship
+  m_IsVariant: 0
+  m_IsPlaceholder: 0

@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: RealEstate
+  serializedVersion: 2
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: bee06b50f4742454e9f931ae5e2f3c89, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 459b8c014c101e944b96db2a6a3f24be, type: 3}
+  - {fileID: 21300000, guid: 58db6e710c82cc447bad3b83ccb962a2, type: 3}
+  - {fileID: 21300000, guid: 94e38df1ebd43714a8bcfb8ed766d4eb, type: 3}
+  - {fileID: 21300000, guid: 4561d054da3e9904fba8eb5a88e71d6e, type: 3}
+  - {fileID: 21300000, guid: 96d25064186cd5d4eba9a24b3c0d2e11, type: 3}
+  - {fileID: 21300000, guid: b40911057e709ae4cae242413ceee1af, type: 3}
+  - {fileID: 21300000, guid: 42cc65852cdf8414393684c3a9a75f98, type: 3}
+  - {fileID: 21300000, guid: 897c9eb66d3ede142b3f0657dfbca2e6, type: 3}
+  - {fileID: 21300000, guid: 09e84d3719f1f3644a1625863f86e774, type: 3}
+  - {fileID: 21300000, guid: 104b6538b4f59e240a46b736963e99b4, type: 3}
+  - {fileID: 21300000, guid: 696f2e880d6cab845a008d10fdac05e4, type: 3}
+  - {fileID: 21300000, guid: 3b64affca41be084087247f517bf012a, type: 3}
+  - {fileID: 21300000, guid: 002b7c1d9ea955a4e8fce1d3981326d6, type: 3}
+  - {fileID: 21300000, guid: 4257f8bdbfc4c354784e2d29619d6717, type: 3}
+  - {fileID: 21300000, guid: 2c12b1ef595d13943997cbcfdb306f05, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - House_Background
+  - Img_LoanWayIcon
+  - Img_PaywayChoosed.png
+  - Img_RealEstateWindow_EstateIntroBg
+  - Img_RealSetateWindow_Flower
+  - Img_Realestate_InfoBg
+  - Img_CashWayIcon
+  - Img_PaywayKuang
+  - Img_RealestatePayway_kuang2
+  - Img_RealestatePayway_Background2
+  - Img_BankCardWayIcon
+  - Img_RealEstateWindow_EstateBg
+  - Img_ChoosePaywayTitleBg
+  - Img_RealestatePayway_Background
+  - Img_FamilyPropertyWayIcon
+  m_RenderDataMap: {}
+  m_Tag: RealEstate
+  m_IsVariant: 0
+  m_IsPlaceholder: 0

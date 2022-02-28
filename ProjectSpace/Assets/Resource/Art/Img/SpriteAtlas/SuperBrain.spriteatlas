@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SuperBrain
+  serializedVersion: 2
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 1024
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: ddbd226786e107d458d463274f2a785d, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: c0841850cd78ef74eb30edbd3be7f309, type: 3}
+  - {fileID: 21300000, guid: 72d25e505087cc046850a315df711dae, type: 3}
+  - {fileID: 21300000, guid: 49cffad005008134ab9d95d40b352c83, type: 3}
+  - {fileID: 21300000, guid: 12dbd77184857174a938097f4cf8b241, type: 3}
+  - {fileID: 21300000, guid: ce2e89917cec82740bb30d561b5c636d, type: 3}
+  - {fileID: 21300000, guid: 824b5a32727082545990c34445f628cd, type: 3}
+  - {fileID: 21300000, guid: d0b92c47a7dd9b444a3fa92c2dc96512, type: 3}
+  - {fileID: 21300000, guid: 984a5d38e9fcede418b77176ecdf3d68, type: 3}
+  - {fileID: 21300000, guid: 3a6f663bdcc72ac47936122d44cfe8bb, type: 3}
+  - {fileID: 21300000, guid: 971bb5bb179d7704db0c7d33d76295de, type: 3}
+  - {fileID: 21300000, guid: 43df562ce49abcf42a15811d2d4eab94, type: 3}
+  - {fileID: 21300000, guid: 44a1bb9ebd39b3941ade669863f6bf77, type: 3}
+  - {fileID: 21300000, guid: 63c434ee0a1e84f42b7f6f45c6b69b3a, type: 3}
+  - {fileID: 21300000, guid: 0e9d491f4519c0b48ad63982f435ff0b, type: 3}
+  - {fileID: 21300000, guid: 68cc924fe44cd2c46b7ebbef1aa80691, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Img_SuperBrain_Timer
+  - Img_SuperBrain_SmallKuang
+  - Img_SuperBrain_MigSign
+  - Img_SuperBrain_TimerSlider
+  - Img_SuperBrain_SmallPersonBg
+  - Img_SuperBrain_AnswerPlate
+  - Img_SuperBrain_MigPersonBg
+  - Img_SuperBrain_GreenLight
+  - Img_SuperBrain_SmallAnswering
+  - Img_SuperBrain_Leave
+  - Img_SuperBrainAnswerBg
+  - Img_SuperBrain_SmallSign
+  - Img_SuperBrain_BlackLabel
+  - Img_SuperBrain_MidKuang
+  - Img_SuperBrain_Eliminate
+  m_RenderDataMap: {}
+  m_Tag: SuperBrain
+  m_IsVariant: 0
+  m_IsPlaceholder: 0

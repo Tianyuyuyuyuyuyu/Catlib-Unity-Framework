@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: HighExam
+  serializedVersion: 2
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 1024
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: bb602baae8782734490fda23d02feab8, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: da5ed041f36e7e644a8d0b98354e4ec4, type: 3}
+  - {fileID: 21300000, guid: ccc4f7d13514cd34998ba54ca5575c27, type: 3}
+  - {fileID: 21300000, guid: 99c6f01357d0e9e418da69c81784920a, type: 3}
+  - {fileID: 21300000, guid: 1486f0c397507384aa2eadd92d4ee8b9, type: 3}
+  - {fileID: 21300000, guid: 344255360e8058f4a8674d8ea2c8dce6, type: 3}
+  - {fileID: 21300000, guid: 1e66c4e95ae577041bfe68b29f64e55f, type: 3}
+  - {fileID: 21300000, guid: fd724e8b419e435439f6657894881c00, type: 3}
+  - {fileID: 21300000, guid: 307509ab155521a42ad8939cb04a5cfc, type: 3}
+  - {fileID: 21300000, guid: db6de30ca65f53340b9be8b266b6bef0, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Img_HighExamination_Correct
+  - icon_HighExaminationChooseRight
+  - Img_HighExamination_Option_Empty
+  - Bg_HighExamination_Panel
+  - Bg_HighExamination_ProgressBar_Bottom
+  - Img_HighExamination_Option_Select
+  - Bg_HighExamination_ WordsUnderline
+  - Button_HighExamination
+  - Img_HighExaminationLine
+  m_RenderDataMap: {}
+  m_Tag: HighExam
+  m_IsVariant: 0
+  m_IsPlaceholder: 0

@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: TombstoneTape
+  serializedVersion: 2
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 0000ad7aa4dbb7642a91b2e5d656cc48, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 5c9c4a60e8ed7f949a94421011cf46ba, type: 3}
+  - {fileID: 21300000, guid: 2234b872cc7bb8a4198c00e93342890b, type: 3}
+  - {fileID: 21300000, guid: 3fada9d2b4587bf42b83737199a74bbb, type: 3}
+  - {fileID: 21300000, guid: 676eb8b36e1c75c4cac338d8d86e8987, type: 3}
+  - {fileID: 21300000, guid: 0f106864936171d4b8f124ff58b6d827, type: 3}
+  - {fileID: 21300000, guid: d1bac194fab797f45b860f3ccc350aaf, type: 3}
+  - {fileID: 21300000, guid: 86292ef4d137693409340b89743bbec8, type: 3}
+  - {fileID: 21300000, guid: 4b62d076a2d045949820d82799594c5f, type: 3}
+  - {fileID: 21300000, guid: 3f9493dba78969141b32181c76fde471, type: 3}
+  - {fileID: 21300000, guid: 9d7ddfcedfa1c9b45bc4237054ebc7f4, type: 3}
+  - {fileID: 21300000, guid: 7ddfe8ee018455b40a3a57b787ddf0a2, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - img_Tape_Line
+  - img_Tape_Close
+  - Img_TapeExperience_WordsBG2
+  - img_Tape_slider
+  - img_Tape_headBox
+  - Img_TapeExperience_WordsBG1
+  - Img_TapeExperience_Option
+  - Img_TapeExperience_BG
+  - img_Tape_sliderBg
+  - Img_TapeExperience_WordsBG3
+  - img_Tape_Review
+  m_RenderDataMap: {}
+  m_Tag: TombstoneTape
+  m_IsVariant: 0
+  m_IsPlaceholder: 0

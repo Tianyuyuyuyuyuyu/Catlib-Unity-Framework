@@ -1,0 +1,121 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Farm
+  serializedVersion: 2
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: f19f60128cb7b72409b49a93b13c0b5f, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: d5f0ec005063acc4da92045bf3822130, type: 3}
+  - {fileID: 21300000, guid: ec256410349a44d43b93668aaeb5766c, type: 3}
+  - {fileID: 21300000, guid: 694002408d8f3b647ac7064b2f15593e, type: 3}
+  - {fileID: 21300000, guid: 77e0c541a11bbcf4a9419d3e536887d6, type: 3}
+  - {fileID: 21300000, guid: 4e3244c18683a604f8dc36af5ac6c84d, type: 3}
+  - {fileID: 21300000, guid: 839958827f870a4438a637b93432ce1e, type: 3}
+  - {fileID: 21300000, guid: d5effae2ef6ddca4fbdb586d1e1bb3a0, type: 3}
+  - {fileID: 21300000, guid: a8b4d603da6afdf44894c79be6411d7d, type: 3}
+  - {fileID: 21300000, guid: 7830ac13c7658fc49837ba00fc1ac86d, type: 3}
+  - {fileID: 21300000, guid: f4e02663e1c685b4f91ea3401d5621b1, type: 3}
+  - {fileID: 21300000, guid: 5b411bd368537cb4e83e6499964b7b69, type: 3}
+  - {fileID: 21300000, guid: 6dfc92e38ad74d84b8f69d0abdeadb00, type: 3}
+  - {fileID: 21300000, guid: 05e0cd1449030cf46a4d54242a95d68e, type: 3}
+  - {fileID: 21300000, guid: 88c192940451f314da57ba521758e374, type: 3}
+  - {fileID: 21300000, guid: fa16f0b41ad35804787fb2f054320dfb, type: 3}
+  - {fileID: 21300000, guid: ae7bcab421186c54f9f7d3bb7abd2804, type: 3}
+  - {fileID: 21300000, guid: a7621455fd67eff47b199edd38ef04fd, type: 3}
+  - {fileID: 21300000, guid: a30bd86503b281a49bdd8662d41877e8, type: 3}
+  - {fileID: 21300000, guid: a903cde5499eb434fbfcc030b206f61b, type: 3}
+  - {fileID: 21300000, guid: 0bd09427bdd5caf4e9cb5be9061090b8, type: 3}
+  - {fileID: 21300000, guid: 660f1267ce1d68d418c03813843e709c, type: 3}
+  - {fileID: 21300000, guid: fb0bad68e1db2f749ae8e0e350b2da23, type: 3}
+  - {fileID: 21300000, guid: fd8681a9279294c4681211cbb068aad3, type: 3}
+  - {fileID: 21300000, guid: 372b138ad5d4f864d85dbde607ed1b57, type: 3}
+  - {fileID: 21300000, guid: 6dc3f8daba962f546ae8f87924d10ce4, type: 3}
+  - {fileID: 21300000, guid: 714c8ada027cbff4d8e93bc51e9f630f, type: 3}
+  - {fileID: 21300000, guid: 656fbceac1897014e9915d2769b825a6, type: 3}
+  - {fileID: 21300000, guid: 52cd293c3d5a102438c2d08fe368e1d3, type: 3}
+  - {fileID: 21300000, guid: ea2f407c7f765a747acda2a046827190, type: 3}
+  - {fileID: 21300000, guid: 3daa4c8c328210748add6acbdcca064e, type: 3}
+  - {fileID: 21300000, guid: 07af1cbc38154314f9b7be5a7588fcf2, type: 3}
+  - {fileID: 21300000, guid: 67dfb7dc0a2865242b0f191e3c906577, type: 3}
+  - {fileID: 21300000, guid: 9b9cc77dd66cdcf4eb8cd32681beed55, type: 3}
+  - {fileID: 21300000, guid: f49323ddfe4aaf14f95403a8c76676d0, type: 3}
+  - {fileID: 21300000, guid: 6738c14eb6df28a488e6c53f453cf62b, type: 3}
+  - {fileID: 21300000, guid: a6d829ae4dc6b3c4a9863d90274c1b9f, type: 3}
+  - {fileID: 21300000, guid: 72afdccf4f3108e4289001931dbacf57, type: 3}
+  - {fileID: 21300000, guid: 793717df675a6144c85fe46c76fd2975, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Img_CropsOder_Sign
+  - Img_CropsOrder_TogSelect
+  - Img_Farm1_Image2
+  - Img_Stall_StorageRack
+  - Img_Warehouse_Background2
+  - Img_FarmUpgrade_ScrollBars2
+  - icon_StallBackground
+  - icon_Farm1Image
+  - Img_Cropland_Option4
+  - icon_Farm1Horizontal1
+  - button_Cropland_details_Modify
+  - Img_Cropland_Option1
+  - Img_Cropland_Background5
+  - Img_Farm1_label2
+  - Img_Cropland_Background3
+  - Img_Cropland_Background2
+  - Img_Cropland_Warning
+  - Icon_FarmUpgrade_Seed
+  - Img_CropsOrder_TogBg
+  - Img_Farm1_Image3
+  - Img_Cropland_Background4
+  - icon_StallUpperArrow
+  - Img_Warehouse_Background1
+  - Img_Warehouse_Background4
+  - Img_Warehouse_Background3
+  - Img_Farm1_label3
+  - icon_StallDashed
+  - Img_Cropland_Option3
+  - Img_Cropland_Option2
+  - Img_FarmUpgrade_ScrollBars1
+  - icon_Farm1label
+  - Img_Warehouse_Option1
+  - Img_Farm1_label
+  - icon_Farm1Background
+  - icon_StallDownArrow
+  - Icon_Cropland_ClearDay
+  - Img_Cropland_Background1
+  - icon_Farm1Horizontal2
+  m_RenderDataMap: {}
+  m_Tag: Farm
+  m_IsVariant: 0
+  m_IsPlaceholder: 0

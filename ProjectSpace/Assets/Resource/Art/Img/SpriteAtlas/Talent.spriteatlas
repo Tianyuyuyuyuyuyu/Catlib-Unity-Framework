@@ -1,0 +1,121 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Talent
+  serializedVersion: 2
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 2d543ed2977b0a9449394566295de819, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: c1878330d055bfe4fa1ecb5a4fcd70cc, type: 3}
+  - {fileID: 21300000, guid: b77fc860fb0da1041812d081e8cc687c, type: 3}
+  - {fileID: 21300000, guid: 531f632147406cb498730d079b48b6da, type: 3}
+  - {fileID: 21300000, guid: bc2823d1eb395ed4599b27b62dc4aa30, type: 3}
+  - {fileID: 21300000, guid: 6447ecf1da73062489a2efc8f402aac1, type: 3}
+  - {fileID: 21300000, guid: 77c2f81207856294da700db679f38285, type: 3}
+  - {fileID: 21300000, guid: 25b11823905fe2e449cf591283d58b63, type: 3}
+  - {fileID: 21300000, guid: 1c6605b3734d51b49982e8fdeb4abb1a, type: 3}
+  - {fileID: 21300000, guid: 78bbceb34c341f248ac334a77c04683e, type: 3}
+  - {fileID: 21300000, guid: 458c61c39b83d7548a81dcd31b3b9681, type: 3}
+  - {fileID: 21300000, guid: 3532b724b4ecec24f9af1407975fafeb, type: 3}
+  - {fileID: 21300000, guid: 5924dda4624416247b683e2eaf613889, type: 3}
+  - {fileID: 21300000, guid: 5b09dae5159a2f24680c45f4907d1352, type: 3}
+  - {fileID: 21300000, guid: 27420e76a9c82c04698945abfbefd405, type: 3}
+  - {fileID: 21300000, guid: 08fa8e9658f05c14caadaacaac2f2806, type: 3}
+  - {fileID: 21300000, guid: ba51c2a6042df32429ed5042db11cfdc, type: 3}
+  - {fileID: 21300000, guid: 85ae09d6eb91d9045bbc481d690d9b6a, type: 3}
+  - {fileID: 21300000, guid: 6d50fa27bf28d65439e281f01527c5f2, type: 3}
+  - {fileID: 21300000, guid: 333ee397686fb634f9e46efb9beedf52, type: 3}
+  - {fileID: 21300000, guid: f9fb9897adabdca4e820f8644a5bb037, type: 3}
+  - {fileID: 21300000, guid: 788d66b7b647b0d4bbb9695d2a9ded28, type: 3}
+  - {fileID: 21300000, guid: 291b8bb766ff2cd4896b099a3e96e13c, type: 3}
+  - {fileID: 21300000, guid: 0fed2638269194d488fa1f5fc59bea23, type: 3}
+  - {fileID: 21300000, guid: 97ecaba80eae3fe44b291400538e2948, type: 3}
+  - {fileID: 21300000, guid: 8e44e9c93331f094eb861e28a9383b50, type: 3}
+  - {fileID: 21300000, guid: 3088bdba1a4c811479a5cccd1b12f896, type: 3}
+  - {fileID: 21300000, guid: 6606881bba7d478478dfabb173273129, type: 3}
+  - {fileID: 21300000, guid: 0f6ea12b53fb8c843b3ff33de2664d5e, type: 3}
+  - {fileID: 21300000, guid: 78a27a8b2a0ce234ab257cfbd1b92f0e, type: 3}
+  - {fileID: 21300000, guid: f4b1a19bc2cdcb348a14dc1747d97b0d, type: 3}
+  - {fileID: 21300000, guid: b978a2ab22169594d89741da244816cf, type: 3}
+  - {fileID: 21300000, guid: a25d960cb33df6d48a3cabee888dde63, type: 3}
+  - {fileID: 21300000, guid: 1c12edad1b9586b438dacb0956b3ad9a, type: 3}
+  - {fileID: 21300000, guid: 8df5386eed1b242438053e4212c12f39, type: 3}
+  - {fileID: 21300000, guid: 9aaf7b1fb8783a4488069d69a295a55d, type: 3}
+  - {fileID: 21300000, guid: b307385f19c82b347b19ad48e3c42e37, type: 3}
+  - {fileID: 21300000, guid: 897cdd9f3d08d5845804fb2ba84591a8, type: 3}
+  - {fileID: 21300000, guid: 4be29eaf30ac0df4397390f937efdc10, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Img_LifeTalent_Title
+  - Img_Prophecy_Star
+  - Img_ChangeOverTalent_Light
+  - Img_Talent_StarTitle2
+  - Img_ChangeOverTalent_Option2
+  - Img_Talent_StarTitle1
+  - Img_Talent_Title2
+  - Img_LifeTalent_Background2
+  - Img_Prophecy_Background2
+  - Img_Astrolabe_2
+  - Img_Talent_StarTitle4
+  - Img_Talent_Option2
+  - Img_Talent_Background3
+  - Img_Astrolabe_3
+  - Img_LifeTalent_Background1
+  - Img_Prophecy_Title
+  - Img_Talent_Title1
+  - Img_Talent_Option3
+  - Img_Prophecy_Option2
+  - Img_LifeTalent_WordsBackground1
+  - Img_Prophecy_WordsBackground2
+  - Img_Talent_Background
+  - Img_LifeTalent_Option1
+  - Img_Talent_Exclamation
+  - Img_LifeTalent_WordsBackground2
+  - Img_ChangeOverTalent_Option1
+  - Img_Prophecy_WordsBackground3
+  - Img_Talent_ScrollBar
+  - Img_Astrolabe_1
+  - Img_Prophecy_Option1
+  - Img_Prophecy_Add
+  - Img_Prophecy_Option3
+  - Img_ChangeOverTalent_No
+  - Img_Talent_StarTitle3
+  - Img_ChangeOverTalent_Background
+  - Img_Talent_Background(2)
+  - Img_Talent_Option1
+  - Img_Prophecy_WordsBackground1
+  m_RenderDataMap: {}
+  m_Tag: Talent
+  m_IsVariant: 0
+  m_IsPlaceholder: 0

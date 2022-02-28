@@ -1,0 +1,93 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: VillageMarket
+  serializedVersion: 2
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 1024
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: a09fe9befad12e7438bea6876c0a92f1, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 470e8c515d65edc4f907eaad422d4c00, type: 3}
+  - {fileID: 21300000, guid: 86f86161ca6c36f4abe93dec0d4656a8, type: 3}
+  - {fileID: 21300000, guid: 7b42e1d30ef65654a9f09da4da28a387, type: 3}
+  - {fileID: 21300000, guid: 1b5723768e2459b42a4f26c926a4bcb7, type: 3}
+  - {fileID: 21300000, guid: c4a38db6ee9b03746912829b6c17a99b, type: 3}
+  - {fileID: 21300000, guid: 29b8d2e6389cd024192a8b0ac1d08351, type: 3}
+  - {fileID: 21300000, guid: 667c8be641ac5034da63afda311fa003, type: 3}
+  - {fileID: 21300000, guid: 5dce97d738f5052479cea804e098ab63, type: 3}
+  - {fileID: 21300000, guid: 1732ede7daff72e48b06788bb03fcb44, type: 3}
+  - {fileID: 21300000, guid: 3430b6585d6403840974c7b99cafbd99, type: 3}
+  - {fileID: 21300000, guid: 097d72e8273283748a2eef614a456863, type: 3}
+  - {fileID: 21300000, guid: a456a5f940662994b8714175676adfd8, type: 3}
+  - {fileID: 21300000, guid: 29ef6a7a6ff5573438bd106eeecb5cfb, type: 3}
+  - {fileID: 21300000, guid: f3ff97ea4e6dca0418f45d1cda2803ce, type: 3}
+  - {fileID: 21300000, guid: 942a854c26d938e4e81f5fcce9bcbc17, type: 3}
+  - {fileID: 21300000, guid: 3a28212dc89225045af3a9843e850211, type: 3}
+  - {fileID: 21300000, guid: da16741edd7861c43aef5582b51b384c, type: 3}
+  - {fileID: 21300000, guid: 80f360fef98f92c4291a6207ea14ff04, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - icon_OrdersUnderline
+  - icon_AcquisitionImage
+  - icon_AcquisitionSellBackground
+  - icon_GuidancePane
+  - icon_GuidanceMarketStallsBackground
+  - icon_AcquisitionChoose
+  - icon_GuidanceShortStrip
+  - icon_GuidanceMarketBemandBackground
+  - icon_OrdersBackground
+  - icon_GuidanceLongStrip
+  - icon_AcquisitionRedDot
+  - icon_GuidancePureColor
+  - icon_AcquisitionItemsBackground
+  - icon_AcquisitionSell
+  - icon_AcquisitionRadStrip
+  - icon_OrdersQuestionMark
+  - icon_AcquisitionSelectDone
+  - icon_OrdersItemsDemand
+  m_RenderDataMap: {}
+  m_Tag: VillageMarket
+  m_IsVariant: 0
+  m_IsPlaceholder: 0

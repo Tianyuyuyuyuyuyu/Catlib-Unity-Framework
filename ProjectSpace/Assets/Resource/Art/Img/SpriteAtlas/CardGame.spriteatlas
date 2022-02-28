@@ -1,0 +1,119 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: CardGame
+  serializedVersion: 2
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 70333b3098412cf4fa38c4cd06b9f83d, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 1861bd00baf2d53448a0468e4274c7ba, type: 3}
+  - {fileID: 21300000, guid: 83c7c7e1a03666f47999c848e115729c, type: 3}
+  - {fileID: 21300000, guid: 5d5feef1bd717564ba690765d27ca727, type: 3}
+  - {fileID: 21300000, guid: e4cdf76237c5ebf46a79b6e418a9099b, type: 3}
+  - {fileID: 21300000, guid: 7117a803277c85346a8a3045b18b5dc2, type: 3}
+  - {fileID: 21300000, guid: d7a69b140c7805d4dbbb52a965591581, type: 3}
+  - {fileID: 21300000, guid: 52a5e544beb508b4e8e226625e506d92, type: 3}
+  - {fileID: 21300000, guid: ec499ba4a9353344d847b36d2133e03f, type: 3}
+  - {fileID: 21300000, guid: ff0e2aa5e0f6d544fb1756fc5b1dbfe4, type: 3}
+  - {fileID: 21300000, guid: 42b40be5810cb104f92e8921bb1d9b79, type: 3}
+  - {fileID: 21300000, guid: 4bceafe51ac0ac44b9539d6d4ace79e6, type: 3}
+  - {fileID: 21300000, guid: 97b503b649e8e5a448c1dcab4dd22d03, type: 3}
+  - {fileID: 21300000, guid: 79e408c6cd53de040b7d008061fd611f, type: 3}
+  - {fileID: 21300000, guid: 19b54fe670086b94fb35918dc3f44111, type: 3}
+  - {fileID: 21300000, guid: a9ae5917c79b34943aed8bb9d8136d55, type: 3}
+  - {fileID: 21300000, guid: 8201df2705b004d4890614285dba7c58, type: 3}
+  - {fileID: 21300000, guid: ea29e2770727afb4087b40026f1b55c3, type: 3}
+  - {fileID: 21300000, guid: c791619746790f9489af21baafef7d54, type: 3}
+  - {fileID: 21300000, guid: 9ebe7509d79b4be468c7e16031ddec59, type: 3}
+  - {fileID: 21300000, guid: 50d95f492ffa65f44ba366ff57f60c54, type: 3}
+  - {fileID: 21300000, guid: bccc445946c16be4eb2ba035d277b09c, type: 3}
+  - {fileID: 21300000, guid: f3718d5a37e0e384483fdab837fb0d87, type: 3}
+  - {fileID: 21300000, guid: c18ecf4b552707b4c976fc40f8c1bd80, type: 3}
+  - {fileID: 21300000, guid: 2e03027b29d2e884b8afc02d9a0016f8, type: 3}
+  - {fileID: 21300000, guid: b5fb924c295e4484fb00bdae85ff2a5a, type: 3}
+  - {fileID: 21300000, guid: 2ec3075c30d33144c8e5bd13bab9149a, type: 3}
+  - {fileID: 21300000, guid: cd8e04bc435abe148868544054dea080, type: 3}
+  - {fileID: 21300000, guid: 7e4861dc75d41aa4cb5f45bee9201f35, type: 3}
+  - {fileID: 21300000, guid: 246830ad67f974d43b8218e073146b93, type: 3}
+  - {fileID: 21300000, guid: 4094c00e09427e6428bb7ade7a7d8093, type: 3}
+  - {fileID: 21300000, guid: 5b7b456e22eb32542a32a3b87440d477, type: 3}
+  - {fileID: 21300000, guid: d756a87e9a3e6084f80aad72a11bd2fc, type: 3}
+  - {fileID: 21300000, guid: 00ed009e103a83a4796f8573ccc9e1c8, type: 3}
+  - {fileID: 21300000, guid: 108b12de62d2ee34bb374f79ddfd5924, type: 3}
+  - {fileID: 21300000, guid: 05d9f1ee6a90b564eb99d6144027959d, type: 3}
+  - {fileID: 21300000, guid: 3bf335fe2fec4774b99761efe2fc8bd5, type: 3}
+  - {fileID: 21300000, guid: 3f64d4ffb56d80c488384904e778d311, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Img_CardTablee_Background
+  - Img_PlayCard_VS
+  - Img_CardTablee_Bice
+  - Img_CardTablee_Coin
+  - Img_CardTablee_Surrender
+  - Img_PlayCard_Option3
+  - Img_CardTablee_Buff
+  - Img_PlayCard_Option4
+  - Img_CardTablee_No
+  - Img_CardTablee_Horizontal2
+  - Img_CardTablee_SetUp
+  - Img_CardTablee_RedBackground
+  - Img_PlayCard_Player1
+  - Img_CardTablee_Blue
+  - Img_CardTablee_Red
+  - Img_CardTablee_BlueBloodBackground
+  - Img_PlayCard_Background2
+  - Img_PlayCard_Option2
+  - Img_CardTablee_BlueBackground2
+  - Img_CardTablee_BlueBackground
+  - Img_CardBook_Option
+  - Img_CardStorage_Sell
+  - Img_PlayCard_Option1
+  - Img_PlayCard_Black
+  - Img_CardTablee_Destination
+  - Img_CardTablee_CoinBackground
+  - Img_CardTablee_Light
+  - Img_CardTablee_RedBloodBackground
+  - Img_CardTablee_Fire
+  - Img_CardTablee_Horizontal1
+  - Img_CardTablee_RedBlood
+  - Img_CardTablee_BlueBlood
+  - Img_PlayCard_Player2
+  - Img_CardTablee_Horizontal3
+  - Img_PlayCard_Background3
+  - Img_CardTablee_RedBackground2
+  - Img_PlayCard_Background1
+  m_RenderDataMap: {}
+  m_Tag: CardGame
+  m_IsVariant: 0
+  m_IsPlaceholder: 0

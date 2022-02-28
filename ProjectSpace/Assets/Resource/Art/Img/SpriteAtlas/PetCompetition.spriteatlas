@@ -1,0 +1,157 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: PetCompetition
+  serializedVersion: 2
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 5daab928e1c3b274fae8819605d80301, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 4e3c8c1047fff1046b43b4bbbf5ba7ca, type: 3}
+  - {fileID: 21300000, guid: 435a6040988763949b38a8d4668a3c20, type: 3}
+  - {fileID: 21300000, guid: edfab340c5cc5f040abb07e826877345, type: 3}
+  - {fileID: 21300000, guid: 9fb85360130ac374f8383ed12c9e627c, type: 3}
+  - {fileID: 21300000, guid: 3cb6407013e765d48a38e60537780bcf, type: 3}
+  - {fileID: 21300000, guid: 44fd737003ba9b04996d1d20174179a5, type: 3}
+  - {fileID: 21300000, guid: 1573ddc098e5cfd4d8b3db396c7e6ad1, type: 3}
+  - {fileID: 21300000, guid: 357348e013413ad41a560fdf03498e36, type: 3}
+  - {fileID: 21300000, guid: 824990017efa0b4468ef0defad999f2b, type: 3}
+  - {fileID: 21300000, guid: e365f011e851f784e9c1bdec70b4a101, type: 3}
+  - {fileID: 21300000, guid: db7b01c1e6d30924ea9a1bb0dfc58916, type: 3}
+  - {fileID: 21300000, guid: 11f70852d7ec26f44a2c7b246772fe8a, type: 3}
+  - {fileID: 21300000, guid: 831a2da3a3d983e468bea2a253f06863, type: 3}
+  - {fileID: 21300000, guid: 81064024afb8b0840be068efda5dd990, type: 3}
+  - {fileID: 21300000, guid: bb50c72498f48b64c9699492f026e285, type: 3}
+  - {fileID: 21300000, guid: f9563b94c4a61ee47b6d16834c3a8777, type: 3}
+  - {fileID: 21300000, guid: a525ec7540af94a488a94d55039a84d8, type: 3}
+  - {fileID: 21300000, guid: a4099fc5fb839e249a3e688fcf1b55c3, type: 3}
+  - {fileID: 21300000, guid: 49c39ad51075e3c4d9e5afeafb984fde, type: 3}
+  - {fileID: 21300000, guid: 505fea066e8887c498311bde4ff24acc, type: 3}
+  - {fileID: 21300000, guid: a0688c26728764d42ae0b22b8cb47fa9, type: 3}
+  - {fileID: 21300000, guid: 35d2cf66f85ddf546a312827dbcc6cea, type: 3}
+  - {fileID: 21300000, guid: 306b59c61e282984aac06218b703647a, type: 3}
+  - {fileID: 21300000, guid: cd230ef60a79d68418e11c0e9cae9a7e, type: 3}
+  - {fileID: 21300000, guid: 8eee5da7f7e98094e9fe7b1bfd533371, type: 3}
+  - {fileID: 21300000, guid: f97dff48198dbd9448cadac5e6619e56, type: 3}
+  - {fileID: 21300000, guid: 0e29e7a846b6ada4f8151545b648c29a, type: 3}
+  - {fileID: 21300000, guid: 3192dac80a1396241b9d4d6109173788, type: 3}
+  - {fileID: 21300000, guid: 0abeebe892c414a4a88d1c60749bccf8, type: 3}
+  - {fileID: 21300000, guid: 86740f096f97ef04791537819589f576, type: 3}
+  - {fileID: 21300000, guid: 7572df09f82bcca47a4c8b48d19f620b, type: 3}
+  - {fileID: 21300000, guid: 0a279559d11897b4aadf1e57af817a98, type: 3}
+  - {fileID: 21300000, guid: 3ccb6759b7c22b84f927b1d963483204, type: 3}
+  - {fileID: 21300000, guid: f4e797696f6d07844904861960ebfce0, type: 3}
+  - {fileID: 21300000, guid: 12ebbf2a16cfb844ba51757c1b8e9216, type: 3}
+  - {fileID: 21300000, guid: 7d612dbad6e505a4bac50cde26aec1e5, type: 3}
+  - {fileID: 21300000, guid: f9c8f0cab7f440b4999791240a138efe, type: 3}
+  - {fileID: 21300000, guid: e407d3eaa69413549b0c69117470094a, type: 3}
+  - {fileID: 21300000, guid: c93cc30b1a42efa4e9b42aba1d8febff, type: 3}
+  - {fileID: 21300000, guid: f79ea56b59b98f44691a721974701f0c, type: 3}
+  - {fileID: 21300000, guid: a1070abb0b3ab464eaefffb9426b904b, type: 3}
+  - {fileID: 21300000, guid: 0e65fbcb86200614b90fb36b5b287003, type: 3}
+  - {fileID: 21300000, guid: a41deedbe480c1244940e514c56e9b44, type: 3}
+  - {fileID: 21300000, guid: 64a5dc7c7b8c85f4a9ed1ba7fd825b71, type: 3}
+  - {fileID: 21300000, guid: 6707139c7c16bdb49a7fadb09237d0ac, type: 3}
+  - {fileID: 21300000, guid: fd9e20ecd98a6304c965d47fe11a5d3c, type: 3}
+  - {fileID: 21300000, guid: 482dc99d7921b874f9e1ed640048772b, type: 3}
+  - {fileID: 21300000, guid: 69a356dde49c2e349a2d56d952afe401, type: 3}
+  - {fileID: -1627863037727855558, guid: 9dee66ed9355c204c801e76bebec05da, type: 3}
+  - {fileID: -7787784541565450035, guid: 9dee66ed9355c204c801e76bebec05da, type: 3}
+  - {fileID: 3095933130319061772, guid: 9dee66ed9355c204c801e76bebec05da, type: 3}
+  - {fileID: 21300000, guid: 459b341e0df8525438b41b8b9e5d741b, type: 3}
+  - {fileID: 21300000, guid: 432b2e9e0b5edd040926683725e9dfba, type: 3}
+  - {fileID: 21300000, guid: 5c6540fe151738947b87930d1ca111ab, type: 3}
+  - {fileID: 21300000, guid: c24ec3af183747c43b0b104f1d6f5daf, type: 3}
+  - {fileID: 21300000, guid: 3ab415cf69067584382d9d31904247c6, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - icon_Fraction02
+  - icon_FractionBackground_100
+  - icon_SkillRed
+  - Button
+  - Img_Ranking_Third2
+  - Img_Ranking_RunnerUp1
+  - "\xD7"
+  - Img_RankCountdown
+  - icon_SkillChoose
+  - ChooseMoveCountDownFill
+  - icon_SkillPureColor2
+  - icon_CurtainContinue
+  - icon_FractionBackground02_Mask
+  - icon_CurtainCompereBackground
+  - icon_FractionBackground02_Light
+  - icon_SkillStar
+  - Img_Ranking_Champion1
+  - Application_White
+  - icon_CurtainLeft
+  - ChoosePetBg
+  - Img_Ranking_Background
+  - WaitChooseBoard
+  - MoveAnimRootBg
+  - Img_Contest_Rule
+  - icon_CurtainRight
+  - icon_ConfirmButton
+  - icon_Fraction
+  - icon_SkillHorizontal2
+  - icon_PalmSound
+  - Application_Dot
+  - Application_Red
+  - Img_Ranking_Champion2
+  - Img_Ranking_RunnerUp2
+  - icon_host1
+  - StageLightRight
+  - icon_CurtainAbove
+  - icon_Palm_S
+  - icon_FractionBackground02
+  - icon_CurtainSponsorBackground
+  - icon_SkillChoose2
+  - Application_Chart
+  - ChooseMoveCountDownBg
+  - Panel_Green
+  - StageLightLeft
+  - Img_Ranking_Third1
+  - icon_Palm_N
+  - Panel_Blue
+  - Application_Background
+  - L
+  - N
+  - R
+  - icon_SkillHorizontal1
+  - Panel_Purple
+  - Bg_ProgressBar_Middle
+  - Application_AddTo
+  - icon_SkillFireworks
+  m_RenderDataMap: {}
+  m_Tag: PetCompetition
+  m_IsVariant: 0
+  m_IsPlaceholder: 0

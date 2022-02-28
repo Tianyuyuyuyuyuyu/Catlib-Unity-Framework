@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: StrangeDream
+  serializedVersion: 2
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: de7b85fd70115b84dbb600d56ca12310, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: fe57e550dd49c394da49bd4247d8f522, type: 3}
+  - {fileID: 21300000, guid: 4449c28091d17bc409815f6be9432f73, type: 3}
+  - {fileID: 21300000, guid: ef8672f17b4c1454ebbfc190c02c752a, type: 3}
+  - {fileID: 21300000, guid: 1aa952326afd08a4ebd3bba3fc651505, type: 3}
+  - {fileID: 21300000, guid: 60d699528cd20204d985ea26e3f1e0d9, type: 3}
+  - {fileID: 21300000, guid: ddc060c57d8127d429efd8c6199031b8, type: 3}
+  - {fileID: -3834532793921400481, guid: 57867257ca48ac64981870c530e9489e, type: 3}
+  - {fileID: 21300000, guid: 543bdd19fa442de44b14fec56f328956, type: 3}
+  - {fileID: 6492818085484861883, guid: 476b2f3965118254d871ee3224769489, type: 3}
+  - {fileID: 21300000, guid: 431217a96aabecc4c96d79945f146703, type: 3}
+  - {fileID: 2829037752622574978, guid: 6cce47aaad1bac8498fbf648f6df9f7c, type: 3}
+  - {fileID: 21300000, guid: f306c12b327cb7747a31740d624de2e3, type: 3}
+  - {fileID: 2127784889078172830, guid: 8ede64ab068f3994b971b41ff906e360, type: 3}
+  - {fileID: 21300000, guid: f87b13eb674bb6c4899a9a54667749ce, type: 3}
+  - {fileID: 21300000, guid: ca58755eaa6087a47b2f6b6e8cf3b68c, type: 3}
+  - {fileID: 21300000, guid: 5ffe5cae687d9f34dbbb65d0568c74ce, type: 3}
+  - {fileID: -2621942335380469009, guid: c1c17eee1f02167459f9aca17ce53b92, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Bg_WonderfulDream_PanelBg
+  - Button_FantasticDream_confirm
+  - Img_WonderfulDream_SpectatorSeats
+  - Img_WonderfulDream_stage
+  - Img_FantasticDream_WordsBackground
+  - Img_WonderfulDream_Curtain_above
+  - "\u56FE\u5C42 0"
+  - Img_StrangeDream_StrangeDream
+  - "\u56FE\u5C42 0"
+  - Button_WonderfulDream_OptionButton
+  - "\u66F2\u7EBF 6"
+  - FantasticDream_Text
+  - "\u56FE\u5C42 0"
+  - Img_WonderfulDream_Curtain
+  - Img_WonderfulDream_heisebiankuang
+  - Button_WonderfulDream_OptionButton 1
+  - Img_WonderfulDream_Moon
+  m_RenderDataMap: {}
+  m_Tag: StrangeDream
+  m_IsVariant: 0
+  m_IsPlaceholder: 0

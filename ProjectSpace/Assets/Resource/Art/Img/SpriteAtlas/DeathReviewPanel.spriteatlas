@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: DeathReviewPanel
+  serializedVersion: 2
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 1024
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: f46e8f58ff6f8d843a801b8ddcde1890, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: bb94f5a0fc45f1b4da4be030bce29b02, type: 3}
+  - {fileID: 21300000, guid: 0de64c24f12866045b3502f2087e340a, type: 3}
+  - {fileID: 21300000, guid: 3a1d6454c25e6f647ac012e245a2cdd7, type: 3}
+  - {fileID: 21300000, guid: b1251305bfce7994e9f7ca210a41436e, type: 3}
+  - {fileID: 21300000, guid: 5e8d4c951913f4747a1227ef8aa00fd6, type: 3}
+  - {fileID: 21300000, guid: da99cf2737434b343b5a0ee734409731, type: 3}
+  - {fileID: 21300000, guid: 51bb88875aac72a49bc00b7e9b07cc53, type: 3}
+  - {fileID: 21300000, guid: ef4ff8b77fe3cbb4980159af9ea70254, type: 3}
+  - {fileID: 21300000, guid: cede29f93d0fe0a4a99fd6460da4643c, type: 3}
+  - {fileID: 21300000, guid: e093f6ba3cc820441a3df1a7cf52c89e, type: 3}
+  - {fileID: 21300000, guid: 5d3907db6c976ae47b3ed79ca269fb33, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Death_Text
+  - Death_Film2
+  - Bottom of text
+  - Death_Skip
+  - line1-1
+  - Film
+  - Death_Film1
+  - Death_FilmBox2
+  - Death_FilmBox1
+  - Death_TopLayer
+  - line2-1
+  m_RenderDataMap: {}
+  m_Tag: DeathReviewPanel
+  m_IsVariant: 0
+  m_IsPlaceholder: 0

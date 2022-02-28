@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: ExhibitionCenter
+  serializedVersion: 2
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 516270e7d3fa486469d8ad1593654162, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: af046000cb1ac694994d3601514bfda7, type: 3}
+  - {fileID: 21300000, guid: 572b4600a64b8ce4f9ebceb92216c469, type: 3}
+  - {fileID: 21300000, guid: 35a231805a590b6458f86ddcf165a565, type: 3}
+  - {fileID: 21300000, guid: f65796c0027ffd74585bd1b00716c4fe, type: 3}
+  - {fileID: 21300000, guid: f87f863177fb5334789613088e11203b, type: 3}
+  - {fileID: 21300000, guid: 83ec5351489f82e4f8d437677ab3d5df, type: 3}
+  - {fileID: 21300000, guid: a5e6d2e1132cdf4498f2bdae7376f688, type: 3}
+  - {fileID: 21300000, guid: c54ce132c1d45d94db4384adcecc7832, type: 3}
+  - {fileID: 21300000, guid: 6658bab2ac4b77c43a21935888566420, type: 3}
+  - {fileID: 21300000, guid: 5ff220039af7b5646bd770d34b42e1a2, type: 3}
+  - {fileID: 21300000, guid: b3820d43c47f1a84ca1428f1da1eacec, type: 3}
+  - {fileID: 21300000, guid: 45882373038ffaf4b9eaeab84acfcd7e, type: 3}
+  - {fileID: 21300000, guid: 41d872c4f15f9184bbceb0b5319a56ab, type: 3}
+  - {fileID: 21300000, guid: ec279845768b0de4cb6448d9aa0900b4, type: 3}
+  - {fileID: 21300000, guid: c5562f956225a8c498b148279566e109, type: 3}
+  - {fileID: 21300000, guid: 7e2330a7e2ad2e84d86d038a846eb315, type: 3}
+  - {fileID: 21300000, guid: 9c45b8a7bb8ffdc499362c3f06d3cd8f, type: 3}
+  - {fileID: 21300000, guid: 426d47ea9a8d0c64d83875290e050388, type: 3}
+  - {fileID: 21300000, guid: cfbaf26b4d299184dacc94115be7a88a, type: 3}
+  - {fileID: 21300000, guid: 5d85428bdb55a2145bf41a9b6a66fa46, type: 3}
+  - {fileID: 21300000, guid: 1ddd3b5f8ab02c7469fa503f920d2706, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - icon_ExhibitionGeneralOption
+  - icon_TicketsTechnologyB2
+  - icon_TicketsSeal
+  - icon_Tickets_Art
+  - icon_TicketsArtA3
+  - icon_TicketsTechnologyB3
+  - icon_TicketsTechnologyA1
+  - Img_Tickets_Integer
+  - icon_TicketsBlack
+  - icon_TicketsArtB2
+  - icon_Tickets_Technology
+  - icon_TicketsTechnologyA2
+  - icon_ExhibitionGeneralWordsBackground
+  - icon_TicketsUnderline
+  - icon_TicketsArtB3
+  - icon_TicketsTechnologyB1
+  - icon_TicketsArtB1
+  - icon_TicketsArtA1
+  - icon_TicketsArtA2
+  - icon_TicketsTechnologyA3
+  - icon_ExhibitionBackground
+  m_RenderDataMap: {}
+  m_Tag: ExhibitionCenter
+  m_IsVariant: 0
+  m_IsPlaceholder: 0

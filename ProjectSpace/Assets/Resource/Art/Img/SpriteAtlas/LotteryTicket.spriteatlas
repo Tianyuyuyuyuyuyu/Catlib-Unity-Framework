@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: LotteryTicket
+  serializedVersion: 2
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: b2e7d82a0d09ba64d8a0d268d119e5d2, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: f255f670364a2e14da4d862f67c09d52, type: 3}
+  - {fileID: 21300000, guid: 5139bd33eeb20b141aec2e909d869f78, type: 3}
+  - {fileID: 21300000, guid: e50cc873df22d5f458d68809ed5d7284, type: 3}
+  - {fileID: 21300000, guid: 61cdaaa3b4994794faa5d60afbc50c21, type: 3}
+  - {fileID: 21300000, guid: 3963dbe4b6fffec4e8bcd8a710c08224, type: 3}
+  - {fileID: 21300000, guid: ce17bf062caa24846aebe3fcc4ccfda2, type: 3}
+  - {fileID: 21300000, guid: e3f019d62fa958a409aacffc9affbde0, type: 3}
+  - {fileID: 21300000, guid: 82d54be60a4be104aa352afb4d465fff, type: 3}
+  - {fileID: 21300000, guid: 87e0f4c77b8b57a45ba9cabe1a5d2024, type: 3}
+  - {fileID: 21300000, guid: 103611f78f49ba9448f88a13fb758ecd, type: 3}
+  - {fileID: -6387700728203205707, guid: 32c857e8da25ac44d97a7c1e3f55bffd, type: 3}
+  - {fileID: -4341377017184412813, guid: 32c857e8da25ac44d97a7c1e3f55bffd, type: 3}
+  - {fileID: 1304187034292657801, guid: 32c857e8da25ac44d97a7c1e3f55bffd, type: 3}
+  - {fileID: 4682018403587114653, guid: 32c857e8da25ac44d97a7c1e3f55bffd, type: 3}
+  - {fileID: 8322893997313035455, guid: 32c857e8da25ac44d97a7c1e3f55bffd, type: 3}
+  - {fileID: -1354166578837503561, guid: 32c857e8da25ac44d97a7c1e3f55bffd, type: 3}
+  - {fileID: 21300000, guid: 4e20bd29225547349a93bc9d05129fe0, type: 3}
+  - {fileID: 21300000, guid: ac6116b94c5907143afb041417c6558d, type: 3}
+  - {fileID: 21300000, guid: 6d6490ba378d0ae4eb7a19c21738e9a8, type: 3}
+  - {fileID: 21300000, guid: a804517dae3a91448943cc824dbbab95, type: 3}
+  - {fileID: 21300000, guid: fb26dfedff40d1c4ea66e8036e80ad13, type: 3}
+  - {fileID: 21300000, guid: 0fa876ee26cd54140acf8e8c9cda4338, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - buy_lottery_icon
+  - img_balls_bg3
+  - icon_LotteryDiamondPatternBackground2
+  - lottery_rule_icon
+  - img_crashlotterybg2
+  - Button_Lottery2
+  - img_Lottery
+  - img_balls_bg2
+  - crashItem_icon
+  - icon_LotteryTitleBackground
+  - icon_LotteryNumber_4
+  - icon_LotteryNumber_5
+  - icon_LotteryNumber_0
+  - icon_LotteryNumber_1
+  - icon_LotteryNumber_2
+  - icon_LotteryNumber_3
+  - icon_LotteryDiamondPatternBackground1
+  - img_lottstation_bg2
+  - img_lottstation_bg
+  - crash_lottery_icon
+  - img_balls_bg
+  - icon_GreyNum
+  m_RenderDataMap: {}
+  m_Tag: LotteryTicket
+  m_IsVariant: 0
+  m_IsPlaceholder: 0

@@ -1,0 +1,109 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Giveaway
+  serializedVersion: 2
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 1024
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: b241613213529fb448ac130beb08db30, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: eb5d46806ad3742489d962a0b45360af, type: 3}
+  - {fileID: 21300000, guid: e6c86c8079bda2f4f8061fa2ef7baa8f, type: 3}
+  - {fileID: 21300000, guid: 8efddf819ca49724dbb1ab9e9ea95f8e, type: 3}
+  - {fileID: 21300000, guid: 9e9260f1f6923314c96818ddd90d9c6e, type: 3}
+  - {fileID: 21300000, guid: 8f71e432eb43fc347909701ed1ace7e1, type: 3}
+  - {fileID: 21300000, guid: 9c504523bb6ff964ca431646734d4a0b, type: 3}
+  - {fileID: 21300000, guid: aecc1f23da29af24fa2b07c1ba5c7f63, type: 3}
+  - {fileID: 21300000, guid: 92593143c2e007a46ba93e0fc05f7011, type: 3}
+  - {fileID: 21300000, guid: a27e4e53601d778418c92616da79c31b, type: 3}
+  - {fileID: 21300000, guid: b1aed773d8e7d2342a3e84f55a4b930f, type: 3}
+  - {fileID: 21300000, guid: 7531c196396f06746b5c7d95902aeaba, type: 3}
+  - {fileID: 21300000, guid: 229a42d6cc26db446bbecfbcb371f00f, type: 3}
+  - {fileID: 21300000, guid: 80c1aae7bb8f7364d9d370bdd3a68b42, type: 3}
+  - {fileID: 21300000, guid: 8addb6d8d7084c34ab1c6e194f01633c, type: 3}
+  - {fileID: 21300000, guid: 5d0b934b80eae914e92acc21eacd6aed, type: 3}
+  - {fileID: 21300000, guid: 0c67939b81522dc4b984a0c101541d79, type: 3}
+  - {fileID: 21300000, guid: dfaf1bfb54fb02546ae1c898c8caf215, type: 3}
+  - {fileID: 21300000, guid: 3a38aa4c462fa6d4988e53751c3fc382, type: 3}
+  - {fileID: 21300000, guid: bd10cc4ca09128143936b5357eb28404, type: 3}
+  - {fileID: 21300000, guid: a804010d7e9bfee4faa3ce703fcb520a, type: 3}
+  - {fileID: 21300000, guid: ee9b363d1fc1c5c45b85c244bac52615, type: 3}
+  - {fileID: 21300000, guid: 59d8f59d28571874b9474639ef1ea59c, type: 3}
+  - {fileID: 21300000, guid: 9a6b3dbdd8af6b34795162c0f8fb402f, type: 3}
+  - {fileID: 21300000, guid: b17f6fdd0d6990340bf019728dfa97e7, type: 3}
+  - {fileID: 21300000, guid: 8783b2bea288edd4a97a0fea476cf826, type: 3}
+  - {fileID: 21300000, guid: 13181e3f3d40b2248958ba614aa09bbd, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Img_giveaway_Scroll bar
+  - icon_GiftBackground
+  - Img_giveaway_Progress bar
+  - icon_Gift_Buy
+  - Img_giveaway_Tag3
+  - Img_giftDemand
+  - Img_giveaway_ itembar background
+  - Img_giveaway_Slider
+  - icon_GiftGoods2
+  - Img_giveaway_Item column
+  - icon_GiftGoods1
+  - img-iteminfo_btn
+  - Img_giveaway_Tick
+  - icon_GiftInformation
+  - icon_GiftHorizontal2
+  - icon_GiftName
+  - Img_giveaway_Multiple choice
+  - icon_GiftHorizontal1
+  - icon_GiftModelRegion
+  - icon_GiftGeneralOption
+  - Img_Gift_Option2
+  - Img_giveaway_Character bar background
+  - Img_Gift_Title
+  - Img_Gift_ GoodsBackground2
+  - Img_giveaway_Avatar frame
+  - icon_GiftGoodsBackground
+  m_RenderDataMap: {}
+  m_Tag: Giveaway
+  m_IsVariant: 0
+  m_IsPlaceholder: 0

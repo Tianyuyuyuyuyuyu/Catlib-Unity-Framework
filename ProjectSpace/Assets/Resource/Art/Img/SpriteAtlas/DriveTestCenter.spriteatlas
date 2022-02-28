@@ -1,0 +1,93 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: DriveTestCenter
+  serializedVersion: 2
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: d5b946a77c247f242bdef302f637934d, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 75504250ed897aa48bf57bc883c0e0e7, type: 3}
+  - {fileID: 21300000, guid: f82d4281e90df2548aa2c1a35f5cabdf, type: 3}
+  - {fileID: 21300000, guid: 03fc73325d407364186fc2fe394d7948, type: 3}
+  - {fileID: 21300000, guid: 9c82d3347ae1f2b49863200b9246adeb, type: 3}
+  - {fileID: 21300000, guid: dff24a848d53dcc40a83e6e96af00b44, type: 3}
+  - {fileID: 21300000, guid: 72c91a0523f66974999c78daf7c94e9c, type: 3}
+  - {fileID: 21300000, guid: 7ca5e875d99f7e041882b5c265435f76, type: 3}
+  - {fileID: 21300000, guid: bcb8b8d53a0b94d41bb7978163777bf0, type: 3}
+  - {fileID: 21300000, guid: ae865e260e9f10a4e87c256adc86fd1b, type: 3}
+  - {fileID: 21300000, guid: b307c766a1b43d843b494a6eae218480, type: 3}
+  - {fileID: 21300000, guid: 959b8eb714d65fc48ac6922347ae77a7, type: 3}
+  - {fileID: 21300000, guid: 115280d7aa06517439428fd58b605ee0, type: 3}
+  - {fileID: 21300000, guid: ee5a2b6803a20c04386c4e5344914e10, type: 3}
+  - {fileID: 21300000, guid: 7a0334eab36d15b40829d0253a119e1f, type: 3}
+  - {fileID: 21300000, guid: b0dbd10b84f8b9145aa9cac7b53a1997, type: 3}
+  - {fileID: 21300000, guid: d8cfc72bbcb91c04793d1d3d4235e657, type: 3}
+  - {fileID: 21300000, guid: a0d3654b76f91674abedad5a50d1d8f8, type: 3}
+  - {fileID: 21300000, guid: e7ccd2dc38239244d90adc28a62cef49, type: 3}
+  - {fileID: 21300000, guid: 1ba8ecfc9ba9ae143939a5ce04f2e863, type: 3}
+  - {fileID: 21300000, guid: c0edc29dd977b0f4ea923c4b48e76455, type: 3}
+  - {fileID: 21300000, guid: c42a90fd1f376f045a8853e2771918dd, type: 3}
+  - {fileID: 21300000, guid: 4b146dbe576c0d94cb6cf7d9b73482ec, type: 3}
+  - {fileID: 21300000, guid: d723960f0c4dd144aa5a84539dd7aab2, type: 3}
+  - {fileID: 21300000, guid: 815ebfffd20700647ab8b80ac2f385ae, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Car_BiaoSmall
+  - Triangle
+  - Right1
+  - YelloRight
+  - Left2
+  - YelloLeft
+  - DriveTestBg
+  - GasTriggerLight
+  - Left1
+  - Right2
+  - MapExtra
+  - ParkAreaLight
+  - White
+  - GasTrigger
+  - Car_Wheel
+  - Img_Introduce_Background
+  - Kuang
+  - Wheel
+  - BreakTrigger
+  - EngineBling
+  - StartEngineBg
+  - Car_BreakLight
+  - TipWordsBackground
+  - Car_BiaoBig
+  m_RenderDataMap: {}
+  m_Tag: DriveTestCenter
+  m_IsVariant: 0
+  m_IsPlaceholder: 0

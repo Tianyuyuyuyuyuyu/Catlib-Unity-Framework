@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: MiddleExam
+  serializedVersion: 2
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 1024
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 50305c560cf07f84ba83eaf07ffda27d, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 4e29c00176b1e7d4083572266d4a4dc0, type: 3}
+  - {fileID: 21300000, guid: 1b0371a4b3db7c543b360ba2827d5f61, type: 3}
+  - {fileID: 21300000, guid: a6faeb3592a3ff2488ea9b3b3a6fa95a, type: 3}
+  - {fileID: 21300000, guid: cc4379c5b0e7df847875f9acb7164078, type: 3}
+  - {fileID: 21300000, guid: a5f034d52b0ce804eaae8f57aa37dae6, type: 3}
+  - {fileID: 21300000, guid: 12f03377ce1d6964fb8983136891fba9, type: 3}
+  - {fileID: 21300000, guid: 96d26f873519ba843804454c74517ed0, type: 3}
+  - {fileID: 21300000, guid: 53a8bde7f1a70d94c9bae7c9fa865da2, type: 3}
+  - {fileID: 21300000, guid: d6617c49c545bf147ad442064b52d926, type: 3}
+  - {fileID: 21300000, guid: 3faebf8a1dc6eb447a561f4f41644649, type: 3}
+  - {fileID: 21300000, guid: 0075549ffc6da5b41abd0139d3a3d219, type: 3}
+  - {fileID: 21300000, guid: 1b9de7af029a17542a9348242420e957, type: 3}
+  - {fileID: 21300000, guid: 6e8635bfdf52b3c42a535313d9ebe54f, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Button_MiddleExam_Button
+  - Img_ExamGame_ButtonPanel1
+  - img_ExamGame_2
+  - MiddleExam_Background
+  - img_ExamGame_YellowWarn
+  - Img_ExamGame_Thinker
+  - img_ExamGame_3
+  - Button_MiddleExam_Background2
+  - Img_ExamGame_ButtonPanel3
+  - Img_ExamGame_RedWarn
+  - img_ExamGame_1
+  - Button_MiddleExam_Button2
+  - Img_ExamGame_Line
+  m_RenderDataMap: {}
+  m_Tag: MiddleExam
+  m_IsVariant: 0
+  m_IsPlaceholder: 0

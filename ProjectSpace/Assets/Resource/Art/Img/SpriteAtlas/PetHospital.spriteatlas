@@ -1,0 +1,97 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: PetHospital
+  serializedVersion: 2
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 39d49e55404bc944991dad4a8de84b66, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 6474f84021972574399ec3c4f106c8ef, type: 3}
+  - {fileID: 21300000, guid: 75967f40297739f499ae3940d26e4d6d, type: 3}
+  - {fileID: 21300000, guid: d56011a01e5d5604db53d3ba9ce58690, type: 3}
+  - {fileID: 21300000, guid: 88002213e43107a44ab2c16ded9b1d8f, type: 3}
+  - {fileID: 21300000, guid: ac3ae7d3f4881e3498348b9f1fb6030f, type: 3}
+  - {fileID: 21300000, guid: 5c2edb44f5f4da945af554ff0147d5eb, type: 3}
+  - {fileID: 21300000, guid: 3490bca44aaf83842b0202ef58bb5cbc, type: 3}
+  - {fileID: 21300000, guid: 8e668235a6cce0747a2ade4e8cb6dfd4, type: 3}
+  - {fileID: 21300000, guid: ee4effe5f1e1df042b78122aa04f10c5, type: 3}
+  - {fileID: 21300000, guid: 11b20636bf271d84f94831248fbea289, type: 3}
+  - {fileID: 21300000, guid: 6de1728776f66a64fadcc86a7b072a47, type: 3}
+  - {fileID: 21300000, guid: acfccf985fb65914fa839181ac397c3f, type: 3}
+  - {fileID: 21300000, guid: 6283ecb8fb33b6e4eb684a99358dc280, type: 3}
+  - {fileID: 21300000, guid: 8945184c09b907c4695d50f1d31cc347, type: 3}
+  - {fileID: 21300000, guid: 5d374c4c5e507d04b91631847f63a224, type: 3}
+  - {fileID: 21300000, guid: cf53585d98268514a870e13d25d2586a, type: 3}
+  - {fileID: 21300000, guid: 06d2ac1e115580d44814592b0a59376f, type: 3}
+  - {fileID: 21300000, guid: 3cff70cedf5abef4b85514f2d2700b27, type: 3}
+  - {fileID: 21300000, guid: 1209bece3fc4a324ab7c5939ff7bc5c7, type: 3}
+  - {fileID: 21300000, guid: 0e446fbf3f5877e48a9378ea599bbdcb, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Img_PetsHospital_details_skip
+  - Img_PetHospital_Vaccination
+  - Img_PetsHospital_background
+  - Img_PetsHospital_Sickbed
+  - Img_PetHospital_cats
+  - Img_PetHospital_TrainingCompetition
+  - Img_PetsHospital_details_switch
+  - Img_PetHospital_PetBeauty
+  - Img_PetsHospital_backgroundCurtain
+  - Img_PetsHospital_BtnBg
+  - Img_PetsHospital_CheckHealthWidowBg
+  - Img_PetHospital_Diagnosis
+  - Img_PetHospital_OtherAnimals
+  - Img_PetsHospital_OptionButton
+  - Img_PetHospital_Dogs
+  - Img_PetHospital_ligation
+  - Img_PetsHospital_Rope
+  - Img_PetsHospital_BackgroundWhite
+  - Img_PetsHospital_Board
+  - Img_PetHospital_BeautyPageant
+  m_RenderDataMap: {}
+  m_Tag: PetHospital
+  m_IsVariant: 0
+  m_IsPlaceholder: 0

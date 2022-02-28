@@ -1,0 +1,142 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: ProffessionPanel
+  serializedVersion: 2
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 569f2b5c91de6504193a14abd9108c0d, type: 3}
+    - {fileID: 102900000, guid: 643fa0c09c66d7d4986e401f43e9f942, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 3e8140007596ed34a8a37871207f5393, type: 3}
+  - {fileID: 21300000, guid: 7f98b62041925984b9dc36ab6b6abd5d, type: 3}
+  - {fileID: 21300000, guid: d319f93034c40394bb5a0ea3a7adf790, type: 3}
+  - {fileID: 21300000, guid: 54ee2970074a7f6498e631206daf7073, type: 3}
+  - {fileID: 21300000, guid: 02865780d1453d643ac7322327dc2224, type: 3}
+  - {fileID: 21300000, guid: 490aaa81eebaee14e98f7693ae9da19c, type: 3}
+  - {fileID: 21300000, guid: e93835321005b9f4c84fb92def1952f1, type: 3}
+  - {fileID: 21300000, guid: 2cda01623dc49034ab21e02bacea81d3, type: 3}
+  - {fileID: 21300000, guid: 2e0789727a622b54a9f2e325ff0a0831, type: 3}
+  - {fileID: 21300000, guid: aaf4f0b2d16c68245bba1ce017f05562, type: 3}
+  - {fileID: 21300000, guid: b9f61a73ae1e8b24dbf5b8b93b1ce996, type: 3}
+  - {fileID: 21300000, guid: f7073c730bc136441abbb9657535904e, type: 3}
+  - {fileID: 21300000, guid: 579d2183b469e0e44a739a8b3a5c4dbb, type: 3}
+  - {fileID: 21300000, guid: fd80e5836d0cd2f47b55fe84fa0f026f, type: 3}
+  - {fileID: 21300000, guid: 7acebb84e11ff6148864f0d5ca2252f8, type: 3}
+  - {fileID: 21300000, guid: 90472f15c92e6774fb4f174fad07a741, type: 3}
+  - {fileID: 21300000, guid: 60459035113bbec4fba2dc967f8418c8, type: 3}
+  - {fileID: 21300000, guid: 7519f26598534aa448a3316ff4994c65, type: 3}
+  - {fileID: 21300000, guid: 99e82b85941d7b24db93ed87ea29580c, type: 3}
+  - {fileID: 21300000, guid: 1a1e1a95803bf0245819e95d939b3152, type: 3}
+  - {fileID: 21300000, guid: d6416bc522ff88f419dd49688f4bf95b, type: 3}
+  - {fileID: 21300000, guid: 89e27236b107bd74baa1e2f6a9ecb5ef, type: 3}
+  - {fileID: 21300000, guid: b725063640d1a0441a874bec36697df8, type: 3}
+  - {fileID: 21300000, guid: 75a081462a2f59343b88b25e76ef6203, type: 3}
+  - {fileID: 21300000, guid: 23d88f56708ec4d498701e354e8a92d9, type: 3}
+  - {fileID: 21300000, guid: a7423a87e2d807a479cf0606f460de56, type: 3}
+  - {fileID: 21300000, guid: 3ae5b3b7d5dc0d54fbf64f9f6b8c6a09, type: 3}
+  - {fileID: 21300000, guid: 058646c7ca51b9643a61f169d476ea12, type: 3}
+  - {fileID: 21300000, guid: e5ea0f2ac6911024db199e5c1a186f79, type: 3}
+  - {fileID: 21300000, guid: 4b153cda438a6e84c847887141791bee, type: 3}
+  - {fileID: 21300000, guid: 9f17340bf6425ef469b3d6521e053241, type: 3}
+  - {fileID: 21300000, guid: b4d87b2b723ed0f4f978828ecf066663, type: 3}
+  - {fileID: 21300000, guid: 4f41256be1d4f574c82cd0599605883f, type: 3}
+  - {fileID: 21300000, guid: 22d090abc7c958343b2a88e79a1f482d, type: 3}
+  - {fileID: 21300000, guid: c7211fbb0e7dcaa48996de6d0fd5f9ce, type: 3}
+  - {fileID: 21300000, guid: 003727db4a0751d4181ba312aa86957c, type: 3}
+  - {fileID: 21300000, guid: ce3cdaeb84194f24bbf50af2f2517e5c, type: 3}
+  - {fileID: 21300000, guid: e2c9850cf472f634a83002bbb35f7051, type: 3}
+  - {fileID: 21300000, guid: c1cee65cab94bcf4086acd6f44f24d6e, type: 3}
+  - {fileID: 21300000, guid: 09c7495c8af9e144c8f1f975082a13de, type: 3}
+  - {fileID: 21300000, guid: 01275a6c5b6181a40bca1bbcf11902a8, type: 3}
+  - {fileID: 21300000, guid: 56ab9c6c41a509740ba4e6d1c95b5ebc, type: 3}
+  - {fileID: 21300000, guid: d9ef6fdce98838d4eb7a0eec5eeae7a2, type: 3}
+  - {fileID: 21300000, guid: 9de053edb224097438c3694ba0fc6d5a, type: 3}
+  - {fileID: 21300000, guid: 4b86596eb53dfcd498ac16f94b522f56, type: 3}
+  - {fileID: 21300000, guid: 221b3f9e06cf894449bf7153c30795c6, type: 3}
+  - {fileID: 21300000, guid: 792045def05788845bc25a83e56a9eb8, type: 3}
+  - {fileID: 21300000, guid: 0ecadc3ffc6d3f6408a0f9dacd7779f3, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Img_ProffessionPanel_HornorLabelBg
+  - Img_ProffessionPanel_ProjectValue1
+  - Img_ProffessionPanel_WhiteBoard
+  - Img_ProffessionPanel_ProjectValue2
+  - Img_ProffessionPanel_CompanyBenefits_UnSelected
+  - Img_ProffessionPanel_Computer
+  - Img_ProffessionPanel_BusinessCard
+  - Img_Profession_Thing1Finish
+  - Img_ProffessionPanel_DemandColour
+  - Img_ProffessionPanel_DemandPanel
+  - Img_ProffessionPanel_ThingBg2
+  - Img_ProffessionPanel_Rectangle 1
+  - Img_ProffessionPanel_Advertisement
+  - Img_ProffessionPanel_CompanyBenefits
+  - Img_ProffessionPanel_ThingBg1Shadow
+  - Img_ProffessionPanel_HonorRedPoint
+  - Img_OccupationTree_Circle
+  - Img_ProffessionPanel_SliderValue
+  - Img_ProffessionPanel_explain2
+  - Img_ProffessionPanel_ProgressBar_1
+  - Img_ProffessionPanel_ProgressBarPanel
+  - Img_ProffessionPanel_ProjectBg
+  - Img_ProffessionPanel_CompanyBenefits_Selected
+  - Img_ProffessionPanel_ThingBg2Shadow
+  - Img_Profession_Thing1Fail
+  - Img_OccupationTree_Option
+  - Img_ProffessionPanel_explain
+  - Img_ProffessionPanel_ThingBg1
+  - Img_ProffessionPanel_HeadBg
+  - Img_ProffessionBackground_CardPanel
+  - Img_ProffessionPanel_Select
+  - Img_ProffessionPanel_Background
+  - Img_ProffessionPanel_OccupationTree
+  - Img_ProffessionPanel_EndPanel
+  - Img_ProffessionPanel_SliderValue2
+  - Img_OccupationTree_Arrowhead
+  - Img_ProffessionPanel_CardPanel
+  - Img_ProffessionPanel_Rectangle
+  - Img_Profession_Thing2Fail
+  - Img_ProffessionPanel_CompanyBenefits_open
+  - Img_ProffessionPanel_Phone
+  - Img_OccupationTree_Background
+  - Img_ProffessionPanel_OccupationTreeBg
+  - Img_Profession_Thing2Finish
+  - Img_ProffessionPanel_WhiteBoard 1
+  - button_ProffessionPanel_CloseButton
+  - Img_ProffessionPanel_ProgressBar_2
+  - Img_ProffessionPanel_CareerCardBlackMask
+  m_RenderDataMap: {}
+  m_Tag: ProffessionPanel
+  m_IsVariant: 0
+  m_IsPlaceholder: 0

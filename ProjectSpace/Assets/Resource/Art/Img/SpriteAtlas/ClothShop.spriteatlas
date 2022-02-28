@@ -1,0 +1,111 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: ClothShop
+  serializedVersion: 2
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 17bfa9baf72d0dd419328ce69252b824, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: bf1884402bad450499fdb42b162e51ba, type: 3}
+  - {fileID: 21300000, guid: 685a23509ef330b4286610f73b2de727, type: 3}
+  - {fileID: 21300000, guid: b16001a013f55f647ac8cce51bbf11cb, type: 3}
+  - {fileID: 21300000, guid: 1fb3ace1bcc60544387f36364400e9e0, type: 3}
+  - {fileID: 21300000, guid: 6c8045025fe420848af99f9d59f76c23, type: 3}
+  - {fileID: 21300000, guid: 56e25652321258f46bead5a5cdbf946a, type: 3}
+  - {fileID: 21300000, guid: 0b8e0823b3f53a448beff181396c01d9, type: 3}
+  - {fileID: 21300000, guid: d7dfa673206fcbf4a83470b49eb768ae, type: 3}
+  - {fileID: 21300000, guid: b167c3c34e356d849b11825db404ea13, type: 3}
+  - {fileID: 21300000, guid: 489833d39b972f749b60dc0b20e67914, type: 3}
+  - {fileID: 21300000, guid: 33e7ced3c0f12104ba3b5af796ac1446, type: 3}
+  - {fileID: 21300000, guid: 50dd131493b13d949aee7a4675ebeea3, type: 3}
+  - {fileID: 21300000, guid: b829cf84c6ecb90408a94c84c07f083b, type: 3}
+  - {fileID: 21300000, guid: a3f15d75addb68b4a902042c83b93848, type: 3}
+  - {fileID: 21300000, guid: 9e9c4ff591e9367488d2dc20370d1f6e, type: 3}
+  - {fileID: 21300000, guid: 1860c14680cf5834490e3ab2e7e27f24, type: 3}
+  - {fileID: 21300000, guid: 984b3d766a277044db074783de4ee0fd, type: 3}
+  - {fileID: 21300000, guid: 2cd3e767959c67e43a3ee141ca002a38, type: 3}
+  - {fileID: 21300000, guid: 828330a7f085f6548a47013d93e18f9b, type: 3}
+  - {fileID: 21300000, guid: 6d0ff4d7b09686a4793c34356b3e4460, type: 3}
+  - {fileID: 21300000, guid: a0c62678a540f664892bda771b9bf740, type: 3}
+  - {fileID: 21300000, guid: bbbdef49c0f065d45b68e51ef901ebd4, type: 3}
+  - {fileID: 21300000, guid: 42cbbbb94652f97469cae73f90418d5c, type: 3}
+  - {fileID: 21300000, guid: dc1ba89a11830374b84f7141b5844ac5, type: 3}
+  - {fileID: 21300000, guid: 851ed0ba87ec76e41a4b4f8f411c8c14, type: 3}
+  - {fileID: 21300000, guid: ab7ffd1bdc4624e448bd48cd00975ac1, type: 3}
+  - {fileID: 21300000, guid: ffcd5b3b060c51f4d8740be77c353c8d, type: 3}
+  - {fileID: 21300000, guid: 19ea4d8bd15d17f4b8e95e6ac391dd0d, type: 3}
+  - {fileID: 21300000, guid: baf987bb1b6751a45b8ede317b1729a7, type: 3}
+  - {fileID: 21300000, guid: c8fda74c5eb0e554fba482f8a7984a90, type: 3}
+  - {fileID: 21300000, guid: d6ab885cc97b5e247b31b1f9bb1f959e, type: 3}
+  - {fileID: 21300000, guid: 85c16ced8e2260542924ab4d7f0d196a, type: 3}
+  - {fileID: 21300000, guid: 35b6200f3693b7e44b7e0009dd57ed82, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Img_Accounts_Background
+  - Icon_Purchase_HotSale
+  - Img_Purchase_Circle1
+  - Img_Purchase_Tumble1
+  - Img_Change_ColorBackground2
+  - Img_Toggery_Background
+  - Icon_Purchase_New
+  - Img_Change_ColorBackground1
+  - Img_Change_Frame2
+  - Img_Change_Frame3
+  - Img_Purchase_WordsBackground
+  - Img_Purchase_Tumble5
+  - Img_Purchase_Background2
+  - Img_Purchase_Exclamation
+  - Img_Purchase_Circle2
+  - Img_Toggery_Option1
+  - Img_Change_ColorLump
+  - Img_Change_Recover
+  - Img_Accounts_Background2
+  - Img_Purchase_Tumble3
+  - Img_Purchase_Tumble4
+  - Img_Purchase_Background
+  - Icon_Purchase_Discount
+  - Img_Change_Background
+  - Img_Toggery_Background2
+  - Img_Accounts_Gift
+  - Img_Toggery_Background3
+  - Img_Accounts_Background3
+  - Img_Change_Frame1
+  - Img_Accounts_Option
+  - Img_Accounts_Amount
+  - Img_Toggery_Option2
+  - Img_Purchase_Tumble2
+  m_RenderDataMap: {}
+  m_Tag: ClothShop
+  m_IsVariant: 0
+  m_IsPlaceholder: 0

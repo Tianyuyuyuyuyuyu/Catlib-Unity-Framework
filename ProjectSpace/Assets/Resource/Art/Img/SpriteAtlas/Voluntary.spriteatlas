@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Voluntary
+  serializedVersion: 2
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 7a72f8cc62046104e9bd6c781fe9bcfd, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: fbbc4b5005b1b8243b52d15ce0bbab00, type: 3}
+  - {fileID: 21300000, guid: b0d44b0246bea714286d9161cd771e9c, type: 3}
+  - {fileID: 21300000, guid: 76f83fd29a3fc6941865578bd2e2a8ff, type: 3}
+  - {fileID: 21300000, guid: bb1032e2519e73e4faa173b9dff81134, type: 3}
+  - {fileID: 21300000, guid: a3a37913ed1e5044eab32f3a92a9c7cd, type: 3}
+  - {fileID: 21300000, guid: 2f74f1a3df3a5194286dba46dedc355d, type: 3}
+  - {fileID: 21300000, guid: c1ad94b3b0d73e345a125122b9785f82, type: 3}
+  - {fileID: 21300000, guid: 55d296f3a08e7404ca557442470df0fa, type: 3}
+  - {fileID: 21300000, guid: 34c20854836ed154492e982a421dd7f9, type: 3}
+  - {fileID: 21300000, guid: d79b18646d97c2541a258541209efeff, type: 3}
+  - {fileID: 21300000, guid: 5ecbef1613a4e3641b7e9dcee836669e, type: 3}
+  - {fileID: 21300000, guid: 51c46b27e63a4d44db300d8ca41979a6, type: 3}
+  - {fileID: 21300000, guid: 00308f275053bc14d9d53222d2508c22, type: 3}
+  - {fileID: 21300000, guid: 629cab5aba8ab2c41bec699930ecc249, type: 3}
+  - {fileID: 21300000, guid: caf6336a84689a04198d90d4e922d3d8, type: 3}
+  - {fileID: 21300000, guid: 6b34f5fa95f4972438e343613e5df7c7, type: 3}
+  - {fileID: 21300000, guid: 3188ad0bb7c303b478d6f148f4c3f18b, type: 3}
+  - {fileID: 21300000, guid: 74c743cb1ef2c8d4e82953cbd2534557, type: 3}
+  - {fileID: 21300000, guid: 62439f2cdc03ca54f8441ce8fc2cfb1b, type: 3}
+  - {fileID: 21300000, guid: 64af2bccd79020147a331043e9498043, type: 3}
+  - {fileID: 21300000, guid: 319e3b4eefee498408f64bc6b68f14b8, type: 3}
+  - {fileID: 21300000, guid: d085c96eb1baaf149831001fb5d72aea, type: 3}
+  - {fileID: 21300000, guid: eabf326ffb519d24fb6e9429b0d6c887, type: 3}
+  - {fileID: 21300000, guid: d368dd6f92e4fe140af63288c55dbe5f, type: 3}
+  - {fileID: 21300000, guid: 5662b0bfc0f9f7b489d6ba6856d8d38f, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Img_StudentVoluntaryPanel_MiddlePanel
+  - botton_StudentVoluntaryPanel_ShortButton
+  - Img_StudentVoluntaryPanel_SecondWindowBg
+  - icon_VolunteerKeySigns
+  - icon_VolunteerButton
+  - University_Emblem01
+  - botton_StudentVoluntaryPanel_Change
+  - icon_VolunteerButton
+  - Img_StudentVoluntaryPanel_AchievementPanel
+  - icon_VolunteerScoreLine
+  - icon_VolunteerSubjectInformation
+  - icon_VolunteerKeyUniversities
+  - icon_VolunteerUniversityIntroduction
+  - icon_VolunteeFill
+  - icon_VolunteerOrdinaryBackground
+  - Img_StudentVoluntaryPanel_SecondWindowBgFrame
+  - icon_VolunteerFrame
+  - icon_VolunteerBackground
+  - icon_VolunteerScore
+  - icon_VolunteerNormalLogo
+  - icon_VolunteerSpecialized
+  - icon_VolunteerGeneralUniversity
+  - icon_VolunteerFocusBackground
+  - Img_Selectmajor_tag
+  - icon_VolunteerTextBackground
+  m_RenderDataMap: {}
+  m_Tag: Voluntary
+  m_IsVariant: 0
+  m_IsPlaceholder: 0

@@ -1,0 +1,161 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: CarStation
+  serializedVersion: 2
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 044b6d283d93c9a4f8b3cde2960f5908, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 85fbc280bafc4084fadb6130f0b07202, type: 3}
+  - {fileID: 21300000, guid: 14337d90cce6463418ebfe7421e7fe0e, type: 3}
+  - {fileID: 21300000, guid: 6fb0f62103b5ed041b8f87c0046e1f44, type: 3}
+  - {fileID: 21300000, guid: 5c0693b1e4104684fbb84f668f6c2157, type: 3}
+  - {fileID: 21300000, guid: 042438c1d1703244aac5caa78e5001ba, type: 3}
+  - {fileID: 21300000, guid: 9e4806e1fc33e5041b30f4319b91c3ff, type: 3}
+  - {fileID: 21300000, guid: d376ace13140b9540b7d05cd15fa1071, type: 3}
+  - {fileID: 21300000, guid: 6968d0f1102f1624f90a2eb233feb139, type: 3}
+  - {fileID: 21300000, guid: f173bff181878044c9de31f155024852, type: 3}
+  - {fileID: 21300000, guid: bc096212ec389ed4b8f76047e4ec0860, type: 3}
+  - {fileID: 21300000, guid: 1dd67e5267a6d234997dd0a63d83f02a, type: 3}
+  - {fileID: 21300000, guid: 34662fb298667fb4ba033c2b11d24886, type: 3}
+  - {fileID: 21300000, guid: d6b8056308730b14ea8c2933255daad8, type: 3}
+  - {fileID: 21300000, guid: 0b4fd283f85711249865f6e9bea1b858, type: 3}
+  - {fileID: 21300000, guid: d842dbb34351ab44ead01d557f7a74cf, type: 3}
+  - {fileID: 21300000, guid: 04047764ed42e0c4b84efe1254c12358, type: 3}
+  - {fileID: 21300000, guid: 707f38740b5bf5b4fafcf869bc112040, type: 3}
+  - {fileID: 21300000, guid: bc0a18c4e9d4c7b4a9c23e05a2df277a, type: 3}
+  - {fileID: 21300000, guid: 4c37dfe47ebc96f47affbf8adbe39ad9, type: 3}
+  - {fileID: 21300000, guid: 3e66fc0528484bd4cb315e1cd7af81b6, type: 3}
+  - {fileID: 21300000, guid: 15925ba54fdebd8408a1c0c298dff92b, type: 3}
+  - {fileID: 21300000, guid: 3b9365d524a13d5429ed6a0bbcd9390a, type: 3}
+  - {fileID: 21300000, guid: c9cac0e57b53ba04384c891f875afe4e, type: 3}
+  - {fileID: 21300000, guid: 753b22268307ab24383b9e3c4fb6b34f, type: 3}
+  - {fileID: 21300000, guid: e8983486e349ed540b2e508f367846de, type: 3}
+  - {fileID: 21300000, guid: 843ccef6e4e88a54cbe98e92d1c143f3, type: 3}
+  - {fileID: 21300000, guid: 6db99727fa5b4b84ea12e71a161ace7d, type: 3}
+  - {fileID: 21300000, guid: d9d08ec74a849934eb5fbf050cad6070, type: 3}
+  - {fileID: 21300000, guid: 70315e4839edb39438cdfb94a804e534, type: 3}
+  - {fileID: 21300000, guid: 058b5f58926f1b7499a585dc99918b69, type: 3}
+  - {fileID: 21300000, guid: 2ef3dcb8825f41a4d992cef6bcb1ba02, type: 3}
+  - {fileID: 21300000, guid: 37cf6a69266da3e4480a0a0e10bdf869, type: 3}
+  - {fileID: 21300000, guid: 44db0d89d316ef24894deef93cde1c24, type: 3}
+  - {fileID: 21300000, guid: 6a3a267acf0a0ad44aebd58a8d71e57e, type: 3}
+  - {fileID: 21300000, guid: 5ea4129a24ae2af44a79b0dc396544ff, type: 3}
+  - {fileID: 21300000, guid: ebddeaca058eaae4b854d9211156c69c, type: 3}
+  - {fileID: 21300000, guid: 6cbb86dadb0bee748bb45baa15379dd3, type: 3}
+  - {fileID: 21300000, guid: 4642effac194f194d8c8f4a299163c3d, type: 3}
+  - {fileID: 21300000, guid: e318eb3b9a7e12c4aac55d968a0a35ae, type: 3}
+  - {fileID: 21300000, guid: a87f63eb725b0484da219df63f8f4482, type: 3}
+  - {fileID: 21300000, guid: 892e080c3dbacca429929609466f4f16, type: 3}
+  - {fileID: 21300000, guid: 6455b7acb6a6e5b4a9319e801f482501, type: 3}
+  - {fileID: 21300000, guid: 3306e35d427e0d844b2d7e8af291fc5a, type: 3}
+  - {fileID: 21300000, guid: 6a4c0acd80dba8a43bcc0d5fd3c67350, type: 3}
+  - {fileID: 21300000, guid: 6fe9ea4e68d57f045bf2dded4c7487b7, type: 3}
+  - {fileID: 21300000, guid: 156985bed136a3542b744d00f34b44e7, type: 3}
+  - {fileID: 21300000, guid: f75280de405e8e7408b9ef7ed1680a65, type: 3}
+  - {fileID: 21300000, guid: 24ee591f87296ba44be26eb93c0a47b8, type: 3}
+  - {fileID: 21300000, guid: 1e1fe91fc05e2c749ab1ec3461be235e, type: 3}
+  - {fileID: 21300000, guid: 5b8a392f84e651d4ab8fba819882f8fc, type: 3}
+  - {fileID: 21300000, guid: d9172e2f9f3f18b49bc57a383fa5ad64, type: 3}
+  - {fileID: 21300000, guid: 58f3a76f40ec2134ea54a7497fc68dfc, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Img_ChooseDestination_Tree_R
+  - Img_ChooseDestination_ArriveIcon
+  - Img_BuyTicket_Option2
+  - Img_ChooseDestination_School02
+  - Img_BuyTicket_location
+  - Img_ChooseDestination_BuyTicketMidBg
+  - Img_ChooseDestination_FeBridge
+  - Img_ChooseDestination_Fe
+  - Img_ChooseDestination_Mount
+  - Img_AreaTag
+  - Img_ChooseDestination_ArriveBg
+  - Img_ChooseDestination_Fe02
+  - Img_ChooseDestination_MapDins
+  - Img_ChooseDestination_Plane
+  - Img_ChooseDestination_BusWondos
+  - Img_BuyTicket_Background
+  - Img_ChooseDestination_School01
+  - Img_ChooseDestination_TitleFlower
+  - Img_ChooseDestination_BuyTicketBtnDiamond
+  - Img_ChooseDestination_Word
+  - Img_BusChooseDestination_TicketDirectionTag
+  - Img_TrainChooseDestination_TicketDirectionTag
+  - Img_ChooseDestination_BuyTicketBg
+  - Img_ChooseDestination_Hand_R
+  - Img_ChooseDestination_PlaneSun
+  - Img_ChooseDestination_SchoolDins
+  - Img_ChooseDestination_PlaneDins
+  - Img_ChooseDestination_MapFog
+  - Img_ChooseDestination_Mount_L
+  - Img_ChooseDestination_Mount_R
+  - Img_BuyTicket_Option1
+  - Img_ChooseDestination_Speed
+  - Img_ChooseDestination_SchoolName
+  - Img_ChooseDestination_Hand2_R
+  - Img_ChooseDestination_FeWater
+  - Img_ChooseDestination_BuyTicketBtnBg
+  - Img_ChooseDestination_Background2
+  - Img_ChooseDestination_Mask
+  - Img_ChooseDestination_Tree_L
+  - Img_ChooseDestination_PlaneFog
+  - Img_ChooseDestination_Hand2_L
+  - Img_ChooseDestination_Dins
+  - Img_ChooseDestination_Car
+  - Img_ChooseDestination_Hand_L
+  - Img_ChooseDestination_Map
+  - Img_ChooseDestination_BusWheel_R
+  - Img_ChooseDestination_FeDins
+  - Img_ChooseDestination_TitleTicket
+  - Img_ChooseDestination_TicketPriceBg
+  - Img_ChooseDestination_Background1
+  - Img_ChooseDestination_Bus
+  - Img_ChooseDestination_BusWheel_L
+  m_RenderDataMap: {}
+  m_Tag: CarStation
+  m_IsVariant: 0
+  m_IsPlaceholder: 0

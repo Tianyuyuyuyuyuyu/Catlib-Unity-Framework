@@ -1,1 +1,0 @@
-Wingjoy Copyright (c)

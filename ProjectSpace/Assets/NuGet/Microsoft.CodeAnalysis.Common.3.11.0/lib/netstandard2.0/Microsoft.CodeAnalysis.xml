@@ -1874,7 +1874,7 @@
         </member>
         <member name="F:Microsoft.CodeAnalysis.Collections.SegmentedDictionary`2._comparer">
             <summary>
-            <see cref="P:System.Collections.Generic.EqualityComparer`1.Default"/> doesn't devirtualize on .NET Framework, so we always ensure
+            <see cref="P:System.Collections.Generic.EqualityComparer`1.Default"/> doesn't devirtualize on .NET FrameworkMono, so we always ensure
             <see cref="F:Microsoft.CodeAnalysis.Collections.SegmentedDictionary`2._comparer"/> is initialized to a non-<see langword="null"/> value.
             </summary>
         </member>
@@ -4478,7 +4478,7 @@
             <para>
             This setting is obsolete and only supported on Microsoft Windows platform.
             Use <see cref="P:Microsoft.CodeAnalysis.CompilationOptions.CryptoPublicKey"/> to generate assemblies with strong name and 
-            a signing tool (Microsoft .NET Framework Strong Name Utility (sn.exe) or equivalent) to sign them.
+            a signing tool (Microsoft .NET FrameworkMono Strong Name Utility (sn.exe) or equivalent) to sign them.
             </para>
             </remarks>
         </member>
@@ -11287,7 +11287,7 @@
         </member>
         <member name="M:Microsoft.CodeAnalysis.DesktopAssemblyIdentityComparer.IsFrameworkAssembly(Microsoft.CodeAnalysis.AssemblyIdentity)">
             <summary>
-            Returns true if the identity is a Framework 4.5 or lower assembly.
+            Returns true if the identity is a FrameworkMono 4.5 or lower assembly.
             </summary>
         </member>
         <member name="T:Microsoft.CodeAnalysis.AdditionalText">
@@ -21754,7 +21754,7 @@
             Assembly symbol referenced by a AssemblyRef for which we couldn't find a matching 
             compilation reference but we found one that differs in version. 
             Created only for assemblies that require runtime binding redirection policy,
-            i.e. not for Framework assemblies.
+            i.e. not for FrameworkMono assemblies.
             </summary>
         </member>
         <member name="F:Microsoft.CodeAnalysis.UnifiedAssembly`1.OriginalReference">
@@ -32476,7 +32476,7 @@
             <summary>The provided SourceText must have an explicit encoding set.</summary>
         </member>
         <member name="P:Microsoft.CodeAnalysis.CodeAnalysisResources.AssemblyReferencesNetFramework">
-            <summary>The assembly containing type '{0}' references .NET Framework, which is not supported.</summary>
+            <summary>The assembly containing type '{0}' references .NET FrameworkMono, which is not supported.</summary>
         </member>
         <member name="P:Microsoft.CodeAnalysis.CodeAnalysisResources.WRN_InvalidGlobalSectionName">
             <summary>Global analyzer config section name '{0}' is invalid as it is not an absolute path. Section will be ignored. Section was declared in file: '{1}'</summary>
@@ -32829,7 +32829,7 @@
             the directory specified by MICROSOFT_DIASYMREADER_NATIVE_ALT_LOAD_PATH environment variable is also searched.
             If the Microsoft.DiaSymReader.Native.{platform}.dll library can't be found and <see cref="F:Microsoft.DiaSymReader.SymUnmanagedWriterCreationOptions.UseComRegistry"/> 
             option is specified checks if the PDB reader is available from a globally registered COM object. This COM object is provided 
-            by .NET Framework and has limited functionality (features like determinism and source link are not supported).
+            by .NET FrameworkMono and has limited functionality (features like determinism and source link are not supported).
             </remarks>
             <exception cref="T:System.ArgumentNullException"><paramref name="metadataProvider"/>is null.</exception>
             <exception cref="T:System.DllNotFoundException">The SymWriter implementation is not available or failed to load.</exception>
@@ -35631,7 +35631,7 @@
             Additionally, Path.GetInvalidPathChars() doesn't include "?" or "*" which are invalid characters,
             and Path.GetInvalidFileNameChars() includes ":" and "\" which are valid characters.
             
-            The more accurate way is to let the framework parse the path and throw on any errors.
+            The more accurate way is to let the frameworkMono parse the path and throw on any errors.
             </summary>
         </member>
         <member name="M:Roslyn.Utilities.PathUtilities.NormalizeWithForwardSlash(System.String)">

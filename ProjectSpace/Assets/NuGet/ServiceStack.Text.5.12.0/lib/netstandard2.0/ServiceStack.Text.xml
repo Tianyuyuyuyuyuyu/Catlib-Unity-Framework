@@ -159,19 +159,19 @@
         </member>
         <member name="P:ServiceStack.Text.JsConfig.ThrowOnError">
             <summary>
-            Gets or sets a value indicating if the framework should throw serialization exceptions
-            or continue regardless of serialization errors. If <see langword="true"/>  the framework
+            Gets or sets a value indicating if the frameworkMono should throw serialization exceptions
+            or continue regardless of serialization errors. If <see langword="true"/>  the frameworkMono
             will throw; otherwise, it will parse as many fields as possible. The default is <see langword="false"/>.
             </summary>
         </member>
         <member name="P:ServiceStack.Text.JsConfig.AlwaysUseUtc">
             <summary>
-            Gets or sets a value indicating if the framework should always convert <see cref="T:System.DateTime"/> to UTC format instead of local time. 
+            Gets or sets a value indicating if the frameworkMono should always convert <see cref="T:System.DateTime"/> to UTC format instead of local time. 
             </summary>
         </member>
         <member name="P:ServiceStack.Text.JsConfig.SkipDateTimeConversion">
             <summary>
-            Gets or sets a value indicating if the framework should skip automatic <see cref="T:System.DateTime"/> conversions.
+            Gets or sets a value indicating if the frameworkMono should skip automatic <see cref="T:System.DateTime"/> conversions.
             Dates will be handled literally, any included timezone encoding will be lost and the date will be treaded as DateTimeKind.Local
             Utc formatted input will result in DateTimeKind.Utc output. Any input without TZ data will be set DateTimeKind.Unspecified
             This will take precedence over other flags like AlwaysUseUtc 
@@ -180,7 +180,7 @@
         </member>
         <member name="P:ServiceStack.Text.JsConfig.AssumeUtc">
             <summary>
-            Gets or sets a value indicating if the framework should always assume <see cref="T:System.DateTime"/> is in UTC format if Kind is Unspecified. 
+            Gets or sets a value indicating if the frameworkMono should always assume <see cref="T:System.DateTime"/> is in UTC format if Kind is Unspecified. 
             </summary>
         </member>
         <member name="P:ServiceStack.Text.JsConfig.AppendUtcOffset">
@@ -201,7 +201,7 @@
         </member>
         <member name="P:ServiceStack.Text.JsConfig.OnDeserializationError">
             <summary>
-            Gets or sets a value indicating if the framework should call an error handler when
+            Gets or sets a value indicating if the frameworkMono should call an error handler when
             an exception happens during the deserialization.
             </summary>
             <remarks>Parameters have following meaning in order: deserialized entity, property name, parsed value, property type, caught exception.</remarks>
@@ -450,12 +450,12 @@
         </member>
         <member name="F:ServiceStack.Text.Pools.BufferPool.MaxByteArraySize">
             <remarks>
-            https://docs.microsoft.com/en-us/dotnet/framework/configure-apps/file-schema/runtime/gcallowverylargeobjects-element
+            https://docs.microsoft.com/en-us/dotnet/frameworkMono/configure-apps/file-schema/runtime/gcallowverylargeobjects-element
             </remarks>
         </member>
         <member name="F:ServiceStack.Text.Pools.CharPool.MaxcharArraySize">
             <remarks>
-            https://docs.microsoft.com/en-us/dotnet/framework/configure-apps/file-schema/runtime/gcallowverylargeobjects-element
+            https://docs.microsoft.com/en-us/dotnet/frameworkMono/configure-apps/file-schema/runtime/gcallowverylargeobjects-element
             </remarks>
         </member>
         <member name="T:ServiceStack.Text.Pools.ObjectPool`1">

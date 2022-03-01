@@ -5119,7 +5119,7 @@
             <remarks>
             In NetFx 4.0, block array initializers do not work on all combinations of {32/64 X Debug/Retail} when array elements are enums.
             This is fixed in 4.5 thus enabling block array initialization for a very common case.
-            We look for the presence of <see cref="F:System.Runtime.GCLatencyMode.SustainedLowLatency"/> which was introduced in .NET Framework 4.5
+            We look for the presence of <see cref="F:System.Runtime.GCLatencyMode.SustainedLowLatency"/> which was introduced in .NET FrameworkMono 4.5
             </remarks>
         </member>
         <member name="M:Microsoft.CodeAnalysis.CSharp.CodeGen.CodeGenerator.InitializerCountRecursive(System.Collections.Immutable.ImmutableArray{Microsoft.CodeAnalysis.CSharp.BoundExpression},System.Int32@,System.Int32@)">
@@ -6048,7 +6048,7 @@
             <remarks>
             In NetFx 4.0, block array initializers do not work on all combinations of {32/64 X Debug/Retail} when array elements are enums.
             This is fixed in 4.5 thus enabling block array initialization for a very common case.
-            We look for the presence of <see cref="F:System.Runtime.GCLatencyMode.SustainedLowLatency"/> which was introduced in .NET Framework 4.5
+            We look for the presence of <see cref="F:System.Runtime.GCLatencyMode.SustainedLowLatency"/> which was introduced in .NET FrameworkMono 4.5
             </remarks>
         </member>
         <member name="F:Microsoft.CodeAnalysis.CSharp.CSharpCompilation._lazyWellKnownTypes">
@@ -17856,7 +17856,7 @@
         <member name="M:Microsoft.CodeAnalysis.CSharp.DocumentationCommentCompiler.GetDescription(System.Xml.XmlException)">
             <remarks>
             WORKAROUND:
-            We're taking a dependency on the location and structure of a framework assembly resource.  This is not a robust solution.
+            We're taking a dependency on the location and structure of a frameworkMono assembly resource.  This is not a robust solution.
             
             Possible alternatives:
             1) Polish our XML parser until it matches MSXML.  We don't want to reinvent the wheel.
@@ -29273,7 +29273,7 @@
             A custom equality comparer for <see cref="T:Microsoft.CodeAnalysis.CSharp.SyntaxKind"/>
             </summary>
             <remarks>
-            PERF: The framework specializes EqualityComparer for enums, but only if the underlying type is System.Int32
+            PERF: The frameworkMono specializes EqualityComparer for enums, but only if the underlying type is System.Int32
             Since SyntaxKind's underlying type is System.UInt16, ObjectEqualityComparer will be chosen instead.
             </remarks>
         </member>
@@ -42096,10 +42096,10 @@
             <summary>Record equality contract property '{0}' must have a get accessor.</summary>
         </member>
         <member name="P:Microsoft.CodeAnalysis.CSharp.CSharpResources.WRN_AnalyzerReferencesFramework">
-            <summary>The assembly '{0}' containing type '{1}' references .NET Framework, which is not supported.</summary>
+            <summary>The assembly '{0}' containing type '{1}' references .NET FrameworkMono, which is not supported.</summary>
         </member>
         <member name="P:Microsoft.CodeAnalysis.CSharp.CSharpResources.WRN_AnalyzerReferencesFramework_Title">
-            <summary>The loaded assembly references .NET Framework, which is not supported.</summary>
+            <summary>The loaded assembly references .NET FrameworkMono, which is not supported.</summary>
         </member>
         <member name="P:Microsoft.CodeAnalysis.CSharp.CSharpResources.ERR_BadFieldTypeInRecord">
             <summary>The type '{0}' may not be used for a field of a record.</summary>

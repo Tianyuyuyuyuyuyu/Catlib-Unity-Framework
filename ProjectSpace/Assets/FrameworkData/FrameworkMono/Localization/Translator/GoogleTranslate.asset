@@ -1,0 +1,140 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 086fda539c0a4cb44bfae251170c6197, type: 3}
+  m_Name: GoogleTranslate
+  m_EditorClassIdentifier: 
+  WaitInterval: 0
+  SupportLanguages:
+  - Name: "\u81EA\u52A8\u68C0\u6D4B"
+    Language: 0
+    Code: auto
+  - Name: "\u5357\u975E\u8377\u5170\u8BED"
+    Language: 1
+    Code: af
+  - Name: "\u963F\u62C9\u4F2F"
+    Language: 3
+    Code: ar
+  - Name: "\u5DF4\u65AF\u514B"
+    Language: 4
+    Code: eu
+  - Name: "\u767D\u4FC4\u7F57\u65AF"
+    Language: 5
+    Code: be
+  - Name: "\u4FDD\u52A0\u5229\u4E9A\u8BED"
+    Language: 6
+    Code: bg
+  - Name: "\u52A0\u6CF0\u7F57\u5C3C\u4E9A"
+    Language: 7
+    Code: ca
+  - Name: "\u7B80\u4F53\u4E2D\u6587"
+    Language: 8
+    Code: zh-CN
+  - Name: "\u7E41\u4F53\u4E2D\u6587"
+    Language: 9
+    Code: zh-TW
+  - Name: "\u585E\u5C14\u7EF4\u4E9A - \u514B\u7F57\u5730\u4E9A\u8BED"
+    Language: 42
+    Code: hr
+  - Name: "\u6377\u514B"
+    Language: 13
+    Code: cs
+  - Name: "\u4E39\u9EA6"
+    Language: 14
+    Code: da
+  - Name: "\u8377\u5170\u4EBA"
+    Language: 15
+    Code: nl
+  - Name: "\u82F1\u8BED"
+    Language: 16
+    Code: en
+  - Name: "\u7231\u6C99\u5C3C\u4E9A\u8BED"
+    Language: 17
+    Code: et
+  - Name: "\u82AC\u5170"
+    Language: 19
+    Code: fi
+  - Name: "\u6CD5\u56FD"
+    Language: 20
+    Code: fr
+  - Name: "\u5FB7\u8BED"
+    Language: 22
+    Code: de
+  - Name: "\u5E0C\u814A\u8BED"
+    Language: 23
+    Code: el
+  - Name: "\u5E0C\u4F2F\u6765\u8BED"
+    Language: 24
+    Code: iw
+  - Name: "\u5308\u7259\u5229"
+    Language: 25
+    Code: hu
+  - Name: "\u51B0\u5C9B\u7684"
+    Language: 26
+    Code: is
+  - Name: "\u5370\u5EA6\u5C3C\u897F\u4E9A"
+    Language: 27
+    Code: id
+  - Name: "\u610F\u5927\u5229"
+    Language: 28
+    Code: it
+  - Name: "\u65E5\u672C"
+    Language: 29
+    Code: ja
+  - Name: "\u97E9\u8BED"
+    Language: 30
+    Code: ko
+  - Name: "\u62C9\u8131\u7EF4\u4E9A"
+    Language: 31
+    Code: lv
+  - Name: "\u7ACB\u9676\u5B9B"
+    Language: 32
+    Code: lt
+  - Name: "\u632A\u5A01"
+    Language: 35
+    Code: no
+  - Name: "\u6CE2\u5170"
+    Language: 37
+    Code: pl
+  - Name: "\u8461\u8404\u7259\u8BED"
+    Language: 39
+    Code: pt
+  - Name: "\u7F57\u9A6C\u5C3C\u4E9A"
+    Language: 40
+    Code: ro
+  - Name: "\u4FC4\u8BED"
+    Language: 41
+    Code: ru
+  - Name: "\u65AF\u6D1B\u4F10\u514B"
+    Language: 45
+    Code: sk
+  - Name: "\u65AF\u6D1B\u6587\u5C3C\u4E9A"
+    Language: 46
+    Code: sl
+  - Name: "\u897F\u73ED\u7259\u8BED"
+    Language: 47
+    Code: es
+  - Name: "\u745E\u5178"
+    Language: 48
+    Code: sv
+  - Name: "\u6CF0\u8BED"
+    Language: 49
+    Code: th
+  - Name: "\u571F\u8033\u5176"
+    Language: 50
+    Code: tr
+  - Name: "\u4E4C\u514B\u5170"
+    Language: 51
+    Code: uk
+  - Name: "\u8D8A\u5357"
+    Language: 52
+    Code: vi
+  ApiKey: 

@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5a28334d38baf3a42813b2df3bc99f58, type: 3}
+  m_Name: TmxmallTranslate
+  m_EditorClassIdentifier: 
+  WaitInterval: 0
+  ClientId: 
+  UserName: 
+  SupportLanguages:
+  - Name: "\u7B80\u4F53\u4E2D\u6587"
+    Language: 8
+    Code: zh-CN
+  - Name: "\u7E41\u4F53\u4E2D\u6587"
+    Language: 9
+    Code: zh-HK
+  - Name: "\u82F1\u8BED"
+    Language: 16
+    Code: en-US
+  - Name: "\u65E5\u8BED"
+    Language: 29
+    Code: ja-JP
+  - Name: "\u97E9\u8BED"
+    Language: 30
+    Code: ko-KR

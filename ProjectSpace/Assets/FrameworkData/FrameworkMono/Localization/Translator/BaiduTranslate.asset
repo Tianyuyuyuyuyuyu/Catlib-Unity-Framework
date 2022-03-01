@@ -1,0 +1,105 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dddd945e01548af43aa71125632a30a7, type: 3}
+  m_Name: BaiduTranslate
+  m_EditorClassIdentifier: 
+  WaitInterval: 0
+  AppID: 
+  Key: 
+  SupportLanguages:
+  - Name: "\u81EA\u52A8\u68C0\u6D4B"
+    Language: 0
+    Code: auto
+  - Name: "\u963F\u62C9\u4F2F\u8BED"
+    Language: 3
+    Code: ara
+  - Name: "\u4FDD\u52A0\u5229\u4E9A\u8BED"
+    Language: 6
+    Code: bul
+  - Name: "\u7B80\u4F53\u4E2D\u6587"
+    Language: 8
+    Code: zh
+  - Name: "\u7E41\u4F53\u4E2D\u6587"
+    Language: 9
+    Code: cht
+  - Name: "\u6587\u8A00\u6587"
+    Language: 10
+    Code: wyw
+  - Name: "\u7CA4\u8BED"
+    Language: 11
+    Code: yue
+  - Name: "\u6377\u514B\u8BED"
+    Language: 13
+    Code: cs
+  - Name: "\u4E39\u9EA6\u8BED"
+    Language: 14
+    Code: dan
+  - Name: "\u8377\u5170\u8BED"
+    Language: 15
+    Code: nl
+  - Name: "\u82F1\u8BED"
+    Language: 16
+    Code: en
+  - Name: "\u7231\u6C99\u5C3C\u4E9A\u8BED"
+    Language: 17
+    Code: est
+  - Name: "\u82AC\u5170\u8BED"
+    Language: 19
+    Code: fin
+  - Name: "\u6CD5\u8BED"
+    Language: 20
+    Code: fra
+  - Name: "\u5FB7\u8BED"
+    Language: 22
+    Code: de
+  - Name: "\u5E0C\u814A\u8BED"
+    Language: 23
+    Code: el
+  - Name: "\u5308\u7259\u5229\u8BED"
+    Language: 25
+    Code: hu
+  - Name: "\u610F\u5927\u5229\u8BED"
+    Language: 28
+    Code: it
+  - Name: "\u65E5\u8BED"
+    Language: 29
+    Code: jp
+  - Name: "\u97E9\u8BED"
+    Language: 30
+    Code: kor
+  - Name: "\u6CE2\u5170\u8BED"
+    Language: 37
+    Code: pl
+  - Name: "\u8461\u8404\u7259\u8BED"
+    Language: 39
+    Code: pt
+  - Name: "\u7F57\u9A6C\u5C3C\u4E9A"
+    Language: 40
+    Code: rom
+  - Name: "\u4FC4\u8BED"
+    Language: 41
+    Code: ru
+  - Name: "\u65AF\u6D1B\u6587\u5C3C\u4E9A\u8BED"
+    Language: 46
+    Code: slo
+  - Name: "\u897F\u73ED\u7259\u8BED"
+    Language: 47
+    Code: spa
+  - Name: "\u745E\u5178\u8BED"
+    Language: 48
+    Code: swe
+  - Name: "\u6CF0\u8BED"
+    Language: 49
+    Code: th
+  - Name: "\u8D8A\u5357\u8BED"
+    Language: 52
+    Code: vie

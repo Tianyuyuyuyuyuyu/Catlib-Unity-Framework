@@ -110,8 +110,10 @@ namespace WingjoyUtility.Runtime
                 {
                     if (firstOrDefault.IsSubclassOf(typeof(ScriptableObject)))
                     {
-                        string savePath = EditorUtility.SaveFilePanel("创建文件", "Assets", $"New{firstOrDefault.GetNiceName()}", "asset");
-                        if (savePath != "") // Make sure user didn't press "Cancel"
+                        var savePath = EditorUtility.SaveFilePanel("创建文件", "Assets", $"New{firstOrDefault.GetNiceName()}", "asset");
+
+                        //保证用户没有点击取消
+                        if (string.IsNullOrEmpty(savePath) == false)
                         {
                             AssetDatabase.Refresh();
                             var asset = ScriptableObject.CreateInstance(firstOrDefault);

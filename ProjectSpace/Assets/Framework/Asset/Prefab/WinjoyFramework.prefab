@@ -422,7 +422,7 @@ MonoBehaviour:
       Data: 0|System.RuntimeType, mscorlib
     - Name: 
       Entry: 1
-      Data: Framework.Runtime.CoreMain, Assembly-CSharp
+      Data: Framework.Runtime.Core.CoreMain, Assembly-CSharp
     - Name: 
       Entry: 8
       Data: 

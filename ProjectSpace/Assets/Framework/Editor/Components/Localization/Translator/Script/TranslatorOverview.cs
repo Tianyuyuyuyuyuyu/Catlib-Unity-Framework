@@ -9,7 +9,7 @@ using UnityEngine.Serialization;
 
 namespace Framework.Editor.Localization
 {
-    [GlobalConfig("FrameworkData/FrameworkMono/Localization")]
+    [GlobalConfig("FrameworkData/Framework/Localization")]
     public class TranslatorOverview:GlobalConfig<TranslatorOverview>
     {
         [FormerlySerializedAs("m_TranslatorWrappers")]

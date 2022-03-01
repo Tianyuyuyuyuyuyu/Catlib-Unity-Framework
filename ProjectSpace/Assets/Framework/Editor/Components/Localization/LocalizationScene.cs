@@ -18,7 +18,7 @@ using Framework.Utility.Runtime;
 
 namespace Framework.Editor.Localization
 {
-    [GlobalConfig("FrameworkData/FrameworkMono/Localization")]
+    [GlobalConfig("FrameworkData/Framework/Localization")]
     public class LocalizationScene : GlobalConfig<LocalizationScene>
     {
         /// <summary>

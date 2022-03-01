@@ -63,7 +63,7 @@ namespace Framework.Editor.Localization
         public static ScriptableObject Create(Type type)
         {
             var s_Instance = CreateInstance(type);
-            var path = "Assets/FrameworkData/FrameworkMono/Localization/Translator/" + type.Name + ".asset";
+            var path = "Assets/FrameworkData/Framework/Localization/Translator/" + type.Name + ".asset";
             var directoryName = Path.GetDirectoryName(path);
             if (!Directory.Exists(directoryName))
             {

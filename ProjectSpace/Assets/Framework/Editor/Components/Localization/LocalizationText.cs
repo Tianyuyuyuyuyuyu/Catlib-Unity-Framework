@@ -7,7 +7,7 @@ using Framework.Runtime.Localization;
 
 namespace Framework.Editor.Localization
 {
-    [GlobalConfig("FrameworkData/FrameworkMono/Localization")]
+    [GlobalConfig("FrameworkData/Framework/Localization")]
     public class LocalizationText : GlobalConfig<LocalizationText>
     {
         public Language SourceLanguage;

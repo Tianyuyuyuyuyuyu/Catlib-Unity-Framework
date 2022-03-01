@@ -13,7 +13,7 @@ using Framework.Utility.Runtime;
 
 namespace Framework.Editor.Localization
 {
-    [GlobalConfig("FrameworkData/FrameworkMono/Localization")]
+    [GlobalConfig("FrameworkData/Framework/Localization")]
     public class TranslationDatabase : GlobalConfig<TranslationDatabase>
     {
         private string m_SearchKey;
@@ -22,7 +22,7 @@ namespace Framework.Editor.Localization
         private Dictionary<TranslationResultXML,bool> m_CurrentResultXml = new Dictionary<TranslationResultXML, bool>();
 
         private static readonly string m_TranslationDatabasePath =
-            "FrameworkData/FrameworkMono/Localization";
+            "FrameworkData/Framework/Localization";
 
         private readonly string m_XmlPath = m_TranslationDatabasePath + "/TranslationDatabase.xml";
         private readonly string m_OutPutPath = m_TranslationDatabasePath + "/OutPutTranslationDatabase.xml";

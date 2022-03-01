@@ -7,7 +7,7 @@ using Framework.Runtime.Localization;
 
 namespace Framework.Editor.Localization
 {
-    [GlobalConfig("FrameworkMono/Editor/Component/Localization/Tools")]
+    [GlobalConfig("FrameworkData/Editor/Component/Localization/Tools")]
     public class MergeExcel : GlobalConfig<MergeExcel>
     {
         /// <summary>

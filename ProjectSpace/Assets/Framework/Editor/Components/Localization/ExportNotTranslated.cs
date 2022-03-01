@@ -10,7 +10,7 @@ using Framework.Utility.Runtime;
 
 namespace Framework.Editor.Localization
 {
-    [GlobalConfig("FrameworkData/FrameworkMono/Localization")]
+    [GlobalConfig("FrameworkData/Framework/Localization")]
     public class ExportNotTranslated : GlobalConfig<ExportNotTranslated>
     {
         /// <summary>
@@ -24,7 +24,7 @@ namespace Framework.Editor.Localization
         [Button("导出未翻译部分", ButtonSizes.Large)]
         public void ExportNotTranslatedContent()
         {
-            var folder = Path.GetDirectoryName("Assets/FrameworkData/FrameworkMono/Localization/NotTranslated/");
+            var folder = Path.GetDirectoryName("Assets/FrameworkData/Framework/Localization/NotTranslated/");
             if (!Directory.Exists(folder))
             {
                 Directory.CreateDirectory(folder);
@@ -107,7 +107,7 @@ namespace Framework.Editor.Localization
         [Button("比对上次翻译并导出", ButtonSizes.Large)]
         public void CompareExport()
         {
-            var folder = Path.GetDirectoryName("Assets/FrameworkData/FrameworkMono/Localization/CompareResult/");
+            var folder = Path.GetDirectoryName("Assets/FrameworkData/Framework/Localization/CompareResult/");
             if (!Directory.Exists(folder))
             {
                 Directory.CreateDirectory(folder);
@@ -197,7 +197,7 @@ namespace Framework.Editor.Localization
         [Button("导出所有文本", ButtonSizes.Large)]
         public void ExportAllText()
         {
-            var folder = Path.GetDirectoryName("Assets/FrameworkData/FrameworkMono/Localization/Text/");
+            var folder = Path.GetDirectoryName("Assets/FrameworkData/Framework/Localization/Text/");
             if (!Directory.Exists(folder))
             {
                 Directory.CreateDirectory(folder);

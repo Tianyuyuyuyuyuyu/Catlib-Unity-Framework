@@ -187,7 +187,7 @@ namespace Framework.Runtime.Audio
         public void GenerateAudioLibrary()
         {
             string fileName = $"AudioId - {m_LibraryName}.cs";
-            string filePath = $"{RuntimeUtilities.Path.FrameworkDataPath}/FrameworkMono/Audio/Script/{fileName}";
+            string filePath = $"{RuntimeUtilities.Path.FrameworkDataPath}/Framework/Audio/Script/{fileName}";
 
             string directory = Path.GetDirectoryName(filePath);
             if (!Directory.Exists(directory))

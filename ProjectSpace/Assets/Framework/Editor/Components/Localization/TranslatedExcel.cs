@@ -12,7 +12,7 @@ using Framework.Utility.Runtime;
 
 namespace Framework.Editor.Localization
 {
-    [GlobalConfig("FrameworkData/FrameworkMono/Localization")]
+    [GlobalConfig("FrameworkData/Framework/Localization")]
     public class TranslatedExcel : GlobalConfig<TranslatedExcel>
     {
         /// <summary>

@@ -4,7 +4,7 @@ using UnityEngine;
 
 namespace Framework.Editor.Localization
 {
-    [GlobalConfig("FrameworkData/FrameworkMono/Localization")]
+    [GlobalConfig("FrameworkData/Framework/Localization")]
     public class GenerateExcel : GlobalConfig<GenerateExcel>
     {
         /// <summary>

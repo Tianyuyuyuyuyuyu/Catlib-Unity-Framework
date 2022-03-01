@@ -1,0 +1,3534 @@
+Using pre-set license
+Built from '2020.3/china_unity/release' branch; Version is '2020.3.27f1c1 (35c20f28741a) revision 3523087'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19042) 64bit Professional' Language: 'zh' Physical Memory: 16308 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+F:\UntyVersions\2020.3.27f1c1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+F:/UnityProJects/Catlib-Unity-Framework/ProjectSpace
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+52430
+Successfully changed project path to: F:/UnityProJects/Catlib-Unity-Framework/ProjectSpace
+F:/UnityProJects/Catlib-Unity-Framework/ProjectSpace
+Using Asset Import Pipeline V2.
+AS: AutoStreaming module initializing.Refreshing native plugins compatible for Editor in 113.80 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.27f1c1 (35c20f28741a)
+[Subsystems] Discovering subsystems at path F:/UntyVersions/2020.3.27f1c1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path F:/UnityProJects/Catlib-Unity-Framework/ProjectSpace/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 2060 (ID=0x1f08)
+    Vendor:   
+    VRAM:     5980 MB
+    Driver:   27.21.14.6192
+Initialize mono
+Mono path[0] = 'F:/UntyVersions/2020.3.27f1c1/Editor/Data/Managed'
+Mono path[1] = 'F:/UntyVersions/2020.3.27f1c1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'F:/UntyVersions/2020.3.27f1c1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56664
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: F:/UntyVersions/2020.3.27f1c1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001132 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 117.17 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.740 seconds
+Domain Reload Profiling:
+	ReloadAssembly (740ms)
+		BeginReloadAssembly (64ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (599ms)
+			LoadAssemblies (63ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (183ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (34ms)
+			SetupLoadedEditorAssemblies (265ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (117ms)
+				BeforeProcessingInitializeOnLoad (17ms)
+				ProcessInitializeOnLoadAttributes (95ms)
+				ProcessInitializeOnLoadMethodAttributes (30ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.013107 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 114.75 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.000 seconds
+Domain Reload Profiling:
+	ReloadAssembly (4001ms)
+		BeginReloadAssembly (170ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (21ms)
+		EndReloadAssembly (3767ms)
+			LoadAssemblies (127ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (700ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (63ms)
+			SetupLoadedEditorAssemblies (2742ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (115ms)
+				BeforeProcessingInitializeOnLoad (112ms)
+				ProcessInitializeOnLoadAttributes (2392ms)
+				ProcessInitializeOnLoadMethodAttributes (115ms)
+				AfterProcessingInitializeOnLoad (3ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.08 seconds
+Refreshing native plugins compatible for Editor in 1.19 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3820 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 170.8 MB.
+System memory in use after: 171.0 MB.
+
+Unloading 48 unused Assets to reduce memory usage. Loaded Objects now: 4278.
+Total: 42.966100 ms (FindLiveObjects: 0.306800 ms CreateObjectMapping: 0.238500 ms MarkObjects: 42.320400 ms  DeleteObjects: 0.099000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/Framework/Utility/Editor/Git/Git.cs
+  artifactKey: Guid(ad47ebc73f08b53429d9ae8f82c0d68c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Framework/Utility/Editor/Git/Git.cs using Guid(ad47ebc73f08b53429d9ae8f82c0d68c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b82470726ae60b6c4bf41f111f25960') in 0.048358 seconds 
+  Import took 0.054967 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.904445 seconds.
+  path: Assets/Framework/Utility/Editor/Git/Git.cs
+  artifactKey: Guid(ad47ebc73f08b53429d9ae8f82c0d68c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Framework/Utility/Editor/Git/Git.cs using Guid(ad47ebc73f08b53429d9ae8f82c0d68c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb4d99d2a731b5c042fef3c824e8bb15') in 0.006138 seconds 
+  Import took 0.025002 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.012296 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.27 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Hello Editor CatLib.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+SecondLife.Editor.EditorMain:OnStartCompleted (CatLib.IApplication,CatLib.StartCompletedEventArgs) (at Assets/Catlib/Demo/Editor/EditorMain.cs:27)
+CatLib.Editor.EditorFramework:<BeforeBootstrap>b__10_0 (object,System.EventArgs) (at Assets/Catlib/Editor/EditorFramework.cs:101)
+CatLib.EventDispatcher.EventDispatcher:Raise (string,object,System.EventArgs)
+CatLib.Application:Raise<CatLib.StartCompletedEventArgs> (CatLib.StartCompletedEventArgs)
+CatLib.Application:Init ()
+CatLib.Editor.EditorFramework:ApplyEditorApplication () (at Assets/Catlib/Editor/EditorFramework.cs:91)
+CatLib.Editor.EditorFramework:.cctor () (at Assets/Catlib/Editor/EditorFramework.cs:37)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+(Filename: Assets/Catlib/Demo/Editor/EditorMain.cs Line: 27)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  3.995 seconds
+Domain Reload Profiling:
+	ReloadAssembly (3995ms)
+		BeginReloadAssembly (167ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (85ms)
+		EndReloadAssembly (3763ms)
+			LoadAssemblies (127ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (714ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (53ms)
+			SetupLoadedEditorAssemblies (2750ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (107ms)
+				ProcessInitializeOnLoadAttributes (2518ms)
+				ProcessInitializeOnLoadMethodAttributes (116ms)
+				AfterProcessingInitializeOnLoad (3ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 1.25 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3762 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 182.0 MB.
+System memory in use after: 182.2 MB.
+
+Unloading 44 unused Assets to reduce memory usage. Loaded Objects now: 4280.
+Total: 44.757500 ms (FindLiveObjects: 0.361400 ms CreateObjectMapping: 0.284400 ms MarkObjects: 44.076500 ms  DeleteObjects: 0.034100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.012374 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.25 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Hello Editor CatLib.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+SecondLife.Editor.EditorMain:OnStartCompleted (CatLib.IApplication,CatLib.StartCompletedEventArgs) (at Assets/Catlib/Demo/Editor/EditorMain.cs:27)
+CatLib.Editor.EditorFramework:<BeforeBootstrap>b__10_0 (object,System.EventArgs) (at Assets/Catlib/Editor/EditorFramework.cs:101)
+CatLib.EventDispatcher.EventDispatcher:Raise (string,object,System.EventArgs)
+CatLib.Application:Raise<CatLib.StartCompletedEventArgs> (CatLib.StartCompletedEventArgs)
+CatLib.Application:Init ()
+CatLib.Editor.EditorFramework:ApplyEditorApplication () (at Assets/Catlib/Editor/EditorFramework.cs:91)
+CatLib.Editor.EditorFramework:.cctor () (at Assets/Catlib/Editor/EditorFramework.cs:37)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+(Filename: Assets/Catlib/Demo/Editor/EditorMain.cs Line: 27)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  3.854 seconds
+Domain Reload Profiling:
+	ReloadAssembly (3855ms)
+		BeginReloadAssembly (173ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (93ms)
+		EndReloadAssembly (3616ms)
+			LoadAssemblies (129ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (629ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (51ms)
+			SetupLoadedEditorAssemblies (2691ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (107ms)
+				ProcessInitializeOnLoadAttributes (2475ms)
+				ProcessInitializeOnLoadMethodAttributes (100ms)
+				AfterProcessingInitializeOnLoad (3ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 1.18 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3762 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 182.0 MB.
+System memory in use after: 182.3 MB.
+
+Unloading 44 unused Assets to reduce memory usage. Loaded Objects now: 4282.
+Total: 42.671500 ms (FindLiveObjects: 0.304900 ms CreateObjectMapping: 0.233300 ms MarkObjects: 42.097500 ms  DeleteObjects: 0.034500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.012280 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.25 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Hello Editor CatLib.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+SecondLife.Editor.EditorMain:OnStartCompleted (CatLib.IApplication,CatLib.StartCompletedEventArgs) (at Assets/Catlib/Demo/Editor/EditorMain.cs:27)
+CatLib.Editor.EditorFramework:<BeforeBootstrap>b__10_0 (object,System.EventArgs) (at Assets/Catlib/Editor/EditorFramework.cs:101)
+CatLib.EventDispatcher.EventDispatcher:Raise (string,object,System.EventArgs)
+CatLib.Application:Raise<CatLib.StartCompletedEventArgs> (CatLib.StartCompletedEventArgs)
+CatLib.Application:Init ()
+CatLib.Editor.EditorFramework:ApplyEditorApplication () (at Assets/Catlib/Editor/EditorFramework.cs:91)
+CatLib.Editor.EditorFramework:.cctor () (at Assets/Catlib/Editor/EditorFramework.cs:37)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+(Filename: Assets/Catlib/Demo/Editor/EditorMain.cs Line: 27)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  4.106 seconds
+Domain Reload Profiling:
+	ReloadAssembly (4107ms)
+		BeginReloadAssembly (170ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (89ms)
+		EndReloadAssembly (3870ms)
+			LoadAssemblies (134ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (713ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (52ms)
+			SetupLoadedEditorAssemblies (2851ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (108ms)
+				ProcessInitializeOnLoadAttributes (2630ms)
+				ProcessInitializeOnLoadMethodAttributes (103ms)
+				AfterProcessingInitializeOnLoad (3ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 1.30 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3763 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 182.1 MB.
+System memory in use after: 182.3 MB.
+
+Unloading 44 unused Assets to reduce memory usage. Loaded Objects now: 4285.
+Total: 45.291000 ms (FindLiveObjects: 0.372700 ms CreateObjectMapping: 0.295100 ms MarkObjects: 44.582700 ms  DeleteObjects: 0.038900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 218.885909 seconds.
+  path: Assets/com.wingjoy.framework@0.10.1/Runtime/Utility/ReflectionExtension.cs
+  artifactKey: Guid(b07be4e7b2b1da64580d0ab0de3e32cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/com.wingjoy.framework@0.10.1/Runtime/Utility/ReflectionExtension.cs using Guid(b07be4e7b2b1da64580d0ab0de3e32cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '59f26a36879856b4f771e50523f2e3d9') in 0.013339 seconds 
+  Import took 0.022006 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 55.590812 seconds.
+  path: Assets/Framework/Utility/Runtime/RuntimeUtilities.ReflectionExtension.cs
+  artifactKey: Guid(7e05e397ee35f8b4e83f3029ef542ddb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Framework/Utility/Runtime/RuntimeUtilities.ReflectionExtension.cs using Guid(7e05e397ee35f8b4e83f3029ef542ddb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38b7a7cc6e32fd431b153dbb3e0609af') in 0.013112 seconds 
+  Import took 0.020142 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.318559 seconds.
+  path: Assets/Framework/Utility/Runtime/RuntimeUtilities.ScriptableObjectHelper.cs
+  artifactKey: Guid(4a51bd3b5590ba949b54fa4535db9a66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Framework/Utility/Runtime/RuntimeUtilities.ScriptableObjectHelper.cs using Guid(4a51bd3b5590ba949b54fa4535db9a66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6eec90b353183a77446d451ee8bb59e6') in 0.013780 seconds 
+  Import took 0.020638 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.012288 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.23 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Hello Editor CatLib.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+SecondLife.Editor.EditorMain:OnStartCompleted (CatLib.IApplication,CatLib.StartCompletedEventArgs) (at Assets/Catlib/Demo/Editor/EditorMain.cs:27)
+CatLib.Editor.EditorFramework:<BeforeBootstrap>b__10_0 (object,System.EventArgs) (at Assets/Catlib/Editor/EditorFramework.cs:101)
+CatLib.EventDispatcher.EventDispatcher:Raise (string,object,System.EventArgs)
+CatLib.Application:Raise<CatLib.StartCompletedEventArgs> (CatLib.StartCompletedEventArgs)
+CatLib.Application:Init ()
+CatLib.Editor.EditorFramework:ApplyEditorApplication () (at Assets/Catlib/Editor/EditorFramework.cs:91)
+CatLib.Editor.EditorFramework:.cctor () (at Assets/Catlib/Editor/EditorFramework.cs:37)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+(Filename: Assets/Catlib/Demo/Editor/EditorMain.cs Line: 27)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  4.081 seconds
+Domain Reload Profiling:
+	ReloadAssembly (4082ms)
+		BeginReloadAssembly (172ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (89ms)
+		EndReloadAssembly (3844ms)
+			LoadAssemblies (131ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (702ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (50ms)
+			SetupLoadedEditorAssemblies (2843ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (106ms)
+				ProcessInitializeOnLoadAttributes (2612ms)
+				ProcessInitializeOnLoadMethodAttributes (116ms)
+				AfterProcessingInitializeOnLoad (3ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 1.25 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3763 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 182.1 MB.
+System memory in use after: 182.3 MB.
+
+Unloading 44 unused Assets to reduce memory usage. Loaded Objects now: 4287.
+Total: 46.587400 ms (FindLiveObjects: 0.367900 ms CreateObjectMapping: 0.265000 ms MarkObjects: 45.916000 ms  DeleteObjects: 0.036600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.012431 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.28 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Hello Editor CatLib.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+SecondLife.Editor.EditorMain:OnStartCompleted (CatLib.IApplication,CatLib.StartCompletedEventArgs) (at Assets/Catlib/Demo/Editor/EditorMain.cs:27)
+CatLib.Editor.EditorFramework:<BeforeBootstrap>b__10_0 (object,System.EventArgs) (at Assets/Catlib/Editor/EditorFramework.cs:101)
+CatLib.EventDispatcher.EventDispatcher:Raise (string,object,System.EventArgs)
+CatLib.Application:Raise<CatLib.StartCompletedEventArgs> (CatLib.StartCompletedEventArgs)
+CatLib.Application:Init ()
+CatLib.Editor.EditorFramework:ApplyEditorApplication () (at Assets/Catlib/Editor/EditorFramework.cs:91)
+CatLib.Editor.EditorFramework:.cctor () (at Assets/Catlib/Editor/EditorFramework.cs:37)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+(Filename: Assets/Catlib/Demo/Editor/EditorMain.cs Line: 27)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  3.992 seconds
+Domain Reload Profiling:
+	ReloadAssembly (3993ms)
+		BeginReloadAssembly (166ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (86ms)
+		EndReloadAssembly (3761ms)
+			LoadAssemblies (132ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (730ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (52ms)
+			SetupLoadedEditorAssemblies (2720ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (118ms)
+				ProcessInitializeOnLoadAttributes (2478ms)
+				ProcessInitializeOnLoadMethodAttributes (113ms)
+				AfterProcessingInitializeOnLoad (3ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 1.23 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3763 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 182.1 MB.
+System memory in use after: 182.4 MB.
+
+Unloading 44 unused Assets to reduce memory usage. Loaded Objects now: 4289.
+Total: 45.117000 ms (FindLiveObjects: 0.326000 ms CreateObjectMapping: 0.239100 ms MarkObjects: 44.513000 ms  DeleteObjects: 0.037400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.012337 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.24 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Hello Editor CatLib.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+SecondLife.Editor.EditorMain:OnStartCompleted (CatLib.IApplication,CatLib.StartCompletedEventArgs) (at Assets/Catlib/Demo/Editor/EditorMain.cs:27)
+CatLib.Editor.EditorFramework:<BeforeBootstrap>b__10_0 (object,System.EventArgs) (at Assets/Catlib/Editor/EditorFramework.cs:101)
+CatLib.EventDispatcher.EventDispatcher:Raise (string,object,System.EventArgs)
+CatLib.Application:Raise<CatLib.StartCompletedEventArgs> (CatLib.StartCompletedEventArgs)
+CatLib.Application:Init ()
+CatLib.Editor.EditorFramework:ApplyEditorApplication () (at Assets/Catlib/Editor/EditorFramework.cs:91)
+CatLib.Editor.EditorFramework:.cctor () (at Assets/Catlib/Editor/EditorFramework.cs:37)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+(Filename: Assets/Catlib/Demo/Editor/EditorMain.cs Line: 27)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  4.035 seconds
+Domain Reload Profiling:
+	ReloadAssembly (4036ms)
+		BeginReloadAssembly (170ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (88ms)
+		EndReloadAssembly (3799ms)
+			LoadAssemblies (129ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (697ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (51ms)
+			SetupLoadedEditorAssemblies (2797ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (105ms)
+				ProcessInitializeOnLoadAttributes (2586ms)
+				ProcessInitializeOnLoadMethodAttributes (97ms)
+				AfterProcessingInitializeOnLoad (3ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 1.21 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3763 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 182.1 MB.
+System memory in use after: 182.4 MB.
+
+Unloading 44 unused Assets to reduce memory usage. Loaded Objects now: 4291.
+Total: 43.668600 ms (FindLiveObjects: 0.329900 ms CreateObjectMapping: 0.254700 ms MarkObjects: 43.048100 ms  DeleteObjects: 0.034300 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 118.495332 seconds.
+  path: Assets/Framework/Asset/Prefab/WinjoyFramework.prefab
+  artifactKey: Guid(267ac3ac6f6c79144864fcadf999d2f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Framework/Asset/Prefab/WinjoyFramework.prefab using Guid(267ac3ac6f6c79144864fcadf999d2f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '083882d4bd36a7075c904aa922955ab2') in 0.083917 seconds 
+  Import took 0.092426 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.012483 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.25 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Hello Editor CatLib.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+SecondLife.Editor.EditorMain:OnStartCompleted (CatLib.IApplication,CatLib.StartCompletedEventArgs) (at Assets/Catlib/Demo/Editor/EditorMain.cs:27)
+CatLib.Editor.EditorFramework:<BeforeBootstrap>b__10_0 (object,System.EventArgs) (at Assets/Catlib/Editor/EditorFramework.cs:101)
+CatLib.EventDispatcher.EventDispatcher:Raise (string,object,System.EventArgs)
+CatLib.Application:Raise<CatLib.StartCompletedEventArgs> (CatLib.StartCompletedEventArgs)
+CatLib.Application:Init ()
+CatLib.Editor.EditorFramework:ApplyEditorApplication () (at Assets/Catlib/Editor/EditorFramework.cs:91)
+CatLib.Editor.EditorFramework:.cctor () (at Assets/Catlib/Editor/EditorFramework.cs:37)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+(Filename: Assets/Catlib/Demo/Editor/EditorMain.cs Line: 27)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  4.114 seconds
+Domain Reload Profiling:
+	ReloadAssembly (4115ms)
+		BeginReloadAssembly (181ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (90ms)
+		EndReloadAssembly (3854ms)
+			LoadAssemblies (133ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (698ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (53ms)
+			SetupLoadedEditorAssemblies (2847ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (107ms)
+				ProcessInitializeOnLoadAttributes (2602ms)
+				ProcessInitializeOnLoadMethodAttributes (128ms)
+				AfterProcessingInitializeOnLoad (3ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 1.28 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3764 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 182.2 MB.
+System memory in use after: 182.4 MB.
+
+Unloading 45 unused Assets to reduce memory usage. Loaded Objects now: 4293.
+Total: 47.233200 ms (FindLiveObjects: 0.364500 ms CreateObjectMapping: 0.291800 ms MarkObjects: 46.531400 ms  DeleteObjects: 0.043700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.012362 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.24 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Hello Editor CatLib.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+SecondLife.Editor.EditorMain:OnStartCompleted (CatLib.IApplication,CatLib.StartCompletedEventArgs) (at Assets/Catlib/Demo/Editor/EditorMain.cs:27)
+CatLib.Editor.EditorFramework:<BeforeBootstrap>b__10_0 (object,System.EventArgs) (at Assets/Catlib/Editor/EditorFramework.cs:101)
+CatLib.EventDispatcher.EventDispatcher:Raise (string,object,System.EventArgs)
+CatLib.Application:Raise<CatLib.StartCompletedEventArgs> (CatLib.StartCompletedEventArgs)
+CatLib.Application:Init ()
+CatLib.Editor.EditorFramework:ApplyEditorApplication () (at Assets/Catlib/Editor/EditorFramework.cs:91)
+CatLib.Editor.EditorFramework:.cctor () (at Assets/Catlib/Editor/EditorFramework.cs:37)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+(Filename: Assets/Catlib/Demo/Editor/EditorMain.cs Line: 27)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  3.970 seconds
+Domain Reload Profiling:
+	ReloadAssembly (3970ms)
+		BeginReloadAssembly (170ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (89ms)
+		EndReloadAssembly (3735ms)
+			LoadAssemblies (131ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (700ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (51ms)
+			SetupLoadedEditorAssemblies (2720ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (106ms)
+				ProcessInitializeOnLoadAttributes (2496ms)
+				ProcessInitializeOnLoadMethodAttributes (108ms)
+				AfterProcessingInitializeOnLoad (3ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 1.22 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3764 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 182.2 MB.
+System memory in use after: 182.4 MB.
+
+Unloading 45 unused Assets to reduce memory usage. Loaded Objects now: 4295.
+Total: 47.066300 ms (FindLiveObjects: 0.336300 ms CreateObjectMapping: 0.242000 ms MarkObjects: 46.446400 ms  DeleteObjects: 0.039700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.012474 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.35 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Hello Editor CatLib.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+SecondLife.Editor.EditorMain:OnStartCompleted (CatLib.IApplication,CatLib.StartCompletedEventArgs) (at Assets/Catlib/Demo/Editor/EditorMain.cs:27)
+CatLib.Editor.EditorFramework:<BeforeBootstrap>b__10_0 (object,System.EventArgs) (at Assets/Catlib/Editor/EditorFramework.cs:101)
+CatLib.EventDispatcher.EventDispatcher:Raise (string,object,System.EventArgs)
+CatLib.Application:Raise<CatLib.StartCompletedEventArgs> (CatLib.StartCompletedEventArgs)
+CatLib.Application:Init ()
+CatLib.Editor.EditorFramework:ApplyEditorApplication () (at Assets/Catlib/Editor/EditorFramework.cs:91)
+CatLib.Editor.EditorFramework:.cctor () (at Assets/Catlib/Editor/EditorFramework.cs:37)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+(Filename: Assets/Catlib/Demo/Editor/EditorMain.cs Line: 27)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  3.909 seconds
+Domain Reload Profiling:
+	ReloadAssembly (3910ms)
+		BeginReloadAssembly (161ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (80ms)
+		EndReloadAssembly (3684ms)
+			LoadAssemblies (131ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (693ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (53ms)
+			SetupLoadedEditorAssemblies (2669ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (106ms)
+				ProcessInitializeOnLoadAttributes (2448ms)
+				ProcessInitializeOnLoadMethodAttributes (105ms)
+				AfterProcessingInitializeOnLoad (3ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 1.25 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3764 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 182.2 MB.
+System memory in use after: 182.4 MB.
+
+Unloading 45 unused Assets to reduce memory usage. Loaded Objects now: 4297.
+Total: 44.757000 ms (FindLiveObjects: 0.334700 ms CreateObjectMapping: 0.241000 ms MarkObjects: 44.137300 ms  DeleteObjects: 0.041800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.012382 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.28 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Hello Editor CatLib.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+SecondLife.Editor.EditorMain:OnStartCompleted (CatLib.IApplication,CatLib.StartCompletedEventArgs) (at Assets/Catlib/Demo/Editor/EditorMain.cs:27)
+CatLib.Editor.EditorFramework:<BeforeBootstrap>b__10_0 (object,System.EventArgs) (at Assets/Catlib/Editor/EditorFramework.cs:101)
+CatLib.EventDispatcher.EventDispatcher:Raise (string,object,System.EventArgs)
+CatLib.Application:Raise<CatLib.StartCompletedEventArgs> (CatLib.StartCompletedEventArgs)
+CatLib.Application:Init ()
+CatLib.Editor.EditorFramework:ApplyEditorApplication () (at Assets/Catlib/Editor/EditorFramework.cs:91)
+CatLib.Editor.EditorFramework:.cctor () (at Assets/Catlib/Editor/EditorFramework.cs:37)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+(Filename: Assets/Catlib/Demo/Editor/EditorMain.cs Line: 27)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  3.888 seconds
+Domain Reload Profiling:
+	ReloadAssembly (3888ms)
+		BeginReloadAssembly (163ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (82ms)
+		EndReloadAssembly (3661ms)
+			LoadAssemblies (132ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (682ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (50ms)
+			SetupLoadedEditorAssemblies (2661ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (106ms)
+				ProcessInitializeOnLoadAttributes (2441ms)
+				ProcessInitializeOnLoadMethodAttributes (104ms)
+				AfterProcessingInitializeOnLoad (3ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 1.23 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3764 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 182.2 MB.
+System memory in use after: 182.4 MB.
+
+Unloading 45 unused Assets to reduce memory usage. Loaded Objects now: 4299.
+Total: 45.295900 ms (FindLiveObjects: 0.322900 ms CreateObjectMapping: 0.232800 ms MarkObjects: 44.698800 ms  DeleteObjects: 0.039900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 213.449551 seconds.
+  path: Assets/Framework/Runtime/Core/Launcher.cs
+  artifactKey: Guid(ae4002dcff25e164aa29b079130b92a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Framework/Runtime/Core/Launcher.cs using Guid(ae4002dcff25e164aa29b079130b92a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1397ecd50b2664367f4913c0cca713df') in 0.006700 seconds 
+  Import took 0.024109 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.887177 seconds.
+  path: Assets/Framework/Runtime/Core/BuiltInBundle.cs
+  artifactKey: Guid(ba8bab5b2916406a9be19401aa371453) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Framework/Runtime/Core/BuiltInBundle.cs using Guid(ba8bab5b2916406a9be19401aa371453) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a76efffd04cc5cb5bf310596945c92e') in 0.012648 seconds 
+  Import took 0.019433 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.282883 seconds.
+  path: Assets/Framework/Runtime/Core/BuiltInBundle.cs
+  artifactKey: Guid(ba8bab5b2916406a9be19401aa371453) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Framework/Runtime/Core/BuiltInBundle.cs using Guid(ba8bab5b2916406a9be19401aa371453) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc4e94a91ae265ca84a4ff47a08d3225') in 0.005737 seconds 
+  Import took 0.025195 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.934574 seconds.
+  path: Assets/Framework/Runtime/Core/CoreMain.cs
+  artifactKey: Guid(8b1423a099ed48988df4731726aac2ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Framework/Runtime/Core/CoreMain.cs using Guid(8b1423a099ed48988df4731726aac2ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d53a144dca1cb18bcc05d9007f002b6') in 0.012798 seconds 
+  Import took 0.019732 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.861591 seconds.
+  path: Assets/Framework/Runtime/Core/CoreMain.cs
+  artifactKey: Guid(8b1423a099ed48988df4731726aac2ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Framework/Runtime/Core/CoreMain.cs using Guid(8b1423a099ed48988df4731726aac2ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f27dc95727b93423074a7f5adc067dc5') in 0.006166 seconds 
+  Import took 0.013025 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.651758 seconds.
+  path: Assets/Framework/Runtime/Core/FrameworkMono.cs
+  artifactKey: Guid(68186911819d0b64b92f02f0dba85dae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Framework/Runtime/Core/FrameworkMono.cs using Guid(68186911819d0b64b92f02f0dba85dae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2effc40728653b25bab3d0707a6379b') in 0.012722 seconds 
+  Import took 0.019567 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.750054 seconds.
+  path: Assets/Framework/Runtime/Core/FrameworkMono.cs
+  artifactKey: Guid(68186911819d0b64b92f02f0dba85dae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Framework/Runtime/Core/FrameworkMono.cs using Guid(68186911819d0b64b92f02f0dba85dae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b02b98ca847089fede58a62ccb7380a') in 0.002189 seconds 
+  Import took 0.011012 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.233989 seconds.
+  path: Assets/Framework/Runtime/Core/Launcher.cs
+  artifactKey: Guid(ae4002dcff25e164aa29b079130b92a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Framework/Runtime/Core/Launcher.cs using Guid(ae4002dcff25e164aa29b079130b92a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c3edd7ead412e8f63f0bb0e232d219f') in 0.002100 seconds 
+  Import took 0.012474 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.758591 seconds.
+  path: Assets/Framework/Runtime/Core/LauncherMode.cs
+  artifactKey: Guid(35a000b6cdefa424ca123d830bb3f25b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Framework/Runtime/Core/LauncherMode.cs using Guid(35a000b6cdefa424ca123d830bb3f25b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a3c547248993a95955e62be922ee4ec8') in 0.005826 seconds 
+  Import took 0.012673 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.823531 seconds.
+  path: Assets/Framework/Runtime/Core/LauncherMode.cs
+  artifactKey: Guid(35a000b6cdefa424ca123d830bb3f25b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Framework/Runtime/Core/LauncherMode.cs using Guid(35a000b6cdefa424ca123d830bb3f25b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '750cd7673ebe0db9735a8d5699a4c364') in 0.001946 seconds 
+  Import took 0.025315 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.012516 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.29 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Hello Editor CatLib.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+SecondLife.Editor.EditorMain:OnStartCompleted (CatLib.IApplication,CatLib.StartCompletedEventArgs) (at Assets/Catlib/Demo/Editor/EditorMain.cs:27)
+CatLib.Editor.EditorFramework:<BeforeBootstrap>b__10_0 (object,System.EventArgs) (at Assets/Catlib/Editor/EditorFramework.cs:101)
+CatLib.EventDispatcher.EventDispatcher:Raise (string,object,System.EventArgs)
+CatLib.Application:Raise<CatLib.StartCompletedEventArgs> (CatLib.StartCompletedEventArgs)
+CatLib.Application:Init ()
+CatLib.Editor.EditorFramework:ApplyEditorApplication () (at Assets/Catlib/Editor/EditorFramework.cs:91)
+CatLib.Editor.EditorFramework:.cctor () (at Assets/Catlib/Editor/EditorFramework.cs:37)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+(Filename: Assets/Catlib/Demo/Editor/EditorMain.cs Line: 27)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  3.925 seconds
+Domain Reload Profiling:
+	ReloadAssembly (3925ms)
+		BeginReloadAssembly (167ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (85ms)
+		EndReloadAssembly (3693ms)
+			LoadAssemblies (135ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (688ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (52ms)
+			SetupLoadedEditorAssemblies (2680ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (105ms)
+				ProcessInitializeOnLoadAttributes (2460ms)
+				ProcessInitializeOnLoadMethodAttributes (105ms)
+				AfterProcessingInitializeOnLoad (3ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 1.21 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3764 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 182.2 MB.
+System memory in use after: 182.4 MB.
+
+Unloading 45 unused Assets to reduce memory usage. Loaded Objects now: 4301.
+Total: 44.493600 ms (FindLiveObjects: 0.320500 ms CreateObjectMapping: 0.224500 ms MarkObjects: 43.904500 ms  DeleteObjects: 0.042400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.012321 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.23 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Hello Editor CatLib.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+SecondLife.Editor.EditorMain:OnStartCompleted (CatLib.IApplication,CatLib.StartCompletedEventArgs) (at Assets/Catlib/Demo/Editor/EditorMain.cs:27)
+CatLib.Editor.EditorFramework:<BeforeBootstrap>b__10_0 (object,System.EventArgs) (at Assets/Catlib/Editor/EditorFramework.cs:101)
+CatLib.EventDispatcher.EventDispatcher:Raise (string,object,System.EventArgs)
+CatLib.Application:Raise<CatLib.StartCompletedEventArgs> (CatLib.StartCompletedEventArgs)
+CatLib.Application:Init ()
+CatLib.Editor.EditorFramework:ApplyEditorApplication () (at Assets/Catlib/Editor/EditorFramework.cs:91)
+CatLib.Editor.EditorFramework:.cctor () (at Assets/Catlib/Editor/EditorFramework.cs:37)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+(Filename: Assets/Catlib/Demo/Editor/EditorMain.cs Line: 27)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  3.883 seconds
+Domain Reload Profiling:
+	ReloadAssembly (3883ms)
+		BeginReloadAssembly (155ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (76ms)
+		EndReloadAssembly (3663ms)
+			LoadAssemblies (124ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (681ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (52ms)
+			SetupLoadedEditorAssemblies (2665ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (105ms)
+				ProcessInitializeOnLoadAttributes (2449ms)
+				ProcessInitializeOnLoadMethodAttributes (101ms)
+				AfterProcessingInitializeOnLoad (3ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 1.08 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3764 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 182.2 MB.
+System memory in use after: 182.4 MB.
+
+Unloading 45 unused Assets to reduce memory usage. Loaded Objects now: 4303.
+Total: 41.186400 ms (FindLiveObjects: 0.272700 ms CreateObjectMapping: 0.170300 ms MarkObjects: 40.703000 ms  DeleteObjects: 0.038900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.012335 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.22 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Hello Editor CatLib.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+SecondLife.Editor.EditorMain:OnStartCompleted (CatLib.IApplication,CatLib.StartCompletedEventArgs) (at Assets/Catlib/Demo/Editor/EditorMain.cs:27)
+CatLib.Editor.EditorFramework:<BeforeBootstrap>b__10_0 (object,System.EventArgs) (at Assets/Catlib/Editor/EditorFramework.cs:101)
+CatLib.EventDispatcher.EventDispatcher:Raise (string,object,System.EventArgs)
+CatLib.Application:Raise<CatLib.StartCompletedEventArgs> (CatLib.StartCompletedEventArgs)
+CatLib.Application:Init ()
+CatLib.Editor.EditorFramework:ApplyEditorApplication () (at Assets/Catlib/Editor/EditorFramework.cs:91)
+CatLib.Editor.EditorFramework:.cctor () (at Assets/Catlib/Editor/EditorFramework.cs:37)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+(Filename: Assets/Catlib/Demo/Editor/EditorMain.cs Line: 27)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  3.741 seconds
+Domain Reload Profiling:
+	ReloadAssembly (3742ms)
+		BeginReloadAssembly (167ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (86ms)
+		EndReloadAssembly (3508ms)
+			LoadAssemblies (129ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (695ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (52ms)
+			SetupLoadedEditorAssemblies (2486ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (105ms)
+				ProcessInitializeOnLoadAttributes (2257ms)
+				ProcessInitializeOnLoadMethodAttributes (115ms)
+				AfterProcessingInitializeOnLoad (3ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.99 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3764 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 182.2 MB.
+System memory in use after: 182.4 MB.
+
+Unloading 45 unused Assets to reduce memory usage. Loaded Objects now: 4305.
+Total: 45.899200 ms (FindLiveObjects: 0.341500 ms CreateObjectMapping: 0.236900 ms MarkObjects: 45.278400 ms  DeleteObjects: 0.040500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 180.872644 seconds.
+  path: Assets/Framework/Plugins/NuGet/Editor/DependencyTreeViewer.cs
+  artifactKey: Guid(a7794a48e3530cf47a4e83a00b2f877e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Framework/Plugins/NuGet/Editor/DependencyTreeViewer.cs using Guid(a7794a48e3530cf47a4e83a00b2f877e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee825f6ed5fd51dc00f296bf072b483d') in 0.010146 seconds 
+  Import took 0.022616 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 86.037559 seconds.
+  path: Assets/WingjoyData/FrameworkMono/BuildDllConfig.asset
+  artifactKey: Guid(cd24bb8386c50b84ebd155b924a7f048) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WingjoyData/FrameworkMono/BuildDllConfig.asset using Guid(cd24bb8386c50b84ebd155b924a7f048) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82313c23d23f223d083601e5b1b04683') in 0.016503 seconds 
+  Import took 0.031103 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.891821 seconds.
+  path: Assets/WingjoyData/FrameworkMono/UIFormCreator.asset
+  artifactKey: Guid(c8ee287d21a38d04eaf3006835bb10c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WingjoyData/FrameworkMono/UIFormCreator.asset using Guid(c8ee287d21a38d04eaf3006835bb10c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8482318b5eccb8380ad6961eca50689') in 0.007648 seconds 
+  Import took 0.014428 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.617769 seconds.
+  path: Assets/WingjoyData/FrameworkMono
+  artifactKey: Guid(df3b3e5853123ee4dac151e99443c58a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WingjoyData/FrameworkMono using Guid(df3b3e5853123ee4dac151e99443c58a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43f4f9e2983cb193872e98ec07e7fd32') in 0.001923 seconds 
+  Import took 0.012131 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.012359 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.27 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Hello Editor CatLib.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+SecondLife.Editor.EditorMain:OnStartCompleted (CatLib.IApplication,CatLib.StartCompletedEventArgs) (at Assets/Catlib/Demo/Editor/EditorMain.cs:27)
+CatLib.Editor.EditorFramework:<BeforeBootstrap>b__10_0 (object,System.EventArgs) (at Assets/Catlib/Editor/EditorFramework.cs:101)
+CatLib.EventDispatcher.EventDispatcher:Raise (string,object,System.EventArgs)
+CatLib.Application:Raise<CatLib.StartCompletedEventArgs> (CatLib.StartCompletedEventArgs)
+CatLib.Application:Init ()
+CatLib.Editor.EditorFramework:ApplyEditorApplication () (at Assets/Catlib/Editor/EditorFramework.cs:91)
+CatLib.Editor.EditorFramework:.cctor () (at Assets/Catlib/Editor/EditorFramework.cs:37)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+(Filename: Assets/Catlib/Demo/Editor/EditorMain.cs Line: 27)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  4.208 seconds
+Domain Reload Profiling:
+	ReloadAssembly (4209ms)
+		BeginReloadAssembly (163ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (84ms)
+		EndReloadAssembly (3981ms)
+			LoadAssemblies (127ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (692ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (51ms)
+			SetupLoadedEditorAssemblies (2966ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (104ms)
+				ProcessInitializeOnLoadAttributes (2750ms)
+				ProcessInitializeOnLoadMethodAttributes (102ms)
+				AfterProcessingInitializeOnLoad (3ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 1.26 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3764 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 182.2 MB.
+System memory in use after: 182.5 MB.
+
+Unloading 45 unused Assets to reduce memory usage. Loaded Objects now: 4307.
+Total: 49.297600 ms (FindLiveObjects: 0.334200 ms CreateObjectMapping: 0.269400 ms MarkObjects: 48.650400 ms  DeleteObjects: 0.041800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.014393 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.24 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Hello Editor CatLib.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+SecondLife.Editor.EditorMain:OnStartCompleted (CatLib.IApplication,CatLib.StartCompletedEventArgs) (at Assets/Catlib/Demo/Editor/EditorMain.cs:27)
+CatLib.Editor.EditorFramework:<BeforeBootstrap>b__10_0 (object,System.EventArgs) (at Assets/Catlib/Editor/EditorFramework.cs:101)
+CatLib.EventDispatcher.EventDispatcher:Raise (string,object,System.EventArgs)
+CatLib.Application:Raise<CatLib.StartCompletedEventArgs> (CatLib.StartCompletedEventArgs)
+CatLib.Application:Init ()
+CatLib.Editor.EditorFramework:ApplyEditorApplication () (at Assets/Catlib/Editor/EditorFramework.cs:91)
+CatLib.Editor.EditorFramework:.cctor () (at Assets/Catlib/Editor/EditorFramework.cs:37)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+(Filename: Assets/Catlib/Demo/Editor/EditorMain.cs Line: 27)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  3.912 seconds
+Domain Reload Profiling:
+	ReloadAssembly (3913ms)
+		BeginReloadAssembly (159ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (79ms)
+		EndReloadAssembly (3688ms)
+			LoadAssemblies (126ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (700ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (50ms)
+			SetupLoadedEditorAssemblies (2665ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (106ms)
+				ProcessInitializeOnLoadAttributes (2447ms)
+				ProcessInitializeOnLoadMethodAttributes (102ms)
+				AfterProcessingInitializeOnLoad (3ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 1.25 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3764 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 182.2 MB.
+System memory in use after: 182.5 MB.
+
+Unloading 45 unused Assets to reduce memory usage. Loaded Objects now: 4309.
+Total: 45.731300 ms (FindLiveObjects: 0.424400 ms CreateObjectMapping: 0.305500 ms MarkObjects: 44.959200 ms  DeleteObjects: 0.040000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.012317 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.23 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Hello Editor CatLib.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+SecondLife.Editor.EditorMain:OnStartCompleted (CatLib.IApplication,CatLib.StartCompletedEventArgs) (at Assets/Catlib/Demo/Editor/EditorMain.cs:27)
+CatLib.Editor.EditorFramework:<BeforeBootstrap>b__10_0 (object,System.EventArgs) (at Assets/Catlib/Editor/EditorFramework.cs:101)
+CatLib.EventDispatcher.EventDispatcher:Raise (string,object,System.EventArgs)
+CatLib.Application:Raise<CatLib.StartCompletedEventArgs> (CatLib.StartCompletedEventArgs)
+CatLib.Application:Init ()
+CatLib.Editor.EditorFramework:ApplyEditorApplication () (at Assets/Catlib/Editor/EditorFramework.cs:91)
+CatLib.Editor.EditorFramework:.cctor () (at Assets/Catlib/Editor/EditorFramework.cs:37)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+(Filename: Assets/Catlib/Demo/Editor/EditorMain.cs Line: 27)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  3.957 seconds
+Domain Reload Profiling:
+	ReloadAssembly (3958ms)
+		BeginReloadAssembly (161ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (81ms)
+		EndReloadAssembly (3731ms)
+			LoadAssemblies (127ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (685ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (51ms)
+			SetupLoadedEditorAssemblies (2719ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (104ms)
+				ProcessInitializeOnLoadAttributes (2504ms)
+				ProcessInitializeOnLoadMethodAttributes (101ms)
+				AfterProcessingInitializeOnLoad (3ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 1.27 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3764 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 182.2 MB.
+System memory in use after: 182.5 MB.
+
+Unloading 45 unused Assets to reduce memory usage. Loaded Objects now: 4311.
+Total: 43.259500 ms (FindLiveObjects: 0.324000 ms CreateObjectMapping: 0.263800 ms MarkObjects: 42.631300 ms  DeleteObjects: 0.039000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.014697 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.25 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Hello Editor CatLib.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+SecondLife.Editor.EditorMain:OnStartCompleted (CatLib.IApplication,CatLib.StartCompletedEventArgs) (at Assets/Catlib/Demo/Editor/EditorMain.cs:27)
+CatLib.Editor.EditorFramework:<BeforeBootstrap>b__10_0 (object,System.EventArgs) (at Assets/Catlib/Editor/EditorFramework.cs:101)
+CatLib.EventDispatcher.EventDispatcher:Raise (string,object,System.EventArgs)
+CatLib.Application:Raise<CatLib.StartCompletedEventArgs> (CatLib.StartCompletedEventArgs)
+CatLib.Application:Init ()
+CatLib.Editor.EditorFramework:ApplyEditorApplication () (at Assets/Catlib/Editor/EditorFramework.cs:91)
+CatLib.Editor.EditorFramework:.cctor () (at Assets/Catlib/Editor/EditorFramework.cs:37)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+(Filename: Assets/Catlib/Demo/Editor/EditorMain.cs Line: 27)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  4.187 seconds
+Domain Reload Profiling:
+	ReloadAssembly (4188ms)
+		BeginReloadAssembly (170ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (88ms)
+		EndReloadAssembly (3951ms)
+			LoadAssemblies (132ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (773ms)
+			ReleaseScriptCaches (5ms)
+			RebuildScriptCaches (53ms)
+			SetupLoadedEditorAssemblies (2812ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (113ms)
+				ProcessInitializeOnLoadAttributes (2585ms)
+				ProcessInitializeOnLoadMethodAttributes (104ms)
+				AfterProcessingInitializeOnLoad (3ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 1.27 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3764 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 182.2 MB.
+System memory in use after: 182.5 MB.
+
+Unloading 45 unused Assets to reduce memory usage. Loaded Objects now: 4313.
+Total: 45.818300 ms (FindLiveObjects: 0.340000 ms CreateObjectMapping: 0.242200 ms MarkObjects: 45.193200 ms  DeleteObjects: 0.041100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.012274 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.27 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Hello Editor CatLib.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+SecondLife.Editor.EditorMain:OnStartCompleted (CatLib.IApplication,CatLib.StartCompletedEventArgs) (at Assets/Catlib/Demo/Editor/EditorMain.cs:27)
+CatLib.Editor.EditorFramework:<BeforeBootstrap>b__10_0 (object,System.EventArgs) (at Assets/Catlib/Editor/EditorFramework.cs:101)
+CatLib.EventDispatcher.EventDispatcher:Raise (string,object,System.EventArgs)
+CatLib.Application:Raise<CatLib.StartCompletedEventArgs> (CatLib.StartCompletedEventArgs)
+CatLib.Application:Init ()
+CatLib.Editor.EditorFramework:ApplyEditorApplication () (at Assets/Catlib/Editor/EditorFramework.cs:91)
+CatLib.Editor.EditorFramework:.cctor () (at Assets/Catlib/Editor/EditorFramework.cs:37)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+(Filename: Assets/Catlib/Demo/Editor/EditorMain.cs Line: 27)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  3.838 seconds
+Domain Reload Profiling:
+	ReloadAssembly (3839ms)
+		BeginReloadAssembly (163ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (83ms)
+		EndReloadAssembly (3611ms)
+			LoadAssemblies (128ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (695ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (52ms)
+			SetupLoadedEditorAssemblies (2580ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (77ms)
+				ProcessInitializeOnLoadAttributes (2392ms)
+				ProcessInitializeOnLoadMethodAttributes (102ms)
+				AfterProcessingInitializeOnLoad (3ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 1.24 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3764 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 182.2 MB.
+System memory in use after: 182.5 MB.
+
+Unloading 45 unused Assets to reduce memory usage. Loaded Objects now: 4315.
+Total: 43.826800 ms (FindLiveObjects: 0.333000 ms CreateObjectMapping: 0.251400 ms MarkObjects: 43.201500 ms  DeleteObjects: 0.038900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.012273 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.99 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Hello Editor CatLib.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+SecondLife.Editor.EditorMain:OnStartCompleted (CatLib.IApplication,CatLib.StartCompletedEventArgs) (at Assets/Catlib/Demo/Editor/EditorMain.cs:27)
+CatLib.Editor.EditorFramework:<BeforeBootstrap>b__10_0 (object,System.EventArgs) (at Assets/Catlib/Editor/EditorFramework.cs:101)
+CatLib.EventDispatcher.EventDispatcher:Raise (string,object,System.EventArgs)
+CatLib.Application:Raise<CatLib.StartCompletedEventArgs> (CatLib.StartCompletedEventArgs)
+CatLib.Application:Init ()
+CatLib.Editor.EditorFramework:ApplyEditorApplication () (at Assets/Catlib/Editor/EditorFramework.cs:91)
+CatLib.Editor.EditorFramework:.cctor () (at Assets/Catlib/Editor/EditorFramework.cs:37)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+(Filename: Assets/Catlib/Demo/Editor/EditorMain.cs Line: 27)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  3.839 seconds
+Domain Reload Profiling:
+	ReloadAssembly (3839ms)
+		BeginReloadAssembly (162ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (81ms)
+		EndReloadAssembly (3612ms)
+			LoadAssemblies (128ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (635ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (36ms)
+			SetupLoadedEditorAssemblies (2694ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (3ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (88ms)
+				ProcessInitializeOnLoadAttributes (2495ms)
+				ProcessInitializeOnLoadMethodAttributes (103ms)
+				AfterProcessingInitializeOnLoad (3ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 1.19 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3764 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 182.2 MB.
+System memory in use after: 182.5 MB.
+
+Unloading 45 unused Assets to reduce memory usage. Loaded Objects now: 4317.
+Total: 32.233300 ms (FindLiveObjects: 0.267300 ms CreateObjectMapping: 0.170900 ms MarkObjects: 31.763300 ms  DeleteObjects: 0.030800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.012744 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.26 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Hello Editor CatLib.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+SecondLife.Editor.EditorMain:OnStartCompleted (CatLib.IApplication,CatLib.StartCompletedEventArgs) (at Assets/Catlib/Demo/Editor/EditorMain.cs:27)
+CatLib.Editor.EditorFramework:<BeforeBootstrap>b__10_0 (object,System.EventArgs) (at Assets/Catlib/Editor/EditorFramework.cs:101)
+CatLib.EventDispatcher.EventDispatcher:Raise (string,object,System.EventArgs)
+CatLib.Application:Raise<CatLib.StartCompletedEventArgs> (CatLib.StartCompletedEventArgs)
+CatLib.Application:Init ()
+CatLib.Editor.EditorFramework:ApplyEditorApplication () (at Assets/Catlib/Editor/EditorFramework.cs:91)
+CatLib.Editor.EditorFramework:.cctor () (at Assets/Catlib/Editor/EditorFramework.cs:37)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+(Filename: Assets/Catlib/Demo/Editor/EditorMain.cs Line: 27)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  3.942 seconds
+Domain Reload Profiling:
+	ReloadAssembly (3943ms)
+		BeginReloadAssembly (163ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (81ms)
+		EndReloadAssembly (3713ms)
+			LoadAssemblies (129ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (712ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (52ms)
+			SetupLoadedEditorAssemblies (2657ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (114ms)
+				ProcessInitializeOnLoadAttributes (2431ms)
+				ProcessInitializeOnLoadMethodAttributes (104ms)
+				AfterProcessingInitializeOnLoad (3ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 1.22 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3764 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 182.2 MB.
+System memory in use after: 182.5 MB.
+
+Unloading 45 unused Assets to reduce memory usage. Loaded Objects now: 4319.
+Total: 44.034900 ms (FindLiveObjects: 0.327300 ms CreateObjectMapping: 0.235200 ms MarkObjects: 43.431900 ms  DeleteObjects: 0.039100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 320.426191 seconds.
+  path: Assets/Framework/Editor/ILRuntime/FrameEditorLife.cs
+  artifactKey: Guid(c8bc188adb5b6d04da6b84734c0af053) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Framework/Editor/ILRuntime/FrameEditorLife.cs using Guid(c8bc188adb5b6d04da6b84734c0af053) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3bbebc618337821a3f66a6af6790fc35') in 0.009954 seconds 
+  Import took 0.027869 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.574127 seconds.
+  path: Assets/Framework/Editor/ILRuntime/ILRuntimeBuildDll.cs
+  artifactKey: Guid(e0e14d7f196f3e345907ac2cd9882b9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Framework/Editor/ILRuntime/ILRuntimeBuildDll.cs using Guid(e0e14d7f196f3e345907ac2cd9882b9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d4ca31ef0ae4723e9db8e26ef76a83a') in 0.005530 seconds 
+  Import took 0.012439 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.307150 seconds.
+  path: Assets/Framework/Editor/ILRuntime/FrameEditorLife.cs
+  artifactKey: Guid(c8bc188adb5b6d04da6b84734c0af053) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Framework/Editor/ILRuntime/FrameEditorLife.cs using Guid(c8bc188adb5b6d04da6b84734c0af053) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3edf587545f47e2385db094cc7330f8') in 0.001919 seconds 
+  Import took 0.009380 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.012244 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.28 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Hello Editor CatLib.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+SecondLife.Editor.EditorMain:OnStartCompleted (CatLib.IApplication,CatLib.StartCompletedEventArgs) (at Assets/Catlib/Demo/Editor/EditorMain.cs:27)
+CatLib.Editor.EditorFramework:<BeforeBootstrap>b__10_0 (object,System.EventArgs) (at Assets/Catlib/Editor/EditorFramework.cs:101)
+CatLib.EventDispatcher.EventDispatcher:Raise (string,object,System.EventArgs)
+CatLib.Application:Raise<CatLib.StartCompletedEventArgs> (CatLib.StartCompletedEventArgs)
+CatLib.Application:Init ()
+CatLib.Editor.EditorFramework:ApplyEditorApplication () (at Assets/Catlib/Editor/EditorFramework.cs:91)
+CatLib.Editor.EditorFramework:.cctor () (at Assets/Catlib/Editor/EditorFramework.cs:37)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+(Filename: Assets/Catlib/Demo/Editor/EditorMain.cs Line: 27)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  4.059 seconds
+Domain Reload Profiling:
+	ReloadAssembly (4060ms)
+		BeginReloadAssembly (160ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (80ms)
+		EndReloadAssembly (3835ms)
+			LoadAssemblies (126ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (690ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (52ms)
+			SetupLoadedEditorAssemblies (2801ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (124ms)
+				ProcessInitializeOnLoadAttributes (2561ms)
+				ProcessInitializeOnLoadMethodAttributes (106ms)
+				AfterProcessingInitializeOnLoad (3ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 1.27 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3764 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 182.3 MB.
+System memory in use after: 182.5 MB.
+
+Unloading 45 unused Assets to reduce memory usage. Loaded Objects now: 4321.
+Total: 45.280200 ms (FindLiveObjects: 0.360200 ms CreateObjectMapping: 0.288100 ms MarkObjects: 44.585500 ms  DeleteObjects: 0.044600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.012384 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.23 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Hello Editor CatLib.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+SecondLife.Editor.EditorMain:OnStartCompleted (CatLib.IApplication,CatLib.StartCompletedEventArgs) (at Assets/Catlib/Demo/Editor/EditorMain.cs:27)
+CatLib.Editor.EditorFramework:<BeforeBootstrap>b__10_0 (object,System.EventArgs) (at Assets/Catlib/Editor/EditorFramework.cs:101)
+CatLib.EventDispatcher.EventDispatcher:Raise (string,object,System.EventArgs)
+CatLib.Application:Raise<CatLib.StartCompletedEventArgs> (CatLib.StartCompletedEventArgs)
+CatLib.Application:Init ()
+CatLib.Editor.EditorFramework:ApplyEditorApplication () (at Assets/Catlib/Editor/EditorFramework.cs:91)
+CatLib.Editor.EditorFramework:.cctor () (at Assets/Catlib/Editor/EditorFramework.cs:37)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+(Filename: Assets/Catlib/Demo/Editor/EditorMain.cs Line: 27)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  3.898 seconds
+Domain Reload Profiling:
+	ReloadAssembly (3899ms)
+		BeginReloadAssembly (161ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (81ms)
+		EndReloadAssembly (3673ms)
+			LoadAssemblies (126ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (679ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (51ms)
+			SetupLoadedEditorAssemblies (2651ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (104ms)
+				ProcessInitializeOnLoadAttributes (2433ms)
+				ProcessInitializeOnLoadMethodAttributes (104ms)
+				AfterProcessingInitializeOnLoad (3ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 1.29 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3764 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 182.3 MB.
+System memory in use after: 182.5 MB.
+
+Unloading 45 unused Assets to reduce memory usage. Loaded Objects now: 4323.
+Total: 46.901900 ms (FindLiveObjects: 0.344000 ms CreateObjectMapping: 0.275800 ms MarkObjects: 46.239400 ms  DeleteObjects: 0.040800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 17.872788 seconds.
+  path: Assets/Framework/Editor/ILRuntime/FrameEditorLife.cs
+  artifactKey: Guid(c8bc188adb5b6d04da6b84734c0af053) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Framework/Editor/ILRuntime/FrameEditorLife.cs using Guid(c8bc188adb5b6d04da6b84734c0af053) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82831c5d2b997d0e33f13595f39cafc0') in 0.006146 seconds 
+  Import took 0.025590 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.012362 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.23 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Hello Editor CatLib.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+SecondLife.Editor.EditorMain:OnStartCompleted (CatLib.IApplication,CatLib.StartCompletedEventArgs) (at Assets/Catlib/Demo/Editor/EditorMain.cs:27)
+CatLib.Editor.EditorFramework:<BeforeBootstrap>b__10_0 (object,System.EventArgs) (at Assets/Catlib/Editor/EditorFramework.cs:101)
+CatLib.EventDispatcher.EventDispatcher:Raise (string,object,System.EventArgs)
+CatLib.Application:Raise<CatLib.StartCompletedEventArgs> (CatLib.StartCompletedEventArgs)
+CatLib.Application:Init ()
+CatLib.Editor.EditorFramework:ApplyEditorApplication () (at Assets/Catlib/Editor/EditorFramework.cs:91)
+CatLib.Editor.EditorFramework:.cctor () (at Assets/Catlib/Editor/EditorFramework.cs:37)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+(Filename: Assets/Catlib/Demo/Editor/EditorMain.cs Line: 27)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  4.034 seconds
+Domain Reload Profiling:
+	ReloadAssembly (4035ms)
+		BeginReloadAssembly (161ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (83ms)
+		EndReloadAssembly (3808ms)
+			LoadAssemblies (119ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (681ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (52ms)
+			SetupLoadedEditorAssemblies (2797ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (105ms)
+				ProcessInitializeOnLoadAttributes (2575ms)
+				ProcessInitializeOnLoadMethodAttributes (108ms)
+				AfterProcessingInitializeOnLoad (3ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 1.22 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3764 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 182.3 MB.
+System memory in use after: 182.5 MB.
+
+Unloading 45 unused Assets to reduce memory usage. Loaded Objects now: 4325.
+Total: 45.638700 ms (FindLiveObjects: 0.540800 ms CreateObjectMapping: 0.428100 ms MarkObjects: 44.629400 ms  DeleteObjects: 0.039000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 22.840050 seconds.
+  path: Assets/Framework/Editor/ILRuntime/BDApplication.cs
+  artifactKey: Guid(314a5b21859bf1b4f92232222065bfc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Framework/Editor/ILRuntime/BDApplication.cs using Guid(314a5b21859bf1b4f92232222065bfc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e1b8df3d1752ad13e4f058792a4ce41') in 0.011072 seconds 
+  Import took 0.019963 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 85.914698 seconds.
+  path: Assets/Framework/Editor/ILRuntime/ILRuntimeBuildDll.cs
+  artifactKey: Guid(e0e14d7f196f3e345907ac2cd9882b9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Framework/Editor/ILRuntime/ILRuntimeBuildDll.cs using Guid(e0e14d7f196f3e345907ac2cd9882b9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cad24c138e268f16107375a411c7c8c1') in 0.001855 seconds 
+  Import took 0.008903 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 104.356495 seconds.
+  path: Assets/Framework/Editor/ILRuntime/ILRuntimeBuildDll.cs
+  artifactKey: Guid(e0e14d7f196f3e345907ac2cd9882b9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Framework/Editor/ILRuntime/ILRuntimeBuildDll.cs using Guid(e0e14d7f196f3e345907ac2cd9882b9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ef50e4fea4e35a78a4dde33969d3a26') in 0.001761 seconds 
+  Import took 0.008457 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 33.920526 seconds.
+  path: Assets/Framework/Editor/ILRuntime/ILRuntimeBuildDll.cs
+  artifactKey: Guid(e0e14d7f196f3e345907ac2cd9882b9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Framework/Editor/ILRuntime/ILRuntimeBuildDll.cs using Guid(e0e14d7f196f3e345907ac2cd9882b9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b356f48f95eac660f878fc9fe1db8a50') in 0.001833 seconds 
+  Import took 0.008619 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 23.605398 seconds.
+  path: Assets/Framework/Editor/ILRuntime/ILRuntimeBuildDll.cs
+  artifactKey: Guid(e0e14d7f196f3e345907ac2cd9882b9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Framework/Editor/ILRuntime/ILRuntimeBuildDll.cs using Guid(e0e14d7f196f3e345907ac2cd9882b9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd205700b6841129b0b4a8120abaf29e') in 0.001700 seconds 
+  Import took 0.009517 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.012346 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.24 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Hello Editor CatLib.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+SecondLife.Editor.EditorMain:OnStartCompleted (CatLib.IApplication,CatLib.StartCompletedEventArgs) (at Assets/Catlib/Demo/Editor/EditorMain.cs:27)
+CatLib.Editor.EditorFramework:<BeforeBootstrap>b__10_0 (object,System.EventArgs) (at Assets/Catlib/Editor/EditorFramework.cs:101)
+CatLib.EventDispatcher.EventDispatcher:Raise (string,object,System.EventArgs)
+CatLib.Application:Raise<CatLib.StartCompletedEventArgs> (CatLib.StartCompletedEventArgs)
+CatLib.Application:Init ()
+CatLib.Editor.EditorFramework:ApplyEditorApplication () (at Assets/Catlib/Editor/EditorFramework.cs:91)
+CatLib.Editor.EditorFramework:.cctor () (at Assets/Catlib/Editor/EditorFramework.cs:37)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+(Filename: Assets/Catlib/Demo/Editor/EditorMain.cs Line: 27)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  3.918 seconds
+Domain Reload Profiling:
+	ReloadAssembly (3918ms)
+		BeginReloadAssembly (171ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (87ms)
+		EndReloadAssembly (3680ms)
+			LoadAssemblies (132ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (677ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (58ms)
+			SetupLoadedEditorAssemblies (2638ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (108ms)
+				ProcessInitializeOnLoadAttributes (2418ms)
+				ProcessInitializeOnLoadMethodAttributes (103ms)
+				AfterProcessingInitializeOnLoad (3ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 1.24 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3764 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 182.3 MB.
+System memory in use after: 182.5 MB.
+
+Unloading 45 unused Assets to reduce memory usage. Loaded Objects now: 4327.
+Total: 44.994500 ms (FindLiveObjects: 0.376600 ms CreateObjectMapping: 0.328400 ms MarkObjects: 44.248800 ms  DeleteObjects: 0.039400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.012423 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.25 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Hello Editor CatLib.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+SecondLife.Editor.EditorMain:OnStartCompleted (CatLib.IApplication,CatLib.StartCompletedEventArgs) (at Assets/Catlib/Demo/Editor/EditorMain.cs:27)
+CatLib.Editor.EditorFramework:<BeforeBootstrap>b__10_0 (object,System.EventArgs) (at Assets/Catlib/Editor/EditorFramework.cs:101)
+CatLib.EventDispatcher.EventDispatcher:Raise (string,object,System.EventArgs)
+CatLib.Application:Raise<CatLib.StartCompletedEventArgs> (CatLib.StartCompletedEventArgs)
+CatLib.Application:Init ()
+CatLib.Editor.EditorFramework:ApplyEditorApplication () (at Assets/Catlib/Editor/EditorFramework.cs:91)
+CatLib.Editor.EditorFramework:.cctor () (at Assets/Catlib/Editor/EditorFramework.cs:37)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+(Filename: Assets/Catlib/Demo/Editor/EditorMain.cs Line: 27)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  4.041 seconds
+Domain Reload Profiling:
+	ReloadAssembly (4042ms)
+		BeginReloadAssembly (158ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (79ms)
+		EndReloadAssembly (3816ms)
+			LoadAssemblies (119ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (704ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (52ms)
+			SetupLoadedEditorAssemblies (2766ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (107ms)
+				ProcessInitializeOnLoadAttributes (2543ms)
+				ProcessInitializeOnLoadMethodAttributes (106ms)
+				AfterProcessingInitializeOnLoad (3ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 1.28 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3764 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 182.3 MB.
+System memory in use after: 182.5 MB.
+
+Unloading 45 unused Assets to reduce memory usage. Loaded Objects now: 4329.
+Total: 42.737200 ms (FindLiveObjects: 0.319100 ms CreateObjectMapping: 0.244400 ms MarkObjects: 42.133300 ms  DeleteObjects: 0.038900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.012316 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.50 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Hello Editor CatLib.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+SecondLife.Editor.EditorMain:OnStartCompleted (CatLib.IApplication,CatLib.StartCompletedEventArgs) (at Assets/Catlib/Demo/Editor/EditorMain.cs:27)
+CatLib.Editor.EditorFramework:<BeforeBootstrap>b__10_0 (object,System.EventArgs) (at Assets/Catlib/Editor/EditorFramework.cs:101)
+CatLib.EventDispatcher.EventDispatcher:Raise (string,object,System.EventArgs)
+CatLib.Application:Raise<CatLib.StartCompletedEventArgs> (CatLib.StartCompletedEventArgs)
+CatLib.Application:Init ()
+CatLib.Editor.EditorFramework:ApplyEditorApplication () (at Assets/Catlib/Editor/EditorFramework.cs:91)
+CatLib.Editor.EditorFramework:.cctor () (at Assets/Catlib/Editor/EditorFramework.cs:37)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+(Filename: Assets/Catlib/Demo/Editor/EditorMain.cs Line: 27)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  3.857 seconds
+Domain Reload Profiling:
+	ReloadAssembly (3858ms)
+		BeginReloadAssembly (159ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (79ms)
+		EndReloadAssembly (3634ms)
+			LoadAssemblies (127ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (617ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (53ms)
+			SetupLoadedEditorAssemblies (2661ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (2ms)
+				BeforeProcessingInitializeOnLoad (107ms)
+				ProcessInitializeOnLoadAttributes (2442ms)
+				ProcessInitializeOnLoadMethodAttributes (102ms)
+				AfterProcessingInitializeOnLoad (3ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 1.01 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3764 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 182.3 MB.
+System memory in use after: 182.5 MB.
+
+Unloading 45 unused Assets to reduce memory usage. Loaded Objects now: 4331.
+Total: 43.869400 ms (FindLiveObjects: 0.262700 ms CreateObjectMapping: 0.150800 ms MarkObjects: 43.413700 ms  DeleteObjects: 0.040700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.012238 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.25 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Hello Editor CatLib.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+SecondLife.Editor.EditorMain:OnStartCompleted (CatLib.IApplication,CatLib.StartCompletedEventArgs) (at Assets/Catlib/Demo/Editor/EditorMain.cs:27)
+CatLib.Editor.EditorFramework:<BeforeBootstrap>b__10_0 (object,System.EventArgs) (at Assets/Catlib/Editor/EditorFramework.cs:101)
+CatLib.EventDispatcher.EventDispatcher:Raise (string,object,System.EventArgs)
+CatLib.Application:Raise<CatLib.StartCompletedEventArgs> (CatLib.StartCompletedEventArgs)
+CatLib.Application:Init ()
+CatLib.Editor.EditorFramework:ApplyEditorApplication () (at Assets/Catlib/Editor/EditorFramework.cs:91)
+CatLib.Editor.EditorFramework:.cctor () (at Assets/Catlib/Editor/EditorFramework.cs:37)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+(Filename: Assets/Catlib/Demo/Editor/EditorMain.cs Line: 27)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  4.077 seconds
+Domain Reload Profiling:
+	ReloadAssembly (4078ms)
+		BeginReloadAssembly (165ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (85ms)
+		EndReloadAssembly (3846ms)
+			LoadAssemblies (123ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (719ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (53ms)
+			SetupLoadedEditorAssemblies (2762ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (107ms)
+				ProcessInitializeOnLoadAttributes (2543ms)
+				ProcessInitializeOnLoadMethodAttributes (102ms)
+				AfterProcessingInitializeOnLoad (3ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 1.24 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3764 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 182.3 MB.
+System memory in use after: 182.5 MB.
+
+Unloading 45 unused Assets to reduce memory usage. Loaded Objects now: 4333.
+Total: 45.446500 ms (FindLiveObjects: 0.345400 ms CreateObjectMapping: 0.244200 ms MarkObjects: 44.813200 ms  DeleteObjects: 0.042100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.012213 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.26 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Hello Editor CatLib.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+SecondLife.Editor.EditorMain:OnStartCompleted (CatLib.IApplication,CatLib.StartCompletedEventArgs) (at Assets/Catlib/Demo/Editor/EditorMain.cs:27)
+CatLib.Editor.EditorFramework:<BeforeBootstrap>b__10_0 (object,System.EventArgs) (at Assets/Catlib/Editor/EditorFramework.cs:101)
+CatLib.EventDispatcher.EventDispatcher:Raise (string,object,System.EventArgs)
+CatLib.Application:Raise<CatLib.StartCompletedEventArgs> (CatLib.StartCompletedEventArgs)
+CatLib.Application:Init ()
+CatLib.Editor.EditorFramework:ApplyEditorApplication () (at Assets/Catlib/Editor/EditorFramework.cs:91)
+CatLib.Editor.EditorFramework:.cctor () (at Assets/Catlib/Editor/EditorFramework.cs:37)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+(Filename: Assets/Catlib/Demo/Editor/EditorMain.cs Line: 27)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  3.984 seconds
+Domain Reload Profiling:
+	ReloadAssembly (3984ms)
+		BeginReloadAssembly (166ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (78ms)
+		EndReloadAssembly (3742ms)
+			LoadAssemblies (140ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (686ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (51ms)
+			SetupLoadedEditorAssemblies (2691ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (112ms)
+				ProcessInitializeOnLoadAttributes (2466ms)
+				ProcessInitializeOnLoadMethodAttributes (103ms)
+				AfterProcessingInitializeOnLoad (3ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 1.25 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3764 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 182.3 MB.
+System memory in use after: 182.5 MB.
+
+Unloading 45 unused Assets to reduce memory usage. Loaded Objects now: 4335.
+Total: 45.569500 ms (FindLiveObjects: 0.337100 ms CreateObjectMapping: 0.257800 ms MarkObjects: 44.932000 ms  DeleteObjects: 0.041000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.012120 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.27 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Hello Editor CatLib.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+SecondLife.Editor.EditorMain:OnStartCompleted (CatLib.IApplication,CatLib.StartCompletedEventArgs) (at Assets/Catlib/Demo/Editor/EditorMain.cs:27)
+CatLib.Editor.EditorFramework:<BeforeBootstrap>b__10_0 (object,System.EventArgs) (at Assets/Catlib/Editor/EditorFramework.cs:101)
+CatLib.EventDispatcher.EventDispatcher:Raise (string,object,System.EventArgs)
+CatLib.Application:Raise<CatLib.StartCompletedEventArgs> (CatLib.StartCompletedEventArgs)
+CatLib.Application:Init ()
+CatLib.Editor.EditorFramework:ApplyEditorApplication () (at Assets/Catlib/Editor/EditorFramework.cs:91)
+CatLib.Editor.EditorFramework:.cctor () (at Assets/Catlib/Editor/EditorFramework.cs:37)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+(Filename: Assets/Catlib/Demo/Editor/EditorMain.cs Line: 27)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  4.067 seconds
+Domain Reload Profiling:
+	ReloadAssembly (4068ms)
+		BeginReloadAssembly (155ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (77ms)
+		EndReloadAssembly (3847ms)
+			LoadAssemblies (117ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (686ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (50ms)
+			SetupLoadedEditorAssemblies (2795ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (107ms)
+				ProcessInitializeOnLoadAttributes (2577ms)
+				ProcessInitializeOnLoadMethodAttributes (101ms)
+				AfterProcessingInitializeOnLoad (3ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 1.25 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3764 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 182.3 MB.
+System memory in use after: 182.5 MB.
+
+Unloading 45 unused Assets to reduce memory usage. Loaded Objects now: 4337.
+Total: 43.325300 ms (FindLiveObjects: 0.324200 ms CreateObjectMapping: 0.241000 ms MarkObjects: 42.721600 ms  DeleteObjects: 0.037100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.012338 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.25 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Hello Editor CatLib.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+SecondLife.Editor.EditorMain:OnStartCompleted (CatLib.IApplication,CatLib.StartCompletedEventArgs) (at Assets/Catlib/Demo/Editor/EditorMain.cs:27)
+CatLib.Editor.EditorFramework:<BeforeBootstrap>b__10_0 (object,System.EventArgs) (at Assets/Catlib/Editor/EditorFramework.cs:101)
+CatLib.EventDispatcher.EventDispatcher:Raise (string,object,System.EventArgs)
+CatLib.Application:Raise<CatLib.StartCompletedEventArgs> (CatLib.StartCompletedEventArgs)
+CatLib.Application:Init ()
+CatLib.Editor.EditorFramework:ApplyEditorApplication () (at Assets/Catlib/Editor/EditorFramework.cs:91)
+CatLib.Editor.EditorFramework:.cctor () (at Assets/Catlib/Editor/EditorFramework.cs:37)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+(Filename: Assets/Catlib/Demo/Editor/EditorMain.cs Line: 27)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  3.963 seconds
+Domain Reload Profiling:
+	ReloadAssembly (3963ms)
+		BeginReloadAssembly (155ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (77ms)
+		EndReloadAssembly (3742ms)
+			LoadAssemblies (119ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (687ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (51ms)
+			SetupLoadedEditorAssemblies (2701ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (105ms)
+				ProcessInitializeOnLoadAttributes (2468ms)
+				ProcessInitializeOnLoadMethodAttributes (118ms)
+				AfterProcessingInitializeOnLoad (3ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 1.24 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3764 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 182.3 MB.
+System memory in use after: 182.5 MB.
+
+Unloading 45 unused Assets to reduce memory usage. Loaded Objects now: 4339.
+Total: 43.724900 ms (FindLiveObjects: 0.327800 ms CreateObjectMapping: 0.224600 ms MarkObjects: 43.132400 ms  DeleteObjects: 0.038700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.012218 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.27 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Hello Editor CatLib.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+SecondLife.Editor.EditorMain:OnStartCompleted (CatLib.IApplication,CatLib.StartCompletedEventArgs) (at Assets/Catlib/Demo/Editor/EditorMain.cs:27)
+CatLib.Editor.EditorFramework:<BeforeBootstrap>b__10_0 (object,System.EventArgs) (at Assets/Catlib/Editor/EditorFramework.cs:101)
+CatLib.EventDispatcher.EventDispatcher:Raise (string,object,System.EventArgs)
+CatLib.Application:Raise<CatLib.StartCompletedEventArgs> (CatLib.StartCompletedEventArgs)
+CatLib.Application:Init ()
+CatLib.Editor.EditorFramework:ApplyEditorApplication () (at Assets/Catlib/Editor/EditorFramework.cs:91)
+CatLib.Editor.EditorFramework:.cctor () (at Assets/Catlib/Editor/EditorFramework.cs:37)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+(Filename: Assets/Catlib/Demo/Editor/EditorMain.cs Line: 27)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  4.016 seconds
+Domain Reload Profiling:
+	ReloadAssembly (4017ms)
+		BeginReloadAssembly (160ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (78ms)
+		EndReloadAssembly (3790ms)
+			LoadAssemblies (122ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (692ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (51ms)
+			SetupLoadedEditorAssemblies (2736ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (106ms)
+				ProcessInitializeOnLoadAttributes (2518ms)
+				ProcessInitializeOnLoadMethodAttributes (102ms)
+				AfterProcessingInitializeOnLoad (3ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 1.24 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3764 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 182.3 MB.
+System memory in use after: 182.5 MB.
+
+Unloading 45 unused Assets to reduce memory usage. Loaded Objects now: 4341.
+Total: 45.089300 ms (FindLiveObjects: 0.345200 ms CreateObjectMapping: 0.265400 ms MarkObjects: 44.436900 ms  DeleteObjects: 0.040500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.012419 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.30 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Hello Editor CatLib.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+SecondLife.Editor.EditorMain:OnStartCompleted (CatLib.IApplication,CatLib.StartCompletedEventArgs) (at Assets/Catlib/Demo/Editor/EditorMain.cs:27)
+CatLib.Editor.EditorFramework:<BeforeBootstrap>b__10_0 (object,System.EventArgs) (at Assets/Catlib/Editor/EditorFramework.cs:101)
+CatLib.EventDispatcher.EventDispatcher:Raise (string,object,System.EventArgs)
+CatLib.Application:Raise<CatLib.StartCompletedEventArgs> (CatLib.StartCompletedEventArgs)
+CatLib.Application:Init ()
+CatLib.Editor.EditorFramework:ApplyEditorApplication () (at Assets/Catlib/Editor/EditorFramework.cs:91)
+CatLib.Editor.EditorFramework:.cctor () (at Assets/Catlib/Editor/EditorFramework.cs:37)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+(Filename: Assets/Catlib/Demo/Editor/EditorMain.cs Line: 27)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  3.799 seconds
+Domain Reload Profiling:
+	ReloadAssembly (3799ms)
+		BeginReloadAssembly (158ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (79ms)
+		EndReloadAssembly (3575ms)
+			LoadAssemblies (126ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (692ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (52ms)
+			SetupLoadedEditorAssemblies (2537ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (109ms)
+				ProcessInitializeOnLoadAttributes (2334ms)
+				ProcessInitializeOnLoadMethodAttributes (85ms)
+				AfterProcessingInitializeOnLoad (2ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (4ms)
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.90 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3764 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 182.3 MB.
+System memory in use after: 182.6 MB.
+
+Unloading 45 unused Assets to reduce memory usage. Loaded Objects now: 4343.
+Total: 33.698500 ms (FindLiveObjects: 0.255400 ms CreateObjectMapping: 0.184200 ms MarkObjects: 33.221600 ms  DeleteObjects: 0.036100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 238.920612 seconds.
+  path: Assets/Framework/Editor/ILRuntime/FrameworkEditorLife.cs
+  artifactKey: Guid(c8bc188adb5b6d04da6b84734c0af053) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Framework/Editor/ILRuntime/FrameworkEditorLife.cs using Guid(c8bc188adb5b6d04da6b84734c0af053) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ab2fc532de384413b7ce7db8f95d5fe') in 0.008391 seconds 
+  Import took 0.015237 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.012906 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.24 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Hello Editor CatLib.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+SecondLife.Editor.EditorMain:OnStartCompleted (CatLib.IApplication,CatLib.StartCompletedEventArgs) (at Assets/Catlib/Demo/Editor/EditorMain.cs:27)
+CatLib.Editor.EditorFramework:<BeforeBootstrap>b__10_0 (object,System.EventArgs) (at Assets/Catlib/Editor/EditorFramework.cs:101)
+CatLib.EventDispatcher.EventDispatcher:Raise (string,object,System.EventArgs)
+CatLib.Application:Raise<CatLib.StartCompletedEventArgs> (CatLib.StartCompletedEventArgs)
+CatLib.Application:Init ()
+CatLib.Editor.EditorFramework:ApplyEditorApplication () (at Assets/Catlib/Editor/EditorFramework.cs:91)
+CatLib.Editor.EditorFramework:.cctor () (at Assets/Catlib/Editor/EditorFramework.cs:37)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+(Filename: Assets/Catlib/Demo/Editor/EditorMain.cs Line: 27)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  4.123 seconds
+Domain Reload Profiling:
+	ReloadAssembly (4123ms)
+		BeginReloadAssembly (169ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (86ms)
+		EndReloadAssembly (3884ms)
+			LoadAssemblies (124ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (714ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (61ms)
+			SetupLoadedEditorAssemblies (2787ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (127ms)
+				ProcessInitializeOnLoadAttributes (2546ms)
+				ProcessInitializeOnLoadMethodAttributes (105ms)
+				AfterProcessingInitializeOnLoad (3ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 1.27 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3763 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 182.3 MB.
+System memory in use after: 182.5 MB.
+
+Unloading 45 unused Assets to reduce memory usage. Loaded Objects now: 4345.
+Total: 45.050100 ms (FindLiveObjects: 0.343400 ms CreateObjectMapping: 0.283800 ms MarkObjects: 44.378400 ms  DeleteObjects: 0.042800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.012243 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.32 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Hello Editor CatLib.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+SecondLife.Editor.EditorMain:OnStartCompleted (CatLib.IApplication,CatLib.StartCompletedEventArgs) (at Assets/Catlib/Demo/Editor/EditorMain.cs:27)
+CatLib.Editor.EditorFramework:<BeforeBootstrap>b__10_0 (object,System.EventArgs) (at Assets/Catlib/Editor/EditorFramework.cs:101)
+CatLib.EventDispatcher.EventDispatcher:Raise (string,object,System.EventArgs)
+CatLib.Application:Raise<CatLib.StartCompletedEventArgs> (CatLib.StartCompletedEventArgs)
+CatLib.Application:Init ()
+CatLib.Editor.EditorFramework:ApplyEditorApplication () (at Assets/Catlib/Editor/EditorFramework.cs:91)
+CatLib.Editor.EditorFramework:.cctor () (at Assets/Catlib/Editor/EditorFramework.cs:37)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+(Filename: Assets/Catlib/Demo/Editor/EditorMain.cs Line: 27)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  3.998 seconds
+Domain Reload Profiling:
+	ReloadAssembly (3999ms)
+		BeginReloadAssembly (156ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (78ms)
+		EndReloadAssembly (3778ms)
+			LoadAssemblies (117ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (693ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (55ms)
+			SetupLoadedEditorAssemblies (2704ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (113ms)
+				ProcessInitializeOnLoadAttributes (2476ms)
+				ProcessInitializeOnLoadMethodAttributes (105ms)
+				AfterProcessingInitializeOnLoad (3ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 1.24 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3763 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 182.3 MB.
+System memory in use after: 182.5 MB.
+
+Unloading 45 unused Assets to reduce memory usage. Loaded Objects now: 4347.
+Total: 44.969100 ms (FindLiveObjects: 0.325500 ms CreateObjectMapping: 0.254300 ms MarkObjects: 44.346100 ms  DeleteObjects: 0.041400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.012124 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.25 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Hello Editor CatLib.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+SecondLife.Editor.EditorMain:OnStartCompleted (CatLib.IApplication,CatLib.StartCompletedEventArgs) (at Assets/Catlib/Demo/Editor/EditorMain.cs:27)
+CatLib.Editor.EditorFramework:<BeforeBootstrap>b__10_0 (object,System.EventArgs) (at Assets/Catlib/Editor/EditorFramework.cs:101)
+CatLib.EventDispatcher.EventDispatcher:Raise (string,object,System.EventArgs)
+CatLib.Application:Raise<CatLib.StartCompletedEventArgs> (CatLib.StartCompletedEventArgs)
+CatLib.Application:Init ()
+CatLib.Editor.EditorFramework:ApplyEditorApplication () (at Assets/Catlib/Editor/EditorFramework.cs:91)
+CatLib.Editor.EditorFramework:.cctor () (at Assets/Catlib/Editor/EditorFramework.cs:37)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+(Filename: Assets/Catlib/Demo/Editor/EditorMain.cs Line: 27)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  3.288 seconds
+Domain Reload Profiling:
+	ReloadAssembly (3289ms)
+		BeginReloadAssembly (131ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (60ms)
+		EndReloadAssembly (3093ms)
+			LoadAssemblies (113ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (490ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (38ms)
+			SetupLoadedEditorAssemblies (2283ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (102ms)
+				ProcessInitializeOnLoadAttributes (2071ms)
+				ProcessInitializeOnLoadMethodAttributes (102ms)
+				AfterProcessingInitializeOnLoad (3ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.95 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3763 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 182.3 MB.
+System memory in use after: 182.5 MB.
+
+Unloading 45 unused Assets to reduce memory usage. Loaded Objects now: 4349.
+Total: 43.695300 ms (FindLiveObjects: 0.322900 ms CreateObjectMapping: 0.229200 ms MarkObjects: 43.102300 ms  DeleteObjects: 0.039500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 46.734958 seconds.
+  path: Assets/Framework/Editor/ILRuntime/BDApplication.cs
+  artifactKey: Guid(314a5b21859bf1b4f92232222065bfc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Framework/Editor/ILRuntime/BDApplication.cs using Guid(314a5b21859bf1b4f92232222065bfc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec9d652801ff2871ca97a2e5f5b0824c') in 0.006158 seconds 
+  Import took 0.014530 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.015716 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.28 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Hello Editor CatLib.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+SecondLife.Editor.EditorMain:OnStartCompleted (CatLib.IApplication,CatLib.StartCompletedEventArgs) (at Assets/Catlib/Demo/Editor/EditorMain.cs:27)
+CatLib.Editor.EditorFramework:<BeforeBootstrap>b__10_0 (object,System.EventArgs) (at Assets/Catlib/Editor/EditorFramework.cs:101)
+CatLib.EventDispatcher.EventDispatcher:Raise (string,object,System.EventArgs)
+CatLib.Application:Raise<CatLib.StartCompletedEventArgs> (CatLib.StartCompletedEventArgs)
+CatLib.Application:Init ()
+CatLib.Editor.EditorFramework:ApplyEditorApplication () (at Assets/Catlib/Editor/EditorFramework.cs:91)
+CatLib.Editor.EditorFramework:.cctor () (at Assets/Catlib/Editor/EditorFramework.cs:37)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+(Filename: Assets/Catlib/Demo/Editor/EditorMain.cs Line: 27)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  3.997 seconds
+Domain Reload Profiling:
+	ReloadAssembly (3998ms)
+		BeginReloadAssembly (161ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (82ms)
+		EndReloadAssembly (3770ms)
+			LoadAssemblies (119ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (715ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (53ms)
+			SetupLoadedEditorAssemblies (2680ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (108ms)
+				ProcessInitializeOnLoadAttributes (2455ms)
+				ProcessInitializeOnLoadMethodAttributes (108ms)
+				AfterProcessingInitializeOnLoad (3ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 1.23 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3762 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 182.3 MB.
+System memory in use after: 182.5 MB.
+
+Unloading 45 unused Assets to reduce memory usage. Loaded Objects now: 4351.
+Total: 44.545000 ms (FindLiveObjects: 0.337900 ms CreateObjectMapping: 0.252600 ms MarkObjects: 43.912400 ms  DeleteObjects: 0.040500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 13.525811 seconds.
+  path: Assets/Framework/Editor/ILRuntime/BuildDllConfig.cs
+  artifactKey: Guid(489f94e3157c51e4aac6d8b6501c9adf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Framework/Editor/ILRuntime/BuildDllConfig.cs using Guid(489f94e3157c51e4aac6d8b6501c9adf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26ac6ef5e5b337f047e7ed0a1e467c91') in 0.006317 seconds 
+  Import took 0.019972 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.694150 seconds.
+  path: Assets/Framework/Editor/ILRuntime/ScriptBiuld_Service.cs
+  artifactKey: Guid(352a7a9ee90bbe841b051f69e3fe682e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Framework/Editor/ILRuntime/ScriptBiuld_Service.cs using Guid(352a7a9ee90bbe841b051f69e3fe682e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c3a57df6708bb4404444a0897690ab3') in 0.005409 seconds 
+  Import took 0.011797 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.034576 seconds.
+  path: Assets/Framework/Editor/Inspector/LauncherEditor.cs
+  artifactKey: Guid(12dd9dc3cbf14f57bf41f0e52ee27a09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Framework/Editor/Inspector/LauncherEditor.cs using Guid(12dd9dc3cbf14f57bf41f0e52ee27a09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f1bb117e75ec58cd4e534208efae092') in 0.001945 seconds 
+  Import took 0.008661 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 29.357249 seconds.
+  path: Assets/Framework/Editor/ILRuntime/ILRuntimeBuildDll.cs
+  artifactKey: Guid(e0e14d7f196f3e345907ac2cd9882b9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Framework/Editor/ILRuntime/ILRuntimeBuildDll.cs using Guid(e0e14d7f196f3e345907ac2cd9882b9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '771e151fcc9c29e2533e04743c7c63e3') in 0.001854 seconds 
+  Import took 0.008663 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.012157 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.23 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Hello Editor CatLib.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+SecondLife.Editor.EditorMain:OnStartCompleted (CatLib.IApplication,CatLib.StartCompletedEventArgs) (at Assets/Catlib/Demo/Editor/EditorMain.cs:27)
+CatLib.Editor.EditorFramework:<BeforeBootstrap>b__10_0 (object,System.EventArgs) (at Assets/Catlib/Editor/EditorFramework.cs:101)
+CatLib.EventDispatcher.EventDispatcher:Raise (string,object,System.EventArgs)
+CatLib.Application:Raise<CatLib.StartCompletedEventArgs> (CatLib.StartCompletedEventArgs)
+CatLib.Application:Init ()
+CatLib.Editor.EditorFramework:ApplyEditorApplication () (at Assets/Catlib/Editor/EditorFramework.cs:91)
+CatLib.Editor.EditorFramework:.cctor () (at Assets/Catlib/Editor/EditorFramework.cs:37)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+(Filename: Assets/Catlib/Demo/Editor/EditorMain.cs Line: 27)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  3.711 seconds
+Domain Reload Profiling:
+	ReloadAssembly (3711ms)
+		BeginReloadAssembly (163ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (85ms)
+		EndReloadAssembly (3482ms)
+			LoadAssemblies (130ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (692ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (51ms)
+			SetupLoadedEditorAssemblies (2402ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (104ms)
+				ProcessInitializeOnLoadAttributes (2189ms)
+				ProcessInitializeOnLoadMethodAttributes (99ms)
+				AfterProcessingInitializeOnLoad (3ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.92 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3762 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 182.3 MB.
+System memory in use after: 182.5 MB.
+
+Unloading 45 unused Assets to reduce memory usage. Loaded Objects now: 4353.
+Total: 33.642500 ms (FindLiveObjects: 0.264300 ms CreateObjectMapping: 0.181600 ms MarkObjects: 33.158600 ms  DeleteObjects: 0.036800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 11.457730 seconds.
+  path: Assets/Framework/Editor/ILRuntime/ILRuntimeBuildDll.cs
+  artifactKey: Guid(e0e14d7f196f3e345907ac2cd9882b9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Framework/Editor/ILRuntime/ILRuntimeBuildDll.cs using Guid(e0e14d7f196f3e345907ac2cd9882b9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b6cf22ddf5b49e007d48f5936325679') in 0.005941 seconds 
+  Import took 0.013830 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.012479 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.25 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Hello Editor CatLib.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+SecondLife.Editor.EditorMain:OnStartCompleted (CatLib.IApplication,CatLib.StartCompletedEventArgs) (at Assets/Catlib/Demo/Editor/EditorMain.cs:27)
+CatLib.Editor.EditorFramework:<BeforeBootstrap>b__10_0 (object,System.EventArgs) (at Assets/Catlib/Editor/EditorFramework.cs:101)
+CatLib.EventDispatcher.EventDispatcher:Raise (string,object,System.EventArgs)
+CatLib.Application:Raise<CatLib.StartCompletedEventArgs> (CatLib.StartCompletedEventArgs)
+CatLib.Application:Init ()
+CatLib.Editor.EditorFramework:ApplyEditorApplication () (at Assets/Catlib/Editor/EditorFramework.cs:91)
+CatLib.Editor.EditorFramework:.cctor () (at Assets/Catlib/Editor/EditorFramework.cs:37)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+(Filename: Assets/Catlib/Demo/Editor/EditorMain.cs Line: 27)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  3.990 seconds
+Domain Reload Profiling:
+	ReloadAssembly (3991ms)
+		BeginReloadAssembly (153ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (73ms)
+		EndReloadAssembly (3771ms)
+			LoadAssemblies (123ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (678ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (51ms)
+			SetupLoadedEditorAssemblies (2716ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (104ms)
+				ProcessInitializeOnLoadAttributes (2498ms)
+				ProcessInitializeOnLoadMethodAttributes (104ms)
+				AfterProcessingInitializeOnLoad (3ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 1.23 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3762 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 182.3 MB.
+System memory in use after: 182.5 MB.
+
+Unloading 45 unused Assets to reduce memory usage. Loaded Objects now: 4355.
+Total: 44.975300 ms (FindLiveObjects: 0.347500 ms CreateObjectMapping: 0.235900 ms MarkObjects: 44.348900 ms  DeleteObjects: 0.041700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 52.177259 seconds.
+  path: Assets/Framework/Editor/ILRuntime/ScriptBiuld_Service.cs
+  artifactKey: Guid(352a7a9ee90bbe841b051f69e3fe682e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Framework/Editor/ILRuntime/ScriptBiuld_Service.cs using Guid(352a7a9ee90bbe841b051f69e3fe682e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '400a696d9715675d0cc8c1a1051cd685') in 0.006634 seconds 
+  Import took 0.027385 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.012261 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.30 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Hello Editor CatLib.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+SecondLife.Editor.EditorMain:OnStartCompleted (CatLib.IApplication,CatLib.StartCompletedEventArgs) (at Assets/Catlib/Demo/Editor/EditorMain.cs:27)
+CatLib.Editor.EditorFramework:<BeforeBootstrap>b__10_0 (object,System.EventArgs) (at Assets/Catlib/Editor/EditorFramework.cs:101)
+CatLib.EventDispatcher.EventDispatcher:Raise (string,object,System.EventArgs)
+CatLib.Application:Raise<CatLib.StartCompletedEventArgs> (CatLib.StartCompletedEventArgs)
+CatLib.Application:Init ()
+CatLib.Editor.EditorFramework:ApplyEditorApplication () (at Assets/Catlib/Editor/EditorFramework.cs:91)
+CatLib.Editor.EditorFramework:.cctor () (at Assets/Catlib/Editor/EditorFramework.cs:37)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+(Filename: Assets/Catlib/Demo/Editor/EditorMain.cs Line: 27)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  4.159 seconds
+Domain Reload Profiling:
+	ReloadAssembly (4160ms)
+		BeginReloadAssembly (154ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (76ms)
+		EndReloadAssembly (3941ms)
+			LoadAssemblies (118ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (764ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (52ms)
+			SetupLoadedEditorAssemblies (2780ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (122ms)
+				ProcessInitializeOnLoadAttributes (2547ms)
+				ProcessInitializeOnLoadMethodAttributes (101ms)
+				AfterProcessingInitializeOnLoad (3ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 1.30 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3762 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 182.3 MB.
+System memory in use after: 182.6 MB.
+
+Unloading 45 unused Assets to reduce memory usage. Loaded Objects now: 4357.
+Total: 45.139500 ms (FindLiveObjects: 0.358100 ms CreateObjectMapping: 0.259700 ms MarkObjects: 44.478000 ms  DeleteObjects: 0.042300 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 12.091879 seconds.
+  path: Assets/Framework/Editor/ILRuntime/ScriptBiuld_Service.cs
+  artifactKey: Guid(352a7a9ee90bbe841b051f69e3fe682e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Framework/Editor/ILRuntime/ScriptBiuld_Service.cs using Guid(352a7a9ee90bbe841b051f69e3fe682e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c1b38ca1a0dc6cab156d905f820ea1c') in 0.006555 seconds 
+  Import took 0.015149 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.012786 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.99 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Hello Editor CatLib.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+SecondLife.Editor.EditorMain:OnStartCompleted (CatLib.IApplication,CatLib.StartCompletedEventArgs) (at Assets/Catlib/Demo/Editor/EditorMain.cs:27)
+CatLib.Editor.EditorFramework:<BeforeBootstrap>b__10_0 (object,System.EventArgs) (at Assets/Catlib/Editor/EditorFramework.cs:101)
+CatLib.EventDispatcher.EventDispatcher:Raise (string,object,System.EventArgs)
+CatLib.Application:Raise<CatLib.StartCompletedEventArgs> (CatLib.StartCompletedEventArgs)
+CatLib.Application:Init ()
+CatLib.Editor.EditorFramework:ApplyEditorApplication () (at Assets/Catlib/Editor/EditorFramework.cs:91)
+CatLib.Editor.EditorFramework:.cctor () (at Assets/Catlib/Editor/EditorFramework.cs:37)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+(Filename: Assets/Catlib/Demo/Editor/EditorMain.cs Line: 27)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  3.413 seconds
+Domain Reload Profiling:
+	ReloadAssembly (3413ms)
+		BeginReloadAssembly (126ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (60ms)
+		EndReloadAssembly (3222ms)
+			LoadAssemblies (96ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (619ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (41ms)
+			SetupLoadedEditorAssemblies (2275ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (3ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (74ms)
+				ProcessInitializeOnLoadAttributes (2092ms)
+				ProcessInitializeOnLoadMethodAttributes (102ms)
+				AfterProcessingInitializeOnLoad (3ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 1.25 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3762 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 182.3 MB.
+System memory in use after: 182.6 MB.
+
+Unloading 45 unused Assets to reduce memory usage. Loaded Objects now: 4359.
+Total: 44.119300 ms (FindLiveObjects: 0.328300 ms CreateObjectMapping: 0.238300 ms MarkObjects: 43.511700 ms  DeleteObjects: 0.039600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 20.503705 seconds.
+  path: Assets/Framework/Plugins/Excel/EPPlus.dll
+  artifactKey: Guid(0d00fa343e0a0964c87b548e144e10a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Framework/Plugins/Excel/EPPlus.dll using Guid(0d00fa343e0a0964c87b548e144e10a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6146bd878d9f23545e4f857095538904') in 0.012637 seconds 
+  Import took 0.032071 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.515984 seconds.
+  path: Assets/Framework/Plugins/Excel/Excel.dll
+  artifactKey: Guid(21dddfc1a28c42e4eb33379fd1f094b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Framework/Plugins/Excel/Excel.dll using Guid(21dddfc1a28c42e4eb33379fd1f094b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00ab6a9f22d6406b4c333fc7622f4200') in 0.005432 seconds 
+  Import took 0.012190 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.109550 seconds.
+  path: Assets/FrameworkData/FrameworkMono/UIFormCreator.asset
+  artifactKey: Guid(c8ee287d21a38d04eaf3006835bb10c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FrameworkData/FrameworkMono/UIFormCreator.asset using Guid(c8ee287d21a38d04eaf3006835bb10c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5702b82036c8dc17e2acdc27702fe40a') in 0.014546 seconds 
+  Import took 0.021696 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.012570 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.32 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Hello Editor CatLib.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+SecondLife.Editor.EditorMain:OnStartCompleted (CatLib.IApplication,CatLib.StartCompletedEventArgs) (at Assets/Catlib/Demo/Editor/EditorMain.cs:27)
+CatLib.Editor.EditorFramework:<BeforeBootstrap>b__10_0 (object,System.EventArgs) (at Assets/Catlib/Editor/EditorFramework.cs:101)
+CatLib.EventDispatcher.EventDispatcher:Raise (string,object,System.EventArgs)
+CatLib.Application:Raise<CatLib.StartCompletedEventArgs> (CatLib.StartCompletedEventArgs)
+CatLib.Application:Init ()
+CatLib.Editor.EditorFramework:ApplyEditorApplication () (at Assets/Catlib/Editor/EditorFramework.cs:91)
+CatLib.Editor.EditorFramework:.cctor () (at Assets/Catlib/Editor/EditorFramework.cs:37)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+(Filename: Assets/Catlib/Demo/Editor/EditorMain.cs Line: 27)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  3.958 seconds
+Domain Reload Profiling:
+	ReloadAssembly (3959ms)
+		BeginReloadAssembly (157ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (79ms)
+		EndReloadAssembly (3735ms)
+			LoadAssemblies (119ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (697ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (52ms)
+			SetupLoadedEditorAssemblies (2650ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (108ms)
+				ProcessInitializeOnLoadAttributes (2429ms)
+				ProcessInitializeOnLoadMethodAttributes (102ms)
+				AfterProcessingInitializeOnLoad (3ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 1.23 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3762 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 182.3 MB.
+System memory in use after: 182.6 MB.
+
+Unloading 45 unused Assets to reduce memory usage. Loaded Objects now: 4361.
+Total: 42.668300 ms (FindLiveObjects: 0.330200 ms CreateObjectMapping: 0.255400 ms MarkObjects: 42.044100 ms  DeleteObjects: 0.037300 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
